@@ -1,0 +1,2 @@
+# bingo-oneword-domains
+List of bingo one word domain names with availability, expiration date, attractiveness, demand score.
