@@ -25,7 +25,7 @@ If you want to search & filters the complete database of [.BINGO one word domain
 | aaron.bingo      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.bingo  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.bingo      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.bingo  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.bingo  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.bingo    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.bingo     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.bingo   | available | 54       | 1%     | 8      |           |         |         |
@@ -34,7 +34,7 @@ If you want to search & filters the complete database of [.BINGO one word domain
 | abbatial.bingo   | available | 50       | 1%     | 8      |           |         |         |
 | abc.bingo        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.bingo  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.bingo  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.bingo  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.bingo | available | 56       | 1%     | 10     |           |         |         |
 | abducens.bingo   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.bingo   | available | 68       | 1%     | 8      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.BINGO one word domain
 | abenaki.bingo    | available | 82       | 3%     | 7      |           |         |         |
 | aberdonian.bingo | available | 68       | 1%     | 10     |           |         |         |
 | abeyant.bingo    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.bingo  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.bingo  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.bingo    | available | 106      | 5%     | 7      |           |         |         |
 | abient.bingo     | available | 54       | 1%     | 6      |           |         |         |
 | ability.bingo    | available | 92       | 18%    | 7      |           |         |         |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.BINGO one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
