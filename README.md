@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.BINGO one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.bingo        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.bingo        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.bingo      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.bingo  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.bingo      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.BINGO one word domain
 | abatic.bingo     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.bingo    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.bingo   | available | 50       | 1%     | 8      |           |         |         |
-| abc.bingo        | available | 102      | 41%    | 3      |           |         |         |
+| abc.bingo        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.bingo  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.bingo  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.bingo | available | 56       | 1%     | 10     |           |         |         |
