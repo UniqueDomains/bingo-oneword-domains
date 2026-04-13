@@ -66,7 +66,7 @@ print(df.head())
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | tesla.bingo   | available | $14.99    | —             | 86             | 61     | 5      | name.com                                                  |
 | car.bingo     | resell    | $68.98    | —             | 94             | 46     | 3      | OVH SAS                                                   |
-| free.bingo    | premium   | $500      | $500          | 88             | 59     | 4      | name.com                                                  |
+| free.bingo    | premium   | $500      | $500          | 88             | 57     | 4      | name.com                                                  |
 | zero.bingo    | available | $14.99    | $77.99        | 112            | 53     | 4      | name.com                                                  |
 | code.bingo    | resell    | —         | —             | 72             | 61     | 4      | NameCheap, Inc.                                           |
 | one.bingo     | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                                  |
