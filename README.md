@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bingo one-word domains from Uniqu
 
 **Public extract:** 9,609 rows · **Live catalog:** 9,609 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/bingo`  
 **Best for:** founders, investors, studios
 
@@ -80,10 +80,10 @@ print(df.head())
 | search.bingo  | resell    | —         | —             | 70             | 57     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 | travel.bingo  | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
 | genius.bingo  | available | $14.99    | $77.99        | 98             | 45     | 6      | name.com                                                  |
-| alpha.bingo   | resell    | —         | —             | 90             | 54     | 5      | Dynadot Inc                                               |
+| music.bingo   | resell    | —         | —             | 84             | 54     | 5      | GoDaddy.com, LLC                                          |
 | gold.bingo    | premium   | $520      | $520          | 72             | 48     | 4      | namecheap                                                 |
 | creator.bingo | available | $14.99    | $77.99        | 70             | 45     | 7      | name.com                                                  |
-| music.bingo   | resell    | —         | —             | 84             | 54     | 5      | GoDaddy.com, LLC                                          |
+| bot.bingo     | resell    | —         | —             | 98             | 53     | 3      | Porkbun LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
