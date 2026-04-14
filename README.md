@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .bingo one-word domains from Uniqu
 
 **Public extract:** 9,609 rows · **Live catalog:** 9,609 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-14  
 **Canonical page:** `https://unique.domains/domains/tld/bingo`  
 **Best for:** founders, investors, studios
 
@@ -70,15 +70,15 @@ print(df.head())
 | zero.bingo    | available | $14.99    | $77.99        | 112            | 53     | 4      | name.com                                                  |
 | code.bingo    | resell    | —         | —             | 72             | 61     | 4      | NameCheap, Inc.                                           |
 | one.bingo     | premium   | $500      | $500          | 132            | 50     | 3      | name.com                                                  |
-| simple.bingo  | available | $14.99    | $77.99        | 128            | 48     | 6      | name.com                                                  |
+| simple.bingo  | available | $14.99    | $77.99        | 128            | 49     | 6      | name.com                                                  |
 | pay.bingo     | resell    | —         | —             | 84             | 60     | 3      | Sav.com, LLC                                              |
-| digital.bingo | premium   | $123.75   | $123.75       | 100            | 50     | 7      | name.com                                                  |
+| digital.bingo | premium   | $123.75   | $123.75       | 100            | 49     | 7      | name.com                                                  |
 | only.bingo    | available | $14.99    | $77.99        | 110            | 46     | 4      | name.com                                                  |
 | sex.bingo     | resell    | —         | —             | 98             | 59     | 3      | Sav.com, LLC                                              |
-| real.bingo    | premium   | $520      | $520          | 78             | 49     | 4      | namecheap                                                 |
+| travel.bingo  | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
 | law.bingo     | available | $68.98    | —             | 82             | 46     | 3      | namecheap                                                 |
 | search.bingo  | resell    | —         | —             | 70             | 57     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| travel.bingo  | premium   | $520      | $520          | 115            | 48     | 6      | namecheap                                                 |
+| real.bingo    | premium   | $520      | $520          | 78             | 48     | 4      | namecheap                                                 |
 | genius.bingo  | available | $14.99    | $77.99        | 98             | 45     | 6      | name.com                                                  |
 | music.bingo   | resell    | —         | —             | 84             | 54     | 5      | GoDaddy.com, LLC                                          |
 | gold.bingo    | premium   | $520      | $520          | 72             | 48     | 4      | namecheap                                                 |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
