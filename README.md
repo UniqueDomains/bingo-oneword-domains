@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bingo one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,579 domains · **Median ask:** $20.58 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/bingo`  
 **Best for:** founders, investors, studios
 
@@ -71,8 +71,8 @@ print(df.head())
 | aliens.bingo       | available | $14.99    | —             | 56             | 35     | 6      | name.com  |
 | homes.bingo        | available | $14.99    | —             | 86             | 34     | 5      | name.com  |
 | spectra.bingo      | available | $14.99    | —             | 62             | 34     | 7      | name.com  |
-| partners.bingo     | available | $14.99    | —             | 61             | 32     | 8      | name.com  |
 | William.bingo      | available | $68.98    | —             | 74             | 31     | 7      | namecheap |
+| partners.bingo     | available | $14.99    | —             | 61             | 31     | 8      | name.com  |
 | solutions.bingo    | available | $14.99    | —             | 56             | 31     | 9      | name.com  |
 | videos.bingo       | available | $14.99    | —             | 52             | 30     | 6      | name.com  |
 | heroes.bingo       | available | $14.99    | —             | 68             | 29     | 6      | name.com  |
@@ -80,9 +80,9 @@ print(df.head())
 | Jim.bingo          | available | $68.98    | —             | 78             | 28     | 3      | namecheap |
 | doctors.bingo      | available | $14.99    | —             | 56             | 26     | 7      | name.com  |
 | schools.bingo      | available | $14.99    | —             | 72             | 24     | 7      | name.com  |
+| inhouse.bingo      | available | $14.99    | —             | 70             | 24     | 8      | name.com  |
 | boats.bingo        | available | $14.99    | —             | 52             | 24     | 5      | name.com  |
 | deeplearning.bingo | available | $14.99    | —             | 74             | 23     | 13     | name.com  |
-| inhouse.bingo      | available | $14.99    | —             | 70             | 23     | 8      | name.com  |
 | pls.bingo          | available | $14.99    | —             | 60             | 23     | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
