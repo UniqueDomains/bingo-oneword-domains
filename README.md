@@ -1,10 +1,10 @@
-# Available .BINGO One-Word Domains (12,579)
+# Available .BINGO One-Word Domains (12,582)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C579%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C582%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .bingo one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,579 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,582 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,579 domains · **Median ask:** $17.27 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,582 domains · **Median ask:** $16.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/bingo`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/tld/bingo`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .BINGO one-word domain
 
 ### Files
 
-- `bingo.csv` — public CSV extract (1,000 rows)
-- `bingo.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `bingo.csv`, public CSV extract (1,000 rows)
+- `bingo.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| better.bingo    | available | $14.99    | —             | 110            | 56     | 6      | name.com        |
-| drive.bingo     | resell    | —         | —             | 100            | 38     | 5      | NameCheap, Inc. |
-| local.bingo     | premium   | $500      | —             | 102            | 53     | 5      | name.com        |
-| daniel.bingo    | available | $14.99    | —             | 76             | 50     | 6      | name.com        |
-| mega.bingo      | premium   | $500      | —             | 74             | 43     | 4      | name.com        |
-| dragon.bingo    | available | $14.99    | —             | 78             | 49     | 6      | name.com        |
-| star.bingo      | premium   | $123.75   | $123.75       | 86             | 42     | 4      | name.com        |
-| void.bingo      | available | $14.99    | —             | 112            | 47     | 4      | name.com        |
-| party.bingo     | premium   | $242      | $242          | 118            | 37     | 5      | namesilo        |
-| momentum.bingo  | available | $14.99    | —             | 74             | 47     | 8      | name.com        |
-| ecommerce.bingo | premium   | $118.80   | $118.80       | 78             | 34     | 10     | namesilo        |
-| bolt.bingo      | available | $14.99    | —             | 66             | 47     | 4      | name.com        |
-| quality.bingo   | premium   | $118.80   | $118.80       | 92             | 33     | 7      | namesilo        |
-| strategy.bingo  | available | $14.99    | —             | 74             | 46     | 8      | name.com        |
-| america.bingo   | premium   | $118.80   | $118.80       | 72             | 32     | 7      | namesilo        |
-| discord.bingo   | available | $14.99    | —             | 80             | 45     | 7      | name.com        |
-| corporate.bingo | premium   | $118.80   | $118.80       | 90             | 31     | 9      | namesilo        |
-| image.bingo     | available | $14.99    | —             | 100            | 44     | 5      | name.com        |
-| bachelor.bingo  | premium   | $118.80   | $118.80       | 78             | 13     | 8      | namesilo        |
-| cube.bingo      | available | $14.99    | —             | 92             | 44     | 4      | name.com        |
+| ash.bingo       | available | $14.99    | —             | medium         | low    | 3      | name.com        |
+| drive.bingo     | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
+| mega.bingo      | premium   | $500      | —             | high           | medium | 4      | name.com        |
+| bid.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| star.bingo      | premium   | $123.75   | $123.75       | high           | medium | 4      | name.com        |
+| bug.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| local.bingo     | premium   | $500      | —             | high           | medium | 5      | name.com        |
+| CNN.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| party.bingo     | premium   | $242      | $242          | high           | low    | 5      | namesilo        |
+| cxx.bingo       | available | $14.99    | $77.99        | low            | low    | 3      | name.com        |
+| america.bingo   | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo        |
+| don.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| quality.bingo   | premium   | $118.80   | $118.80       | high           | low    | 7      | namesilo        |
+| fly.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| bachelor.bingo  | premium   | $118.80   | $118.80       | high           | low    | 8      | namesilo        |
+| him.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| corporate.bingo | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo        |
+| how.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
+| ecommerce.bingo | premium   | $118.80   | $118.80       | high           | low    | 10     | namesilo        |
+| ixl.bingo       | available | $14.99    | $77.99        | low            | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,579 live domains                        |
+| 1,000-row public sample | 12,582 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .bingo domains. The naming mix is wide: some are short and flexible, such as usual.bingo or pilot.bingo, while others are longer and more specific, such as nationalanthem.bingo. For founders, the key question is whether the word still feels memorable and ownable when paired with .bingo. For investors, the main test is whether the term has enough clarity and commercial relevance to support resale interest at the current ask. Median ask is 20.58, so comparison should focus less on headline price and more on word quality, fit with the .bingo extension, and obvious trademark risk in names like disney.bingo.
+This list groups one-word .bingo domain names by price, demand, and availability. Nearly all entries sit under $500, with a median ask around $17, making the category low-cost to enter. Demand scores are mostly low, with a small top tier (8 domains) scoring in the top 15% for buyer interest — useful signal when comparing options within this set.
 
-- All names in this selection use the .bingo extension
-- Median ask across the set is 20.58
-- Best fits are clear words that pair naturally with .bingo
-- Avoid obvious trademark exposure such as brand-linked terms
+- 12,582 .bingo domains, 12,492 available now
+- Median ask ~$17; most priced under $500
+- 506 TLD variations tracked alongside .bingo
+- 8 domains rank in the top 15% for demand
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
