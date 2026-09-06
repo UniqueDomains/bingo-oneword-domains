@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .bingo one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,675 domains · **Median ask:** $17.70 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/bingo`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| quiet.bingo     | available | $14.99    | —             | high           | low    | 5      | name.com        |
+| away.bingo      | available | $14.99    | —             | high           | low    | 4      | name.com        |
 | ash.bingo       | available | $14.99    | —             | medium         | low    | 3      | name.com        |
 | drive.bingo     | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc. |
 | mega.bingo      | premium   | $500      | —             | high           | medium | 4      | name.com        |
@@ -82,8 +84,6 @@ print(df.head())
 | him.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
 | corporate.bingo | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo        |
 | how.bingo       | available | $14.99    | —             | high           | low    | 3      | name.com        |
-| ecommerce.bingo | premium   | $118.80   | $118.80       | high           | low    | 10     | namesilo        |
-| ixl.bingo       | available | $14.99    | $77.99        | low            | low    | 3      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .BINGO One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
