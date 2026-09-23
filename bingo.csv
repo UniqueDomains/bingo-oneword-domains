@@ -22,7 +22,7 @@ d356edce-9f55-4985-af40-7d08681092b6,kiev.bingo,available,14.99,,high,low,4,name
 f8508d9e-8a56-4460-a5ff-f182f0cfb34a,attenuated.bingo,available,14.99,77.99,low,low,10,name.com,,,07/08/2026 15:27
 75e962c4-7cdd-445b-9b3b-9e4dbacc2da3,ford.bingo,available,,,high,low,4,,,,
 435f6d9b-6467-4783-8dd3-89301677e117,grip.bingo,available,14.99,,high,low,4,name.com,,,
-54b882d2-d58d-4765-893f-c64a4cc274e0,abundantly.bingo,available,14.99,,medium,low,10,name.com,,,
+54b882d2-d58d-4765-893f-c64a4cc274e0,abundantly.bingo,available,14.99,,low,low,10,name.com,,,
 e2357d9a-4e11-412c-abad-a927e3405045,americanenglish.bingo,available,14.99,,high,low,16,name.com,,,
 706a7338-0633-4120-b254-8a3b1d0263bc,toothenamel.bingo,available,14.99,,low,low,12,name.com,,,
 a8750508-1098-4880-821b-62d6d24e2ea3,entertain.bingo,available,14.99,,high,low,9,name.com,,,
@@ -33,7 +33,7 @@ dfad5c8b-ade6-4088-96bb-6e747c9b35f8,adsorbate.bingo,available,14.99,77.99,low,l
 c9d1eb10-31cc-418e-b96b-9773d254c1c0,prominently.bingo,available,14.99,,medium,low,11,name.com,,,
 e66ce82b-3be2-4b9a-9a3b-a3e20c46924d,scratched.bingo,available,14.99,,medium,low,9,name.com,,,
 8a467538-1e1b-4ee0-a615-5ef43c1d5626,beefy.bingo,available,14.99,77.99,low,low,5,name.com,,,09/08/2026 07:49
-8cdd0064-9c33-4bd1-94c4-b3d7f93c3371,cross.bingo,available,14.99,,high,low,5,name.com,,,
+8cdd0064-9c33-4bd1-94c4-b3d7f93c3371,cross.bingo,available,53.99,53.99,low,low,5,namesilo,,,22/09/2026 16:13
 185bad49-ca0a-4d73-a615-ede85137c6cd,wandering.bingo,available,14.99,,high,low,9,name.com,,,
 b1575f8b-7a89-4a35-ac2b-eb449cb85952,aggregated.bingo,available,14.99,77.99,low,low,10,name.com,,,
 d309287d-36d9-4c14-a9de-1a2dc386ad83,archaistic.bingo,available,14.99,77.99,low,low,10,name.com,,,06/08/2026 15:21
@@ -43,11 +43,11 @@ d309287d-36d9-4c14-a9de-1a2dc386ad83,archaistic.bingo,available,14.99,77.99,low,
 a309a16d-3069-4790-aa78-4be74dc99658,died.bingo,available,14.99,,medium,low,4,name.com,,,
 0fea44e9-657e-44d9-a65f-7890ae49e54a,image.bingo,available,53.99,53.99,medium,low,5,namesilo,,,19/09/2026 12:04
 b34d15c4-1411-40b3-a246-db7ae85fefc2,publicized.bingo,available,14.99,,medium,low,10,name.com,,,
-b5be8f4b-2a83-4882-81ce-b3a0a90c6d28,decorated.bingo,available,14.99,77.99,medium,low,9,name.com,,,
+b5be8f4b-2a83-4882-81ce-b3a0a90c6d28,decorated.bingo,available,53.99,53.99,low,low,9,namesilo,,,21/09/2026 19:45
 a653d5f4-6e08-49e8-b61c-fce649935350,season.bingo,available,14.99,,high,low,6,name.com,,,
 facc2d63-e9f2-4576-808a-1f753bf115cc,allomerous.bingo,available,14.99,77.99,low,low,10,name.com,,,
 eab1034c-1aaa-448c-9bae-a495beabc8fc,numbers.bingo,available,14.99,,high,low,7,name.com,,,
-e808e9bb-a7f1-4230-893c-e8914cf622dd,away.bingo,available,14.99,,high,low,4,name.com,,,
+e808e9bb-a7f1-4230-893c-e8914cf622dd,away.bingo,available,51.98,68.98,medium,low,4,namecheap,,,22/09/2026 14:52
 7c9de784-3cf6-4900-a1d6-73d1dc5e2916,furious.bingo,available,14.99,77.99,low,low,7,name.com,,,
 33c6c0ee-e39e-4dbc-bd29-0e171928a9b4,instal.bingo,available,14.99,,high,low,6,name.com,,,
 d3dca079-8cf0-4d1c-90d2-3c34b21f024d,azotic.bingo,available,14.99,77.99,low,low,6,name.com,,,08/08/2026 02:53
@@ -60,7 +60,7 @@ ad95f484-a87d-4d52-8515-10af7e53af9d,provision.bingo,available,14.99,,high,low,9
 0c0be575-cd5d-487f-9b43-e380d3496710,intelligent.bingo,available,14.99,,high,low,11,name.com,,,
 737c8538-9d78-4adb-9253-2f25258acd85,acetabular.bingo,available,14.99,77.99,low,low,10,name.com,,,
 765d9737-8fec-4f94-b818-1e261371ee65,providence.bingo,available,14.99,,high,low,10,name.com,,,
-0a3ab22d-a567-45af-b4b0-ec269bbbe6e6,eternal.bingo,available,14.99,77.99,high,medium,7,name.com,,,
+0a3ab22d-a567-45af-b4b0-ec269bbbe6e6,eternal.bingo,available,53.99,53.99,medium,low,7,namesilo,,,21/09/2026 22:47
 6d607980-e443-4bf4-a02e-5b1b47866408,pricelist.bingo,available,14.99,,medium,low,10,name.com,,,
 26663f75-f14f-4e1c-9e4a-b1a09b2d5d11,noreally.bingo,available,14.99,,high,low,9,name.com,,,
 a81b9b7d-e385-4ac3-80ad-fec2c11f110a,southamerican.bingo,available,14.99,,low,low,14,name.com,,,
@@ -86,7 +86,7 @@ eafe28a9-e1eb-42ad-a967-9344fcd60b3d,tracked.bingo,available,14.99,,medium,low,7
 23581938-9ab4-481f-9670-704b47c67b9a,bestfriend.bingo,available,14.99,,high,low,11,name.com,,,
 79689e97-43cc-42b5-b6b0-20c78ada56cc,roads.bingo,available,14.99,,high,low,5,name.com,,,
 03ff5520-8db5-4d07-8225-28be2686421b,saucer.bingo,available,14.99,,high,low,6,name.com,,,
-0ea1f1e9-c8ca-4f2e-8895-7ddad0c89a06,better.bingo,available,14.99,,high,medium,6,name.com,,,
+0ea1f1e9-c8ca-4f2e-8895-7ddad0c89a06,better.bingo,available,51.98,68.98,medium,low,6,namecheap,,,22/09/2026 20:11
 31131fc9-c4e6-4a9f-9427-fef1ec8da4bb,smoking.bingo,available,14.99,,high,low,7,name.com,,,
 37dd2c3a-caaa-42be-bbc2-def2686958d3,redsquare.bingo,available,14.99,,low,low,10,name.com,,,
 7eb5acbb-f72f-4995-b296-92038ed197a5,supra.bingo,available,14.99,77.99,medium,low,5,name.com,,,
@@ -94,10 +94,10 @@ eafe28a9-e1eb-42ad-a967-9344fcd60b3d,tracked.bingo,available,14.99,,medium,low,7
 7efa6b3d-a794-47a1-975d-c5c1cfb4ad64,havethelastlaugh.bingo,available,14.99,,high,low,19,name.com,,,
 b84095b2-dd66-4a10-9164-c0ce7f744ef8,childneglect.bingo,available,14.99,,medium,low,13,name.com,,,
 8b9d1c50-5d2d-4342-babf-bb25e43da03b,pointless.bingo,available,14.99,,medium,low,9,name.com,,,
-58f73998-23d5-436e-827a-da7c4fc0ac73,boundary.bingo,available,14.99,,medium,low,8,name.com,,,
+58f73998-23d5-436e-827a-da7c4fc0ac73,boundary.bingo,available,51.98,68.98,low,low,8,namecheap,,,23/09/2026 01:32
 605db5f8-9074-48d4-a540-5cd847d0c10d,seize.bingo,available,14.99,77.99,medium,low,5,name.com,,,
 f78b389f-09e0-494a-9fcb-6d2220696b89,quality.bingo,premium,118.8,118.8,high,low,7,namesilo,,,
-7d064469-6d61-4648-9d6e-bfb1b78d95e5,proclaimed.bingo,available,14.99,,medium,low,10,name.com,,,
+7d064469-6d61-4648-9d6e-bfb1b78d95e5,proclaimed.bingo,available,51.98,68.98,low,low,10,namecheap,,,22/09/2026 05:13
 d04f4076-49b4-447e-b553-6340eb777390,livid.bingo,available,14.99,77.99,low,low,5,name.com,,,07/08/2026 02:24
 a113ea4f-2349-47b4-ad6c-3b0a4a01d95a,fixitagaintony.bingo,available,14.99,,medium,low,17,name.com,,,
 b2109d4b-2337-445e-8f66-4ef477d9a7b9,autumnal.bingo,available,14.99,77.99,low,low,8,name.com,,,07/08/2026 21:23
@@ -129,7 +129,7 @@ d0ead90a-09f7-4e7c-9a7a-10cb43eb1db6,follow.bingo,available,14.99,,high,low,6,na
 7c18d556-60ab-43c9-9284-a7dfd1caf015,urge.bingo,available,14.99,,high,low,4,name.com,,,
 c5c01108-3b75-4368-898c-f59629de6934,noseabout.bingo,available,14.99,,low,low,10,name.com,,,
 e5c052c8-a0ce-4160-8e6f-eb8979a674e6,diminishing.bingo,available,14.99,,high,low,11,name.com,,,
-3f9b9db5-a224-4b47-8879-0fd28c36f5c0,panoramic.bingo,available,14.99,,high,low,9,name.com,,,
+3f9b9db5-a224-4b47-8879-0fd28c36f5c0,panoramic.bingo,available,51.98,68.98,medium,low,9,namecheap,,,22/09/2026 21:06
 5bdb64e5-dcee-4696-b37b-86c0b03d1404,maintain.bingo,available,14.99,,high,low,8,name.com,,,
 f90ca6ca-8b61-405f-95c1-4d8824cebae7,pyjamaparty.bingo,available,14.99,,high,low,12,name.com,,,
 689eb217-1f9d-464d-bdbb-9084427dd4a7,adjuvant.bingo,available,14.99,77.99,low,low,8,name.com,,,
@@ -156,7 +156,7 @@ e341d58e-623d-4693-977a-0df3a23d03c3,contented.bingo,available,14.99,77.99,high,
 190cd36d-ec67-4f3b-8795-bb9bac41e43b,atavistic.bingo,available,14.99,77.99,low,low,9,name.com,,,07/08/2026 12:55
 38a5015c-d8c3-4983-a339-36fd93c1402e,known.bingo,available,14.99,,high,low,5,name.com,,,
 b35f42d9-eabb-404c-8975-a6e121a78d74,irons.bingo,available,14.99,,medium,low,5,name.com,,,
-77fd2340-b57f-4b72-a9c0-17de28926b5a,amenable.bingo,available,14.99,,medium,low,8,name.com,,,
+77fd2340-b57f-4b72-a9c0-17de28926b5a,amenable.bingo,available,53.99,53.99,low,low,8,namesilo,,,22/09/2026 04:02
 54449059-d2b6-466d-ac94-830f4dc56bc6,arboriform.bingo,available,14.99,77.99,low,low,10,name.com,,,06/08/2026 13:39
 1c562596-4a45-4554-9524-9b4695da1ccf,strapping.bingo,available,14.99,77.99,low,low,9,name.com,,,09/08/2026 08:02
 206c5c36-f063-46e7-b1a1-81cc1015d82e,affectionate.bingo,available,14.99,,high,low,12,name.com,,,
@@ -164,7 +164,7 @@ b35f42d9-eabb-404c-8975-a6e121a78d74,irons.bingo,available,14.99,,medium,low,5,n
 950e85cc-fd6a-40b1-8ebb-1ead4aa8df63,dirty.bingo,available,14.99,77.99,high,low,5,name.com,,,
 65045f36-8e5b-4199-b02a-4cb373e90c16,consuming.bingo,available,14.99,77.99,high,low,9,name.com,,,
 a378a4e0-f8d6-418c-b3bd-5e97e996347d,nomatter.bingo,available,14.99,,medium,low,9,name.com,,,
-33a4d442-6283-4264-bb67-1b94df0fc54f,anticancer.bingo,available,14.99,,high,low,10,name.com,,,
+33a4d442-6283-4264-bb67-1b94df0fc54f,anticancer.bingo,available,53.99,53.99,medium,low,10,namesilo,,,22/09/2026 06:38
 00120fd4-12ce-47b9-95b1-4252578d2817,backpack.bingo,available,14.99,,high,low,8,name.com,,,
 891e3cb6-0f57-499d-a710-1bd84973df7c,figure.bingo,available,14.99,,high,low,6,name.com,,,
 c9835d98-ed4d-4e3f-9556-542abeea7284,mention.bingo,available,14.99,,high,low,7,name.com,,,
@@ -184,8 +184,8 @@ fd9e1b53-3ab4-4a57-893c-4db17b89c544,induce.bingo,available,14.99,,high,low,6,na
 eb88840b-0079-4a1b-8bc5-75c688302cd2,victim.bingo,available,14.99,,medium,low,6,name.com,,,
 117ba994-7755-4177-bd63-27c1c55ef601,afrikaans.bingo,available,14.99,77.99,low,low,9,name.com,,,
 2001c9d2-16dd-4f83-bb55-fb4f6f63f832,lucent.bingo,available,14.99,77.99,low,low,6,name.com,,,
-ec33e3a2-1443-40f4-8bae-c620d125a12c,windy.bingo,available,14.99,,high,low,5,name.com,,,
-3b5ff5ed-0a6c-4814-b222-ccf1697be9d9,mad.bingo,available,14.99,,medium,medium,3,name.com,,,
+ec33e3a2-1443-40f4-8bae-c620d125a12c,windy.bingo,available,53.99,53.99,medium,low,5,namesilo,,,22/09/2026 22:44
+3b5ff5ed-0a6c-4814-b222-ccf1697be9d9,mad.bingo,available,53.99,53.99,low,low,3,namesilo,,,23/09/2026 02:06
 825d4338-f7ae-45a0-bdd3-eedc99611ca3,northamerican.bingo,available,14.99,,low,low,14,name.com,,,
 164bf8e1-c2fa-426f-8ebd-eb50c226a5e6,cocksucker.bingo,available,14.99,77.99,low,low,10,name.com,,,08/08/2026 23:29
 9e5135c5-f122-444e-bbd5-b079efa491c8,intended.bingo,available,14.99,,high,low,8,name.com,,,
@@ -195,8 +195,8 @@ ec33e3a2-1443-40f4-8bae-c620d125a12c,windy.bingo,available,14.99,,high,low,5,nam
 7772b986-e340-42b9-a3b6-600807510471,allmetal.bingo,available,14.99,77.99,low,low,9,name.com,,,
 8a27397b-16c4-4c61-a76a-a000f41a07c0,culture.bingo,available,53.99,53.99,medium,low,7,namesilo,,,21/09/2026 02:02
 150c15e5-83ff-4d0c-a838-574f8a077275,generalgoods.bingo,available,14.99,,medium,low,13,name.com,,,
-c82ac708-0a93-47cd-a227-25e292c52c91,fullscale.bingo,available,14.99,77.99,high,low,10,name.com,,,
-373ebd39-85c1-47e6-96c7-d43fc0b06772,affluent.bingo,available,14.99,77.99,high,low,8,name.com,,,
+c82ac708-0a93-47cd-a227-25e292c52c91,fullscale.bingo,available,53.99,53.99,medium,low,10,namesilo,,,22/09/2026 00:50
+373ebd39-85c1-47e6-96c7-d43fc0b06772,affluent.bingo,available,53.99,53.99,medium,low,8,namesilo,,,21/09/2026 21:54
 ba013dee-292a-45c8-9bda-e804f2205584,gave.bingo,available,14.99,,medium,low,4,name.com,,,
 d03d2e1b-9fc6-4162-a9e3-820c736cfc12,joking.bingo,available,14.99,,high,low,6,name.com,,,
 9177bb6d-5699-4ca9-a0ba-733b49e23406,unioncity.bingo,available,14.99,,low,low,10,name.com,,,
@@ -213,7 +213,7 @@ b444a6a8-8c88-4239-8e8d-c2bfbac8d915,lvi.bingo,available,14.99,77.99,low,low,3,n
 2ad9fc55-fd79-4730-a0dc-440dfac220ce,heckno.bingo,available,14.99,,high,low,7,name.com,,,
 6e02d352-7084-472c-a930-2b8896048879,review.bingo,available,14.99,,high,medium,6,name.com,,,
 c99a0345-f76f-4884-8990-0c336073c2e8,response.bingo,available,14.99,,high,low,8,name.com,,,
-3cb0207b-d869-4e5a-a15d-c6389b1a8a51,adequate.bingo,available,14.99,77.99,high,low,8,name.com,,,
+3cb0207b-d869-4e5a-a15d-c6389b1a8a51,adequate.bingo,available,51.98,68.98,medium,low,8,namecheap,,,21/09/2026 18:22
 32d20a4f-5d11-45c0-8b5f-dfa084b48fa8,aliphatic.bingo,available,14.99,77.99,low,low,9,name.com,,,
 93acea78-9916-4a33-9f7b-04b084d80acf,communist.bingo,available,14.99,77.99,high,low,9,name.com,,,
 f3af687f-1bcd-4968-9906-ce64e7f2c9bd,lifelesson.bingo,available,14.99,,high,low,11,name.com,,,
@@ -250,7 +250,7 @@ ec77d124-9cdd-4668-8a69-d388820e8dfe,depend.bingo,available,14.99,,high,low,6,na
 9005cb07-0e55-4b3f-a8db-df8b011417b7,amoeban.bingo,available,14.99,77.99,low,low,7,name.com,,,
 ed5a9fd8-9f03-4e82-bd04-596c7e0f05dc,void.bingo,available,14.99,,high,medium,4,name.com,,,
 83d3e0b8-38f4-4183-8664-d385911e2e8c,balding.bingo,available,14.99,77.99,low,low,7,name.com,,,08/08/2026 09:35
-9b84d246-6430-4ccb-b7aa-ce374228b221,prejudice.bingo,available,14.99,,high,low,9,name.com,,,
+9b84d246-6430-4ccb-b7aa-ce374228b221,prejudice.bingo,available,51.98,68.98,low,low,9,namecheap,,,22/09/2026 20:16
 080e49e4-a180-467f-9293-d595d8419549,nonsexual.bingo,available,14.99,77.99,low,low,9,name.com,,,07/08/2026 01:38
 db508661-fe87-4779-8528-9229235d6449,clinically.bingo,available,14.99,,medium,low,10,name.com,,,
 c0c2b7d6-7204-4c02-86dc-305e0d8d76f0,comely.bingo,available,14.99,77.99,low,low,6,name.com,,,09/08/2026 06:13
@@ -260,7 +260,7 @@ aa8ee53b-b1ba-4ea2-b9bb-a688144e2203,westhill.bingo,available,14.99,,low,low,9,n
 29cfa9e7-de6e-4f65-a316-0db1d028c411,pony.bingo,available,14.99,,high,low,4,name.com,,,
 37b96075-d3a1-4580-a2a7-11db5eba46db,salt.bingo,available,14.99,,high,low,4,name.com,,,
 6d0f7649-0744-4535-ac01-fc661f74a54c,mao.bingo,available,14.99,,medium,low,3,name.com,,,
-1eb1a64f-fe32-4d84-87dd-99170e3838a8,brandnew.bingo,available,14.99,,high,low,9,name.com,,,
+1eb1a64f-fe32-4d84-87dd-99170e3838a8,brandnew.bingo,available,53.99,53.99,medium,low,9,namesilo,,,23/09/2026 02:16
 f22e7f50-2249-4c75-9b3f-e95e0155ed6e,evitable.bingo,available,14.99,77.99,low,low,8,name.com,,,07/08/2026 22:45
 3a6222ff-bd7e-441c-810f-2c24de6b1cca,typical.bingo,available,14.99,77.99,high,low,7,name.com,,,
 4a601ec6-3fe0-4b42-b60d-f086ae87f095,well.bingo,available,14.99,,high,low,4,name.com,,,
@@ -272,7 +272,6 @@ da82cde7-e14f-4ccf-9bff-e3920a8e8d55,bathe.bingo,available,14.99,,high,low,5,nam
 b3f8a872-f96c-4502-9d2c-7b438567518e,givethanks.bingo,available,14.99,,medium,low,11,name.com,,,
 905a392d-ceb8-4f18-81fe-47cf1e688424,cinnamon.bingo,available,14.99,,medium,low,8,name.com,,,
 3f7e4275-5bc8-477b-bcc3-391349979551,mastercard.bingo,available,,,high,low,10,,,,
-87f48245-5169-4241-94cc-caf235e8258c,ace.bingo,available,,,high,medium,3,,,,
 9ce8a373-1f97-4e08-b981-a606996587ea,pivot.bingo,available,14.99,,high,low,5,name.com,,,
 77228605-fe34-428b-8b4a-25493310078f,adam.bingo,available,,,medium,low,4,,,,
 1019bbf0-5b0d-497b-8a89-fa4a99345d1d,tossout.bingo,available,14.99,,medium,low,8,name.com,,,
@@ -289,7 +288,7 @@ aee262ba-0f33-46d8-8fb4-6530f7a4b4c7,terzetto.bingo,available,14.99,77.99,low,lo
 9419290f-112c-45b3-9b37-e14e16401278,acarpous.bingo,available,14.99,77.99,low,low,8,name.com,,,
 18bb30ff-d0a4-4794-b960-45ed310fe269,squint.bingo,available,14.99,77.99,low,low,6,name.com,,,07/08/2026 03:15
 5950516a-6192-4d79-b6a0-ad84414a4480,generalstudies.bingo,available,14.99,,high,low,15,name.com,,,
-901b50ea-d095-4ad5-a6d4-2b8396bfbaac,roughly.bingo,available,14.99,77.99,medium,low,7,name.com,,,
+901b50ea-d095-4ad5-a6d4-2b8396bfbaac,roughly.bingo,available,53.99,53.99,low,low,7,namesilo,,,21/09/2026 14:14
 2aa23684-e3bf-432b-9a2c-a980a68f8b1d,putinaword.bingo,available,14.99,,low,low,13,name.com,,,
 1cb25466-3b2f-407e-95dd-6d205cb7e260,adenoid.bingo,available,14.99,77.99,low,low,7,name.com,,,
 eaf71509-dcd4-47d4-86e0-2645c2b82a0e,outing.bingo,available,14.99,,high,low,6,name.com,,,
@@ -316,7 +315,7 @@ de36b835-aa70-4f91-89d2-398748d05f9c,appalling.bingo,available,14.99,77.99,low,l
 ea2813ce-0701-41c9-a21b-580a08ea935f,pointout.bingo,available,14.99,,low,low,9,name.com,,,
 8f4d3c14-ac7d-4084-8399-398f4b5a6d9e,both.bingo,available,14.99,,high,low,4,name.com,,,
 d7abbee5-d242-4771-8b20-c4c875398726,bachelor.bingo,premium,118.8,118.8,high,low,8,namesilo,,,
-1ecdff88-2243-4366-b4a3-2ecb593d6eff,beast.bingo,available,14.99,,medium,low,5,name.com,,,
+1ecdff88-2243-4366-b4a3-2ecb593d6eff,beast.bingo,available,53.99,53.99,low,low,5,namesilo,,,22/09/2026 04:42
 98575d9a-463f-4280-8a1d-799ca2ae45b0,goodbye.bingo,available,51.98,68.98,medium,low,8,namecheap,,,08/09/2026 03:25
 1b669f50-2753-4a78-8247-b48f881a6ee3,refundable.bingo,available,14.99,,high,low,10,name.com,,,
 1181b554-ee56-46d8-bca4-fe0adddfe4d2,standto.bingo,available,14.99,,low,low,8,name.com,,,
@@ -331,7 +330,7 @@ dc476574-c250-4f7a-a79d-df3b1a715a2b,inspiring.bingo,available,14.99,,high,low,9
 62c6b062-882e-42f4-9690-3e6b9235bdd3,royalblue.bingo,available,14.99,,high,low,10,name.com,,,
 e290f9be-6ca5-4fef-86b3-fe37abd906f4,candy.bingo,available,14.99,,high,low,5,name.com,,,
 7706124f-33f2-4da9-8f64-fa93ec0de24a,ixl.bingo,available,14.99,77.99,low,low,3,name.com,,,
-3efa8049-e057-4fbb-885a-db9704a97504,antitumor.bingo,available,14.99,,high,low,9,name.com,,,
+3efa8049-e057-4fbb-885a-db9704a97504,antitumor.bingo,available,51.98,68.98,medium,low,9,namecheap,,,22/09/2026 06:40
 0049ded0-4cc1-4926-be9d-c18aa44a68e0,acetose.bingo,available,14.99,77.99,low,low,7,name.com,,,
 39215ff6-d836-4dbf-b452-197fb9bddf5c,medals.bingo,available,14.99,,medium,low,6,name.com,,,
 a9187a4e-a740-47b4-9edc-95c0768056ef,liked.bingo,available,14.99,,high,low,5,name.com,,,
@@ -339,7 +338,7 @@ a9187a4e-a740-47b4-9edc-95c0768056ef,liked.bingo,available,14.99,,high,low,5,nam
 79411d10-c6d4-427c-a28d-586734d8495b,westcountry.bingo,available,14.99,,low,low,12,name.com,,,
 692c6d7d-efe8-4318-8d0a-2302223e4190,amebous.bingo,available,14.99,77.99,low,low,7,name.com,,,
 07ab806f-a9ae-4758-a5b5-60db770f52a2,ambagious.bingo,available,14.99,77.99,low,low,9,name.com,,,
-1d6d4098-212d-4933-a67b-5ffbea8fe91e,bedlinen.bingo,available,14.99,,high,low,9,name.com,,,
+1d6d4098-212d-4933-a67b-5ffbea8fe91e,bedlinen.bingo,available,51.98,68.98,low,low,9,namecheap,,,22/09/2026 22:56
 268078b0-a35b-4302-b5af-bd978dbf32ff,acerb.bingo,available,14.99,77.99,low,low,5,name.com,,,
 7a4c01ea-d388-4e08-9ed7-b264349985d9,clothingbin.bingo,available,14.99,,medium,low,12,name.com,,,
 d68326ce-0b65-49b7-abbc-ac30d5f33959,asofnow.bingo,available,14.99,,medium,low,9,name.com,,,
@@ -350,11 +349,12 @@ f0325c0c-e493-4be1-8951-93cbfff62d77,bid.bingo,available,14.99,,high,low,3,name.
 a4fb507e-deb9-41d0-b64e-4ba106697b69,adrift.bingo,available,14.99,77.99,low,low,6,name.com,,,
 8a5c2170-f607-4216-b105-2689142f1793,thanksalot.bingo,available,14.99,,medium,low,12,name.com,,,
 3ce8afe4-3200-44d8-b29f-1d3ff0d1b76a,handicap.bingo,available,14.99,77.99,high,low,8,name.com,,,
+f52e7210-6d7e-49ae-9503-9653b554fe6b,beat.bingo,available,51.98,68.98,medium,low,4,namecheap,,,22/09/2026 18:37
 df8e4bf1-81ab-45ca-9a5c-10b10a153e63,climate.bingo,available,14.99,,high,low,7,name.com,,,
 47df5287-3a36-46fb-b420-f0cf350aa756,local.bingo,premium,500,,high,medium,5,name.com,,,
 7e7b92d8-fb95-4bb3-af47-eac8e9822b73,actinal.bingo,available,14.99,77.99,low,low,7,name.com,,,
 19c79a1c-7c1b-4a24-97de-333b3ccdd5f6,tickledpink.bingo,available,14.99,,medium,low,12,name.com,,,
-0f17b629-5c84-4b03-ac43-266b84b34678,gripping.bingo,available,14.99,77.99,high,low,8,name.com,,,
+0f17b629-5c84-4b03-ac43-266b84b34678,gripping.bingo,available,53.99,53.99,medium,low,8,namesilo,,,21/09/2026 15:05
 7a0cbe67-1b56-42e4-b9f5-e9e4389add38,criticize.bingo,available,14.99,,medium,low,9,name.com,,,
 eaf58d04-5928-4253-9135-7c84d843dc49,acervate.bingo,available,14.99,77.99,low,low,8,name.com,,,
 2e514030-f5c4-4b2a-8966-c68ef1bbd79e,party.bingo,premium,242,242,medium,low,5,namesilo,,,19/09/2026 09:39
@@ -392,11 +392,11 @@ ffaba589-4139-4b15-810b-eaf32ed0571c,coffeemoney.bingo,available,14.99,,high,low
 9c4b148a-9e50-4dd2-9b99-e02464f8a5ad,secondary.bingo,available,14.99,,high,low,9,name.com,,,
 0d2fdc09-189d-4827-88a4-71bb19ab3e9d,successfully.bingo,available,14.99,,medium,low,12,name.com,,,
 4ad4c99c-30bf-4280-a3c3-bd187fa1a59e,telephonecall.bingo,available,14.99,,medium,low,14,name.com,,,
-76e75457-0751-4bcb-8aa8-be138f8a25ed,xiii.bingo,available,14.99,77.99,medium,low,4,name.com,,,
+76e75457-0751-4bcb-8aa8-be138f8a25ed,xiii.bingo,available,53.99,53.99,low,low,4,namesilo,,,21/09/2026 11:34
 483dfbe9-b99e-4138-9a7a-1b06b68f14d0,worker.bingo,available,14.99,,high,low,6,name.com,,,
 2fc721cc-3964-4cb2-9fa3-b071d1e2630b,gooddoctor.bingo,available,14.99,,high,low,11,name.com,,,
 3e7e3717-090b-4d4c-8742-4621454ae194,sunglass.bingo,available,14.99,,high,low,8,name.com,,,
-df08b7f3-8f02-4d5b-86ab-96397f608eae,remedial.bingo,available,14.99,77.99,high,low,8,name.com,,,
+df08b7f3-8f02-4d5b-86ab-96397f608eae,remedial.bingo,available,53.99,53.99,medium,low,8,namesilo,,,22/09/2026 02:24
 66caaf5c-db0a-4cbd-8002-66f5f8965eb2,kindof.bingo,available,14.99,,medium,low,7,name.com,,,
 f3f781fa-39c7-465a-a30f-e659e702ad3d,wash.bingo,available,14.99,,medium,low,4,name.com,,,
 6889fbe7-0233-4264-83e0-987d50457219,trader.bingo,available,14.99,,high,low,6,name.com,,,
@@ -419,7 +419,7 @@ edc9859a-c834-499f-bee4-6be907804455,planetarium.bingo,available,14.99,,medium,l
 a34096c9-8d76-460b-9ed6-8a8e50eb6600,trulyyours.bingo,available,14.99,,low,low,11,name.com,,,
 7e31a641-07d4-4d44-b886-153e97c9a155,testing.bingo,available,14.99,,high,low,7,name.com,,,
 fb3d2a83-1a9e-477a-9fc7-a31b8a5a62d3,playabout.bingo,available,14.99,,medium,low,10,name.com,,,
-d8023647-a1de-4436-befa-092bcdeeaa6b,rude.bingo,available,14.99,,medium,low,4,name.com,,,
+d8023647-a1de-4436-befa-092bcdeeaa6b,rude.bingo,available,53.99,53.99,low,low,4,namesilo,,,22/09/2026 16:12
 708b4fd6-8fcf-4ce2-8b91-4949aa5aeea5,excellent.bingo,available,14.99,,high,low,9,name.com,,,
 cce2bc98-b26d-4df1-9e12-247561035f87,avenged.bingo,available,14.99,77.99,low,low,7,name.com,,,07/08/2026 22:35
 0e940114-2183-47b9-a9a5-aa6267788ddb,lens.bingo,available,,,medium,low,4,,,,
@@ -427,7 +427,7 @@ e87205a0-5303-4638-a755-2ebff137f4b2,backhanded.bingo,available,14.99,77.99,low,
 8d9044d6-6233-46ad-ae67-e1395dbcfb98,arguement.bingo,available,14.99,,medium,low,9,name.com,,,
 3b400b70-0406-4d59-b951-c019f95e631b,bullish.bingo,available,14.99,,high,low,7,name.com,,,
 e903a3e6-d59a-4e4e-8531-6eef533b27e2,apologize.bingo,available,14.99,,high,low,9,name.com,,,
-ee92b3fa-b726-464f-a79a-12e888fc601a,allout.bingo,available,14.99,77.99,high,low,7,name.com,,,
+ee92b3fa-b726-464f-a79a-12e888fc601a,allout.bingo,available,51.98,68.98,medium,low,7,namecheap,,,22/09/2026 00:48
 70d11df7-6873-4130-917d-36c7c9f5f9ac,archaic.bingo,available,14.99,77.99,low,low,7,name.com,,,
 6ea96f54-61fc-423f-9702-d903761e9426,cows.bingo,available,14.99,,medium,low,4,name.com,,,
 d3c930b6-5021-425e-900f-2f4e2e8fd096,cockpit.bingo,available,14.99,,high,low,7,name.com,,,
@@ -437,7 +437,7 @@ ff3c06d3-3e84-4246-bf82-aeb02acb92f2,how.bingo,available,14.99,,high,low,3,name.
 bef5e70e-b690-492b-bc56-9fd915dcd254,detected.bingo,available,14.99,77.99,medium,low,8,name.com,,,
 05613b07-efd6-44f9-9e1e-4cb2a4cccf16,management.bingo,available,53.99,53.99,medium,low,10,namesilo,,,19/09/2026 14:24
 1f8a8109-159f-4889-9d1c-460f24ae9ef3,alkalizer.bingo,available,14.99,77.99,low,low,9,name.com,,,
-fcd12038-2016-4947-9722-3b57046a57d3,athletic.bingo,available,14.99,77.99,high,low,8,name.com,,,
+fcd12038-2016-4947-9722-3b57046a57d3,athletic.bingo,available,53.99,53.99,medium,low,8,namesilo,,,21/09/2026 16:12
 8a293ef7-8114-4d44-9f7b-f778f19e898f,raised.bingo,available,14.99,,high,low,6,name.com,,,
 f28a296d-2818-45ab-be02-b995ebd7fb22,retained.bingo,available,14.99,,medium,low,8,name.com,,,
 a102304c-379b-4863-9fea-f9d3fb7af905,description.bingo,available,14.99,,high,low,11,name.com,,,
@@ -445,7 +445,7 @@ a1bf4a76-fff1-4ba3-84fa-99f8da0e6f09,successful.bingo,available,14.99,,high,low,
 9d283d0d-ad2f-4d42-afba-ce1e1017614b,bemother.bingo,available,14.99,,low,low,9,name.com,,,
 964c8b99-7b27-40df-a96b-b533ce4e0487,fourth.bingo,available,14.99,77.99,low,low,6,name.com,,,
 49a57616-f053-47de-8943-0437effb814d,rushed.bingo,available,14.99,,medium,low,6,name.com,,,
-706e712c-f9b7-4078-bdd7-812009671b7c,sum.bingo,available,14.99,77.99,medium,low,3,name.com,,,
+706e712c-f9b7-4078-bdd7-812009671b7c,sum.bingo,available,53.99,53.99,low,low,3,namesilo,,,21/09/2026 22:52
 eb6d5bb0-719c-406e-9f4e-890df48e4a1f,teaplant.bingo,available,14.99,,high,low,9,name.com,,,
 2201e6c1-da0b-4dc5-bd06-47bd66068e17,production.bingo,available,51.98,68.98,medium,low,10,namecheap,,,19/09/2026 18:56
 b1d916ce-775e-435f-a1c1-a77d0da10a65,citylights.bingo,available,14.99,,medium,low,11,name.com,,,
@@ -454,8 +454,7 @@ fb1f6e2f-81ae-422b-920c-14a266e421ff,aortic.bingo,available,14.99,77.99,low,low,
 93782f72-a228-48f4-b35e-c4e3f2ee3634,flooring.bingo,available,14.99,,high,low,8,name.com,,,
 cb9fc35d-2b8b-4180-8b48-003d52cb51e0,analyst.bingo,available,14.99,,high,low,7,name.com,,,
 2d28f18f-ae84-4ab3-9854-97101852e539,diplomacy.bingo,available,14.99,,high,low,9,name.com,,,
-247e971d-4e23-4507-8214-6d5984e4d063,fantastic.bingo,available,,,high,high,9,,,,
-0b10c352-dde6-410a-a786-e1ad280f2c37,achiever.bingo,available,14.99,,high,low,8,name.com,,,
+0b10c352-dde6-410a-a786-e1ad280f2c37,achiever.bingo,available,14.99,,medium,low,8,name.com,,,
 273a465a-8ecc-4838-81da-bd3eaf577a31,created.bingo,available,14.99,,medium,low,7,name.com,,,
 0350849d-ae0d-4474-89e6-6574d7acca1e,speedlimit.bingo,available,14.99,,medium,low,11,name.com,,,
 6f4c72d0-8af8-4b0d-8541-50cc9d7783f1,getwrong.bingo,available,14.99,,medium,low,9,name.com,,,
@@ -481,7 +480,6 @@ e2d70c85-e568-4098-b930-aff99389b3c4,zestful.bingo,available,14.99,77.99,low,low
 7955d8e9-d896-43b0-91e4-16c764c345a6,extremely.bingo,available,14.99,,medium,low,9,name.com,,,
 a88bf3b6-8b51-4c9a-a58c-009519c2e138,intheabstract.bingo,available,14.99,,medium,low,15,name.com,,,
 447164a7-58f3-40ea-bcc3-82ea8065ccb4,pristine.bingo,available,14.99,,high,low,8,name.com,,,
-4b3acb59-a334-4250-bd9f-71980df6de4a,authentic.bingo,available,,,high,high,9,,,,
 4e8c1f1e-4ce1-43d2-9672-54e4248f9735,carribean.bingo,available,14.99,,high,low,9,name.com,,,
 a8a500ea-7d11-4843-a31a-ba01c80ac16a,punishing.bingo,available,14.99,77.99,low,low,9,name.com,,,06/08/2026 17:10
 a751b51d-5063-4d8a-a37a-19b60cd26f01,fairly.bingo,available,14.99,,medium,low,6,name.com,,,
@@ -509,7 +507,7 @@ e11a59a0-853a-4594-b8e8-dc2a30d667bd,setsail.bingo,available,14.99,,medium,low,8
 958a68d6-979e-4c3d-9649-532baf09efe0,gobad.bingo,available,14.99,,high,low,6,name.com,,,
 bf8e1c59-0d8c-4779-8b37-f8fc8fb4f1b7,sheorhe.bingo,available,14.99,,low,low,9,name.com,,,
 2d825340-4953-4167-aa12-a22762314a61,scatty.bingo,available,14.99,77.99,low,low,6,name.com,,,
-7c2fc422-2a86-4f2b-b7d1-d1e97362a881,augmented.bingo,available,14.99,,medium,low,9,name.com,,,
+7c2fc422-2a86-4f2b-b7d1-d1e97362a881,augmented.bingo,available,14.99,77.99,low,low,9,name.com,,,22/09/2026 12:42
 3dcbe856-2131-4207-93f4-1bddd18da185,abranchial.bingo,available,14.99,77.99,low,low,10,name.com,,,
 4c0875c7-389c-4cd7-a5cc-6266240982a9,iaskyou.bingo,available,14.99,,medium,low,9,name.com,,,
 703c2e05-4b79-44cc-9ae1-e793a16c0a00,backside.bingo,available,14.99,77.99,low,low,8,name.com,,,09/08/2026 10:44
@@ -521,7 +519,7 @@ bdc52922-4ee0-4d58-82c0-46e05bcd239d,taste.bingo,available,14.99,,high,low,5,nam
 71736fdd-142b-40e4-9d94-0e828e34a95e,warmachine.bingo,available,14.99,,medium,low,11,name.com,,,
 f5e4b3ff-eb17-4357-852b-f8cfdf9f7f1e,xciv.bingo,available,14.99,77.99,low,low,4,name.com,,,
 1f0e1dcf-8ebf-40f6-abac-39fb5d45b6d1,sole.bingo,available,14.99,,high,low,4,name.com,,,
-494aa79d-bd3d-4773-ac21-25382cbb26fd,four.bingo,available,14.99,77.99,medium,low,4,name.com,,,
+494aa79d-bd3d-4773-ac21-25382cbb26fd,four.bingo,available,51.98,68.98,low,low,4,namecheap,,,21/09/2026 13:11
 c78800d8-b70f-49ab-ab87-2a99d29e9bd0,manifest.bingo,available,14.99,77.99,medium,medium,8,name.com,,,06/08/2026 05:17
 ba00a44c-f1bb-4495-a9cc-f381001c2b38,whopping.bingo,available,14.99,77.99,low,low,8,name.com,,,08/08/2026 13:14
 a48bf9c6-0775-4cbb-b90e-1e0423f01a8e,transportation.bingo,available,53.99,53.99,low,low,14,namesilo,,,19/09/2026 03:16
@@ -533,7 +531,7 @@ cea828ab-50ca-4312-abc2-1ff0fbd66fd7,adaxial.bingo,available,14.99,77.99,low,low
 29361331-067b-489b-b40c-777e2cabb593,deadline.bingo,available,14.99,,high,low,8,name.com,,,
 29d5f35c-41fa-4f96-bc7d-c75cb83d3297,unplug.bingo,available,14.99,,high,low,6,name.com,,,
 12b10fe3-2dbf-446b-bea9-25dd8a611083,lxiv.bingo,available,14.99,77.99,low,low,4,name.com,,,
-b92d1915-a4e3-4bfb-ab26-31bdefcce926,sensation.bingo,available,14.99,77.99,high,low,9,name.com,,,
+b92d1915-a4e3-4bfb-ab26-31bdefcce926,sensation.bingo,available,53.99,53.99,medium,low,9,namesilo,,,21/09/2026 17:34
 671e6a68-fed9-418b-beea-f535f2d72466,plumpfor.bingo,available,14.99,77.99,low,low,9,name.com,,,08/08/2026 05:22
 568388b9-3e06-444e-9687-dedd99fe2c9d,called.bingo,available,14.99,,medium,low,6,name.com,,,
 d21135d8-ee64-47bb-9638-d82f0fadef02,dismissal.bingo,available,14.99,,medium,low,9,name.com,,,
@@ -591,7 +589,7 @@ b7dad6cc-247c-4023-a925-df7199ba972a,mills.bingo,available,14.99,,medium,low,5,n
 4789607e-a042-42db-9273-567589c41e07,ridiculous.bingo,available,14.99,77.99,medium,low,10,name.com,,,
 df6f58c1-1e93-406e-92c4-270c05274111,lxi.bingo,available,14.99,77.99,low,low,3,name.com,,,
 3bcd01bd-b9aa-459f-abcc-c31a6c5fcbbf,dictator.bingo,available,14.99,77.99,low,low,8,name.com,,,07/08/2026 19:17
-d3db87ab-8ed0-4795-8522-599670a29977,aromatic.bingo,available,14.99,,high,low,8,name.com,,,
+d3db87ab-8ed0-4795-8522-599670a29977,aromatic.bingo,available,51.98,68.98,medium,low,8,namecheap,,,22/09/2026 08:02
 6a259f57-94d7-4d71-bbc3-268ec8c600de,inbrief.bingo,available,14.99,,medium,low,8,name.com,,,
 9b2dd6cc-4b12-4e63-a19a-02fa08c52862,asyoulike.bingo,available,14.99,,high,low,11,name.com,,,
 92b2cdd0-7794-4201-9af0-3c9fab37c770,thorpe.bingo,available,14.99,,medium,low,6,name.com,,,
@@ -606,7 +604,7 @@ afc0a34d-543a-400f-b2cc-99856c7e2645,hans.bingo,available,14.99,,high,low,4,name
 8935eb20-a4a1-44b4-a42e-0bfedac12b08,walkietalkie.bingo,available,14.99,,high,low,13,name.com,,,
 8d472bbe-a9f8-4642-a46e-7445b5586273,laborer.bingo,available,14.99,,medium,low,7,name.com,,,
 bf9888ab-7345-4408-a270-9498f2efbbf2,rest.bingo,available,14.99,,high,low,4,name.com,,,
-aa7ef900-44b2-4a17-aaaf-4312508dc942,riveting.bingo,available,14.99,77.99,high,low,8,name.com,,,
+aa7ef900-44b2-4a17-aaaf-4312508dc942,riveting.bingo,available,53.99,53.99,medium,low,8,namesilo,,,21/09/2026 15:09
 94a81a1d-6a9f-4e8f-9578-69c87d316790,armorial.bingo,available,14.99,77.99,low,low,8,name.com,,,06/08/2026 20:15
 44baf5dc-f0d7-46fe-ad78-8e23ee704a99,uncomplicated.bingo,available,14.99,,high,low,13,name.com,,,
 68967dba-6a24-4078-968b-1a8979251a4b,nipping.bingo,available,14.99,77.99,low,low,7,name.com,,,08/08/2026 16:46
@@ -628,7 +626,7 @@ d4582df4-4943-495f-bc3a-85799abbbd91,liveblog.bingo,available,14.99,,high,low,9,
 8a35f184-06da-404f-b514-0378a1b44210,worthwhile.bingo,available,14.99,,high,low,10,name.com,,,
 107f8127-da0f-4490-9ef0-10bffe387782,supreme.bingo,available,14.99,,high,low,7,name.com,,,
 1e2f4525-7eb5-4c4f-a67b-e08c6ea8c950,went.bingo,available,14.99,,high,low,4,name.com,,,
-52226921-44b7-48ef-8e20-c59653392a9d,astounded.bingo,available,14.99,,medium,low,9,name.com,,,
+52226921-44b7-48ef-8e20-c59653392a9d,astounded.bingo,available,53.99,53.99,low,low,9,namesilo,,,22/09/2026 03:42
 252c34ad-a280-4fc7-8432-2e26d0e2a348,anthropic.bingo,available,,,medium,low,9,,,,
 a2b051dc-54e0-461f-ae6d-f374c8fb1499,planless.bingo,available,14.99,77.99,low,low,8,name.com,,,
 6c05e6b5-c639-4ff1-9065-b8ee439dcfd3,whether.bingo,available,14.99,,high,low,7,name.com,,,
@@ -654,7 +652,7 @@ d061f3e4-2b69-48a3-b3f9-46816603b7ed,ensuant.bingo,available,14.99,77.99,low,low
 63841cf7-4169-4351-a1eb-962227001436,spotify.bingo,available,,,high,low,7,,,,
 ea9635e7-e533-4987-aa41-46e418d1e1a1,golf.bingo,available,14.99,,high,medium,4,name.com,,,
 5ff17da4-677a-4455-ae82-ffa755695101,caring.bingo,available,14.99,,high,low,6,name.com,,,
-9db26665-e6d6-4e74-9348-ccf04282d7f7,fourteen.bingo,available,14.99,77.99,high,low,8,name.com,,,
+9db26665-e6d6-4e74-9348-ccf04282d7f7,fourteen.bingo,available,53.99,53.99,medium,low,8,namesilo,,,21/09/2026 11:38
 e3d05370-243a-4278-8aee-c008e501089f,than.bingo,available,14.99,,high,low,4,name.com,,,
 f031f34b-2d90-4598-bc50-f6e85f8f93b5,inexpensive.bingo,available,14.99,,high,low,11,name.com,,,
 e83fde57-da3c-49cd-a479-1f9989f2e4b6,tailless.bingo,available,14.99,77.99,low,low,8,name.com,,,05/08/2026 21:33
@@ -673,7 +671,7 @@ bb870ec9-48f2-4ac5-9fb6-0146bb5e75de,condo.bingo,available,14.99,,high,low,5,nam
 a9222f97-4ec2-4bfd-95d2-dda3f1362f73,eclipse.bingo,available,14.99,,high,low,7,name.com,,,
 1566b174-efe1-4eca-9b2e-72914a47e154,whitesmoke.bingo,available,14.99,,low,low,11,name.com,,,
 a4455725-155f-4578-af7f-21902c084743,maximum.bingo,available,14.99,,high,low,7,name.com,,,
-477a0ebf-1448-4644-bf59-45386279456e,accounted.bingo,available,14.99,,medium,low,9,name.com,,,
+477a0ebf-1448-4644-bf59-45386279456e,accounted.bingo,available,14.99,,low,low,9,name.com,,,
 c3daaabb-646a-4830-85c5-c28d1f51cd8f,energizing.bingo,available,14.99,77.99,medium,low,10,name.com,,,
 ea4d1208-168f-4c90-8069-6ece337d0855,chain.bingo,available,14.99,,medium,low,5,name.com,,,
 b246324f-dbc5-4fd6-93b6-ba7609a2df9b,passive.bingo,available,14.99,,high,low,7,name.com,,,
@@ -684,7 +682,7 @@ fbd4e295-b990-4c23-b7f2-7f7bcad65532,assignable.bingo,available,14.99,77.99,low,
 8a559eba-7dbb-4fe9-a5fa-d60ffd603e7d,domestic.bingo,available,51.98,68.98,medium,low,8,namecheap,,,19/09/2026 12:54
 964344bd-b787-47cc-aa8c-6231aed20038,winover.bingo,available,14.99,,high,low,8,name.com,,,
 1a42376e-c73e-4a02-a783-f0751870bb5e,aerobiotic.bingo,available,14.99,77.99,low,low,10,name.com,,,
-41c9c2ae-0b26-401a-9d56-85a6914f8cfe,six.bingo,available,14.99,77.99,medium,low,3,name.com,,,
+41c9c2ae-0b26-401a-9d56-85a6914f8cfe,six.bingo,available,51.98,68.98,medium,low,3,namecheap,,,21/09/2026 13:17
 12210606-f5c4-4c73-a221-0db10e5cdf56,alacarte.bingo,available,14.99,77.99,low,low,10,name.com,,,
 fd237a22-0c04-44fd-98da-32f364bdd984,supportive.bingo,available,14.99,,high,low,10,name.com,,,
 3ad2b639-9858-4f18-95f8-d2538f11b3cc,deepdown.bingo,available,14.99,,medium,low,9,name.com,,,
@@ -713,7 +711,7 @@ a90caf33-2b7e-44f4-8cb1-228c4b01ce08,challenge.bingo,available,14.99,,high,low,9
 d3237fc8-2a58-49e2-935a-7af29a0bcf53,never.bingo,available,14.99,,high,low,5,name.com,,,
 7991d269-d1d3-482b-b0ac-48e20c876d74,roughshod.bingo,available,14.99,77.99,low,low,9,name.com,,,08/08/2026 15:55
 14461e39-4050-4f12-a598-4214dda6630f,dealtout.bingo,available,14.99,77.99,low,low,9,name.com,,,06/08/2026 07:27
-a9f6eeab-74e8-476d-8c8d-4928fb165ce5,antitumour.bingo,available,14.99,,high,low,10,name.com,,,
+a9f6eeab-74e8-476d-8c8d-4928fb165ce5,antitumour.bingo,available,53.99,53.99,medium,low,10,namesilo,,,22/09/2026 06:44
 79a6d0c4-bd4e-49af-9fc1-74872227e357,gotobat.bingo,available,14.99,,medium,low,9,name.com,,,
 f24ccb40-60ea-4e5a-aa3b-e5e3df79f2af,violated.bingo,available,14.99,,medium,low,8,name.com,,,
 19d59743-3c0b-4908-80ee-17561a2256a8,scientist.bingo,available,14.99,,high,low,9,name.com,,,
@@ -722,9 +720,9 @@ f4eb6c7d-ee23-4f05-bea4-b1afcbf50686,lookback.bingo,available,14.99,,high,low,9,
 85c9cc54-b1f3-4e46-9c84-e4251bc327e7,saddle.bingo,available,14.99,,high,low,6,name.com,,,
 205a74d4-e577-4236-9ded-206e9c92f35d,abducens.bingo,available,14.99,77.99,low,low,8,name.com,,,
 749489e1-af45-4f4d-9109-12c5f8aa53d3,involving.bingo,available,14.99,,medium,low,9,name.com,,,
-f84b2a3f-0371-45b3-8654-1c3b69eaabf9,cruel.bingo,available,14.99,,high,low,5,name.com,,,
+f84b2a3f-0371-45b3-8654-1c3b69eaabf9,cruel.bingo,available,53.99,53.99,low,low,5,namesilo,,,22/09/2026 17:21
 d58c4676-1468-41f8-83df-f12b014793b3,newengland.bingo,available,,,low,low,11,,,,
-289532e7-86be-4014-af0e-fed6b2b591fc,neat.bingo,available,14.99,,medium,low,4,name.com,,,
+289532e7-86be-4014-af0e-fed6b2b591fc,neat.bingo,available,53.99,53.99,low,low,4,namesilo,,,22/09/2026 16:59
 9a4d40c0-7e80-4903-a656-14499e1e8fcf,flyingsaucer.bingo,available,14.99,,high,low,13,name.com,,,
 b1c404ca-5ebd-4f07-bd43-2429ccc9d168,bug.bingo,available,14.99,,high,low,3,name.com,,,
 2b048419-813c-4642-8ae8-c77418a6a021,sharing.bingo,available,14.99,,high,low,7,name.com,,,
@@ -742,7 +740,7 @@ e3f30d7a-9c30-4cad-8168-d592a228637c,idolised.bingo,available,14.99,77.99,low,lo
 5e0863e8-5289-4316-bedd-64d973bf9712,kindly.bingo,available,14.99,,high,low,6,name.com,,,
 4c617d7a-8903-47bb-a5c3-1c438373c31d,manyatime.bingo,available,14.99,,medium,low,11,name.com,,,
 ef817e34-2fb6-4d70-a215-55f910edf209,sestet.bingo,available,14.99,77.99,low,low,6,name.com,,,
-2e65df60-822b-4fe2-99a0-b115959731cb,deceased.bingo,available,14.99,,medium,low,8,name.com,,,
+2e65df60-822b-4fe2-99a0-b115959731cb,deceased.bingo,available,51.98,68.98,low,low,8,namecheap,,,22/09/2026 10:44
 fb005825-492d-4172-a74b-81e202c73577,milk.bingo,available,14.99,,high,low,4,name.com,,,
 690e3f23-acc6-4107-a590-1c157ad60275,along.bingo,available,,,medium,low,5,,,,
 2ac3a1db-71d0-4020-8876-3f92581a6c14,provisions.bingo,available,51.98,68.98,medium,low,10,namecheap,,,08/09/2026 08:15
@@ -775,7 +773,7 @@ fd77a01f-3f51-42a8-8bbf-999c1a177f80,raunchy.bingo,available,14.99,77.99,low,low
 b140b5e4-b3f3-4c11-900a-e6d836bb97b8,backtothewall.bingo,available,14.99,,medium,low,16,name.com,,,
 7cc36308-ef01-4c76-b7c9-94f04baa305f,antennal.bingo,available,14.99,77.99,low,low,8,name.com,,,
 cbf1a5d7-f435-4a4c-9929-ddb283884108,thrashabout.bingo,available,14.99,,low,low,12,name.com,,,
-6411bffb-635a-43aa-847b-95a8b0620978,xxvi.bingo,available,14.99,77.99,medium,low,4,name.com,,,
+6411bffb-635a-43aa-847b-95a8b0620978,xxvi.bingo,available,51.98,68.98,low,low,4,namecheap,,,21/09/2026 12:52
 c95985aa-b326-467d-9d9d-1bc20fd342cc,dismiss.bingo,available,14.99,,high,low,7,name.com,,,
 9ea9edf9-af6e-4c18-873c-bf00b4d7ea91,macro.bingo,available,14.99,,high,low,5,name.com,,,
 96c84ebe-61fe-4a36-8dae-a466fe9813aa,flush.bingo,available,14.99,77.99,medium,low,5,name.com,,,
@@ -795,7 +793,7 @@ cf276737-18be-48c1-aa4c-976161a76157,luminous.bingo,available,14.99,77.99,medium
 80651a78-f3d4-4fbe-891e-66216d4c8bb0,yesterday.bingo,available,14.99,,high,low,9,name.com,,,
 d31e788e-1c38-4619-a9f9-381d17293ae3,adherent.bingo,available,14.99,77.99,low,low,8,name.com,,,
 dda20b92-ed78-4683-9585-c844ead38a4f,corridor.bingo,available,14.99,,medium,low,8,name.com,,,
-1933de10-4a33-40d3-b2f8-0e67c5e2169f,jump.bingo,available,14.99,77.99,high,low,4,name.com,,,
+1933de10-4a33-40d3-b2f8-0e67c5e2169f,jump.bingo,available,51.98,68.98,low,low,4,namecheap,,,22/09/2026 02:34
 823a58a6-a75f-4db3-acff-b37384697168,dateofdeath.bingo,available,14.99,,medium,low,13,name.com,,,
 aa7ba7c3-f229-4f1d-9cb4-a5a4c32e9ce8,usdollar.bingo,available,14.99,,high,low,9,name.com,,,
 56c4f582-78a6-4114-91c3-d45a88a616f0,arboreous.bingo,available,14.99,77.99,low,low,9,name.com,,,06/08/2026 12:59
@@ -803,7 +801,7 @@ dc72a28f-7795-4fca-af6e-b95b2ce28401,executing.bingo,available,14.99,,medium,low
 f96c70df-2260-4881-848b-65053ba4cafe,computing.bingo,available,53.99,53.99,medium,low,9,namesilo,,,19/09/2026 12:12
 a22dc936-d445-4935-9ae5-317b823057a6,endorse.bingo,available,51.98,68.98,medium,low,7,namecheap,,,08/09/2026 09:45
 4c66e304-230d-4f50-b317-c31aba4987ec,synchronise.bingo,available,14.99,,high,low,11,name.com,,,
-9374de9a-262e-42cd-94a7-42b54b7db8aa,cordial.bingo,available,14.99,77.99,high,low,7,name.com,,,
+9374de9a-262e-42cd-94a7-42b54b7db8aa,cordial.bingo,available,51.98,68.98,medium,low,7,namecheap,,,21/09/2026 21:39
 6e146a2a-26e7-4cec-a8f3-26636267ad4a,progression.bingo,available,14.99,,medium,low,11,name.com,,,
 363a6af2-ebb1-463a-ac3e-7798f4b22779,provide.bingo,available,14.99,,high,low,7,name.com,,,
 ecd43a36-cb3b-4aa2-a0b7-899872db7574,godawful.bingo,available,14.99,77.99,low,low,9,name.com,,,09/08/2026 05:04
@@ -849,7 +847,7 @@ c90a600a-0163-4914-937a-22ad4f7c90d9,arcadian.bingo,available,14.99,77.99,low,lo
 96d407df-be6a-4923-81ae-dbb07c9f9134,criticise.bingo,available,14.99,,medium,low,9,name.com,,,
 b3b13c96-6f46-4613-be31-0615583193f5,cricket.bingo,available,14.99,,high,low,7,name.com,,,
 84b01a88-fe49-47fe-b42e-8a86f7644ffd,learned.bingo,available,14.99,77.99,high,low,7,name.com,,,
-009d77a1-d61e-462f-9739-177bc850b513,sheer.bingo,available,14.99,,high,low,5,name.com,,,
+009d77a1-d61e-462f-9739-177bc850b513,sheer.bingo,available,53.99,53.99,low,low,5,namesilo,,,22/09/2026 23:12
 c19a012a-bc9c-4b6b-89d4-2f16bff7eb8d,toy.bingo,available,14.99,,high,low,3,name.com,,,
 7656eebc-feab-4448-affa-412ef195341f,ship.bingo,available,14.99,,high,low,4,name.com,,,
 f37f9a69-d710-4ddb-aa5e-0e77f2cc34a9,diplomat.bingo,available,14.99,,high,low,8,name.com,,,
@@ -861,11 +859,11 @@ b4dcbcf7-f767-4361-bb5f-7c35702a598c,accretive.bingo,available,14.99,77.99,low,l
 3e96221c-ef76-48a4-9ad6-fea4985c93b3,america.bingo,premium,118.8,118.8,high,low,7,namesilo,,,
 03e24067-1191-47c1-b739-82b2682c68dd,vaccination.bingo,available,14.99,,medium,low,11,name.com,,,
 f82e20d5-7278-4549-9978-c6b2fb317bf0,sob.bingo,available,14.99,77.99,low,low,3,name.com,,,08/08/2026 23:48
-1bcecf4d-25cb-461b-bcfa-66eedc9f936e,aboard.bingo,available,14.99,,medium,low,6,name.com,,,
+1bcecf4d-25cb-461b-bcfa-66eedc9f936e,aboard.bingo,available,14.99,,low,low,6,name.com,,,
 0fe9eff8-abed-4ca3-9395-d8bd525743e7,final.bingo,available,14.99,77.99,high,low,5,name.com,,,
 88ac0ce6-4f8b-4942-91c5-f79173ef6a00,draggled.bingo,available,14.99,77.99,low,low,8,name.com,,,09/08/2026 07:33
 98e7be9f-172f-4510-9184-0360bddc0bea,streetart.bingo,available,14.99,,medium,low,10,name.com,,,
-5998cef1-8fa5-44e4-b38d-1a5337859297,lord.bingo,available,14.99,77.99,high,low,4,name.com,,,
+5998cef1-8fa5-44e4-b38d-1a5337859297,lord.bingo,available,53.99,53.99,medium,low,4,namesilo,,,22/09/2026 01:47
 61d10aaa-d8db-40ec-91fa-2a77b9650f95,allocate.bingo,available,14.99,,high,low,8,name.com,,,
 e21da516-3ba5-45e6-96a1-3ca1c6fb13e4,stpauls.bingo,available,14.99,,medium,low,8,name.com,,,
 7ba4ced8-de22-42e6-a1dd-2adba8d095f1,basophilic.bingo,available,14.99,77.99,low,low,10,name.com,,,08/08/2026 22:53
@@ -920,7 +918,7 @@ e87f64ec-ebcb-48fb-a7dd-b79d2d2e9ecd,ugly.bingo,available,14.99,77.99,high,low,4
 b90d4d6c-7668-4736-b1ee-8de7beee57f6,rough.bingo,available,14.99,77.99,low,low,5,name.com,,,06/08/2026 09:39
 5126d69a-8928-4dcd-9485-1c272f764ae3,popquiz.bingo,available,14.99,,low,low,8,name.com,,,
 97abda16-ba63-4a61-b17d-b98e55c40bee,push.bingo,available,14.99,,high,low,4,name.com,,,
-93e42ed7-bc0d-47fb-9d46-52b7540d476f,accredited.bingo,available,14.99,77.99,medium,low,10,name.com,,,
+93e42ed7-bc0d-47fb-9d46-52b7540d476f,accredited.bingo,available,53.99,53.99,low,low,10,namesilo,,,21/09/2026 15:54
 280e8767-f383-4888-b9cd-ebdb12615f30,avifaunal.bingo,available,14.99,77.99,low,low,9,name.com,,,07/08/2026 23:30
 41d3a18f-c454-4b39-9c58-75eab02839f3,martha.bingo,available,14.99,,high,low,6,name.com,,,
 bf7e66ae-69de-4e32-bc73-2baeb3d49fb3,clergy.bingo,available,14.99,,medium,low,6,name.com,,,
@@ -939,7 +937,7 @@ cda88bd8-5516-44c9-990a-a51b7eea52cc,capitol.bingo,available,14.99,,medium,low,7
 c2207059-0885-430b-9040-12fc485097c8,xciii.bingo,available,14.99,77.99,low,low,5,name.com,,,
 7a8514ad-7553-4103-960c-72f3010c504f,apterous.bingo,available,14.99,77.99,low,low,8,name.com,,,06/08/2026 10:29
 b98ecc71-67b3-4538-a5b6-90b38dfb97bb,nicki.bingo,available,14.99,,medium,low,5,name.com,,,
-553ea6e5-f71f-4090-9041-858c8496e6fc,star.bingo,premium,123.75,123.75,high,medium,4,name.com,,,
+553ea6e5-f71f-4090-9041-858c8496e6fc,star.bingo,premium,128.7,128.7,medium,low,4,namecheap,,,21/09/2026 17:48
 4836b074-1cbd-462b-b5dc-1f4b39480337,wounded.bingo,available,14.99,,medium,low,7,name.com,,,
 9e0c4c76-10ef-4149-9c63-329d407c0601,barely.bingo,available,14.99,,medium,low,6,name.com,,,
 fc2ff8e6-28db-4762-88d6-e49a10a58fcc,xli.bingo,available,14.99,77.99,low,low,3,name.com,,,
@@ -951,7 +949,7 @@ bb05f422-d938-4243-860e-6df23c61867a,discdrive.bingo,available,14.99,,high,low,1
 a23c3730-31bc-4b07-af97-885de2448438,supposed.bingo,available,14.99,77.99,high,low,8,name.com,,,
 0b22d288-d962-4f48-830e-200049f71b0b,stemless.bingo,available,14.99,77.99,low,low,8,name.com,,,
 91f36681-8276-4f59-b64a-c2a8531bd340,baconexplosion.bingo,available,14.99,,high,low,15,name.com,,,
-d50db8a5-9be5-4b2a-b9e3-d95495315936,twentytwo.bingo,available,14.99,77.99,high,low,10,name.com,,,
+d50db8a5-9be5-4b2a-b9e3-d95495315936,twentytwo.bingo,available,51.98,68.98,medium,low,10,namecheap,,,21/09/2026 12:36
 6a677802-85c1-4fe2-9517-8319c2082ce5,yell.bingo,available,14.99,,medium,low,4,name.com,,,
 997e7e91-9aba-4928-ba15-68333a4819d3,appetitive.bingo,available,14.99,77.99,low,low,10,name.com,,,06/08/2026 06:56
 6cdbaf6a-d2d4-4eee-8faf-10cd7d3361d5,bigidea.bingo,available,14.99,,medium,low,8,name.com,,,
@@ -967,7 +965,7 @@ dcc66596-f2b9-4458-a711-a01e593bb52d,motivation.bingo,available,14.99,,high,low,
 a2ad2fbb-e37b-4fa4-b920-777d66a0401f,atthewheel.bingo,available,14.99,,medium,low,12,name.com,,,
 ff94020c-297b-4241-8db8-b34f39365df6,goleft.bingo,available,14.99,,high,low,7,name.com,,,
 ef1de291-edc4-45c4-89b3-968485134416,bully.bingo,available,14.99,77.99,low,low,5,name.com,,,08/08/2026 12:15
-2170a4cb-18e1-4dac-88df-0f74a3ba3ec0,allegro.bingo,available,14.99,77.99,high,low,7,name.com,,,
+2170a4cb-18e1-4dac-88df-0f74a3ba3ec0,allegro.bingo,available,53.99,53.99,medium,low,7,namesilo,,,22/09/2026 01:21
 c61f90fa-3ddd-4533-87cc-aa997e402089,grievous.bingo,available,14.99,77.99,low,low,8,name.com,,,07/08/2026 14:41
 6967e666-0e94-4a28-bb53-e707e3620354,fly.bingo,available,14.99,,high,low,3,name.com,,,
 c4b79c1e-07d0-4bf3-8a37-131a9984c0fc,bite.bingo,available,51.98,68.98,medium,low,4,namecheap,,,08/09/2026 13:01
@@ -979,7 +977,7 @@ dc95b985-4967-4639-9ab1-086a761510a1,specially.bingo,available,14.99,,medium,low
 7ee16940-6cd5-4721-8cdb-cfa7f386396c,newspaper.bingo,available,14.99,,high,low,9,name.com,,,
 24b606ac-166e-4c8b-8961-bc2d0d2a7edb,invariably.bingo,available,14.99,,medium,low,10,name.com,,,
 b8fd86ab-460e-4f94-a3b7-76b67d80e506,passengerseat.bingo,available,14.99,,high,low,14,name.com,,,
-197d15eb-327b-4109-bcb0-b417e9301a5c,amendable.bingo,available,14.99,,medium,low,9,name.com,,,
+197d15eb-327b-4109-bcb0-b417e9301a5c,amendable.bingo,available,53.99,53.99,low,low,9,namesilo,,,22/09/2026 04:07
 eb9bfaeb-cc2a-4924-8303-2d9717d84d72,arrayed.bingo,available,14.99,77.99,low,low,7,name.com,,,06/08/2026 21:37
 910cd21e-5772-48c1-9b92-d934d795ad82,stpetersburg.bingo,available,14.99,,medium,low,14,name.com,,,
 4cfb0c60-ca6f-4369-b883-2e8461fb8102,table.bingo,available,14.99,,high,low,5,name.com,,,
@@ -989,13 +987,15 @@ eb9bfaeb-cc2a-4924-8303-2d9717d84d72,arrayed.bingo,available,14.99,77.99,low,low
 278c781f-322d-49ae-b551-e418e7fa040f,wonderfully.bingo,available,14.99,,medium,low,11,name.com,,,
 55f5f3d6-58e8-4a17-8b7e-47b609585f08,andorran.bingo,available,14.99,77.99,low,low,8,name.com,,,
 58334320-29d6-4161-a85c-e5bf46a8a69d,hostile.bingo,available,14.99,,high,low,7,name.com,,,
-a8c75687-9f39-422d-b56b-c35d7c244bc0,stunning.bingo,available,14.99,,high,low,8,name.com,,,
+a8c75687-9f39-422d-b56b-c35d7c244bc0,stunning.bingo,available,51.98,68.98,medium,low,8,namecheap,,,22/09/2026 08:34
 370ee3e3-ffd6-4be6-a21c-ca4111ad3087,nothankyou.bingo,available,14.99,,medium,low,12,name.com,,,
 1a4b1c16-cf0b-4649-8766-694fd941bc6e,apathetic.bingo,available,14.99,77.99,low,low,9,name.com,,,05/08/2026 22:04
 10c66c80-75fd-423e-b00e-9d8227d35c35,lake.bingo,available,14.99,,high,low,4,name.com,,,
-817d77db-6fd4-4088-86de-0eb0258def6b,staring.bingo,available,14.99,77.99,medium,low,7,name.com,,,
+817d77db-6fd4-4088-86de-0eb0258def6b,staring.bingo,available,53.99,53.99,low,low,7,namesilo,,,21/09/2026 22:19
 3a24541c-b055-4516-bae0-ac95c1a88857,generalequilibrium.bingo,available,14.99,,medium,low,19,name.com,,,
 c76c1403-97ff-47c5-ac37-819c2c0a6bd9,reddish.bingo,available,53.99,53.99,low,low,7,namesilo,,,19/09/2026 03:49
 352b1fa4-f7b2-4dbb-80fe-0a52f4ba8b9f,seeyoulater.bingo,available,14.99,,low,low,13,name.com,,,
 4f3fc313-878a-4fa4-a0a5-5ab51a36d93e,sixteenth.bingo,available,14.99,77.99,low,low,9,name.com,,,
 f006ab90-62ee-42e5-9993-c3a396cfba52,riceflour.bingo,available,14.99,,low,low,10,name.com,,,
+6d667670-c344-42dd-a1a4-ebe7deaa5172,smileyface.bingo,available,14.99,,high,low,11,name.com,,,
+53799363-fc13-4f30-89de-8d46f4614566,carpet.bingo,available,14.99,,high,low,6,name.com,,,
