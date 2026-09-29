@@ -4,6 +4,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7383fd6f-4a12-498f-b086-8e908cd67fdb,dodge.bingo,available,51.98,68.98,high,low,5,namecheap,,,28/09/2026 01:47
 c7a1bab3-0e59-45e8-9bdd-06571390d913,smartness.bingo,available,14.99,77.99,high,low,9,name.com,,,12/08/2026 04:49
 b9e74069-4d4c-46e3-b3bc-ee69cc66dbfe,painkiller.bingo,available,14.99,77.99,high,low,10,name.com,,,
+68367c68-4c9c-4e8f-a805-31af53120338,helene.bingo,available,8.24,44.09,medium,low,6,dynadot,,,28/09/2026 12:07
 4de6276e-77b4-4161-aaf4-17f0b665ee44,annexation.bingo,available,53.99,53.99,medium,low,10,namesilo,,,19/09/2026 10:25
 9591ccf8-b836-4279-8ca2-0f79f5414ecc,nnw.bingo,available,51.98,68.98,medium,low,3,namecheap,,,15/09/2026 16:52
 ae7a35bd-3a2b-495b-85ce-748c1ec3c555,unspent.bingo,available,51.98,68.98,medium,low,7,namecheap,,,12/09/2026 09:36
@@ -11,17 +12,21 @@ ae7a35bd-3a2b-495b-85ce-748c1ec3c555,unspent.bingo,available,51.98,68.98,medium,
 9cb77be7-ba03-4334-a6eb-67b25adf2617,offline.bingo,available,51.98,68.98,high,medium,8,namecheap,,,04/09/2026 01:13
 efb32e26-2e69-4148-9f29-2edb81b41166,antido.bingo,available,51.98,68.98,medium,low,6,namecheap,,,19/09/2026 14:17
 0030527f-6b6b-48a9-85da-88e9b363e180,moderately.bingo,available,53.99,53.99,medium,low,10,namesilo,,,25/09/2026 12:00
-8cb3014e-ce53-4bed-928b-0e32f35f2891,innocence.bingo,available,14.99,,high,low,9,name.com,,,
+8cb3014e-ce53-4bed-928b-0e32f35f2891,innocence.bingo,available,8.24,44.09,high,low,9,dynadot,,,28/09/2026 22:20
 dff38af2-fceb-49bd-ae54-6b19a7828580,initiate.bingo,available,14.99,77.99,high,low,8,name.com,,,17/08/2026 09:35
 ccdd7307-81ff-43eb-b5b3-15351f1600cc,huntsville.bingo,available,53.99,53.99,high,low,10,namesilo,,,27/09/2026 04:30
+71448645-e85a-4e70-bfd5-6845916a53b4,enthusiastic.bingo,available,53.99,53.99,high,low,12,namesilo,,,28/09/2026 11:14
 38e14859-3b0f-4dc2-b20f-32992f51bddc,hardware.bingo,available,14.99,77.99,high,low,8,name.com,,,24/09/2026 16:57
 ed7758da-df1a-480f-8a93-6c5d67f1c6ad,groove.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 05:49
 f51c3af9-d5ca-4020-824f-ef6fdd76e8fc,blackening.bingo,available,14.99,77.99,medium,low,10,name.com,,,13/08/2026 18:12
 86fb36cd-47f9-458a-a361-c7b21e74b629,anarchic.bingo,available,14.99,77.99,medium,low,8,name.com,,,
+5fbd6099-2fc1-45c4-bb8f-1693c0a4e957,aleksandr.bingo,available,53.99,53.99,medium,low,9,namesilo,,,28/09/2026 08:00
+bbd65665-22f1-417b-b731-926730960ecc,orphans.bingo,available,42.64,42.64,low,low,7,spaceship,,,28/09/2026 18:19
 8d472bbe-a9f8-4642-a46e-7445b5586273,laborer.bingo,available,14.99,,high,low,7,name.com,,,
 730ee7fe-ffdb-43c8-a147-83c339347f0b,aldol.bingo,available,53.99,53.99,high,low,5,namesilo,,,18/09/2026 04:25
 e2fa3f11-a88c-4790-9518-a9c4dd406ccb,livingston.bingo,available,51.98,68.98,high,low,10,namecheap,,,25/09/2026 09:01
 61e68ec8-a25c-4cd8-8089-cf75e88f0c98,kelvin.bingo,available,14.99,77.99,high,low,6,name.com,,,22/08/2026 15:02
+f9e712ed-c498-4c42-997c-e833257f0dde,starve.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 19:47
 f4a8d0e6-8333-4d90-ba5b-0fb6edd74b84,dday.bingo,available,53.99,53.99,high,low,5,namesilo,,,16/09/2026 12:39
 0ac7245e-fb4e-4f85-9876-165fa08d84fa,curse.bingo,available,53.99,53.99,high,low,5,namesilo,,,24/09/2026 04:27
 673e363c-c0eb-413f-be77-ad7559cb8080,unneeded.bingo,available,51.98,68.98,medium,low,8,namecheap,,,12/09/2026 15:52
@@ -34,10 +39,11 @@ a3b81465-e71e-4e6c-b197-089f434c4b71,mancunian.bingo,available,14.99,77.99,mediu
 5739f465-641e-4e4b-b285-3925a7c1129c,suppertime.bingo,available,53.99,53.99,high,low,10,namesilo,,,24/09/2026 22:23
 63f8c665-4ac2-4fde-a189-e04734666bdb,unfretted.bingo,available,51.98,68.98,medium,low,9,namecheap,,,12/09/2026 10:45
 8eba48b3-d526-428f-9cde-ef9265c4f787,smashingly.bingo,available,51.98,68.98,medium,low,10,namecheap,,,16/09/2026 02:49
+db7e4f44-748e-4292-ade8-ecee1ec8b812,connell.bingo,available,8.24,44.09,medium,low,7,dynadot,,,28/09/2026 22:06
 9d0e2f77-324f-4a48-a8c2-1bee07bf4288,bezant.bingo,available,53.99,53.99,medium,low,6,namesilo,,,23/09/2026 12:11
-37f50b79-0497-4ba2-9cdd-7b3c840de4ed,spine.bingo,available,14.99,,high,low,5,name.com,,,
+37f50b79-0497-4ba2-9cdd-7b3c840de4ed,spine.bingo,available,8.24,42.74,high,low,5,porkbun,,,28/09/2026 17:17
 5a7991d4-a45f-4a56-8802-7bc314d53912,unhatched.bingo,available,14.99,77.99,medium,low,9,name.com,,,12/09/2026 12:05
-e1306b40-4523-43d6-af39-62e72b6cf8ba,valued.bingo,available,14.99,,high,low,6,name.com,,,
+e1306b40-4523-43d6-af39-62e72b6cf8ba,valued.bingo,available,53.99,53.99,high,low,6,namesilo,,,28/09/2026 10:07
 fd5ff0da-49aa-42c5-9dbd-6ba4c477fc34,tongues.bingo,available,51.98,68.98,medium,low,7,namecheap,,,18/09/2026 07:52
 a102304c-379b-4863-9fea-f9d3fb7af905,description.bingo,available,14.99,,high,low,11,name.com,,,
 33382fd6-9aae-4daa-86f6-9225c342272d,ruffle.bingo,available,51.98,68.98,high,low,6,namecheap,,,11/09/2026 05:07
@@ -46,24 +52,28 @@ af035300-ed29-4bb1-9176-388aaf932eae,wagram.bingo,available,53.99,53.99,medium,l
 77d326bd-8c22-4cf7-b19f-b691afdbaafb,cuboid.bingo,available,14.99,77.99,medium,low,6,name.com,,,13/08/2026 09:58
 7e7ac87b-99b0-4a8c-82d6-300c65d43cb1,thurston.bingo,available,41.2,41.2,medium,low,8,cloudflare,,,28/09/2026 04:06
 00b0c63e-0839-4b6c-99e3-46284797d7f5,vivian.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 03:58
+80f7f114-6d3e-4473-8b96-4a8ae8383762,housekeeper.bingo,available,53.99,53.99,high,low,11,namesilo,,,28/09/2026 11:27
 f11fc5db-0320-4829-b2a9-93aea1f31dea,bearing.bingo,available,51.98,68.98,high,low,7,namecheap,,,22/09/2026 18:34
 f2c0cd06-585e-4e55-b0af-6cd31cf04d73,multiply.bingo,available,51.98,68.98,high,low,8,namecheap,,,15/09/2026 15:37
 f4bc6a98-7010-4848-ba8c-fd6fa94701e6,diversity.bingo,available,14.99,,high,low,9,name.com,,,
 85363484-e4d1-4c2e-8f56-4897ffb8b0d3,vows.bingo,available,42.64,42.64,medium,low,4,spaceship,,,28/09/2026 04:45
 bbbb307e-769d-4e12-8a82-4656304d9b12,furnishing.bingo,available,8.24,42.74,high,low,10,porkbun,,,28/09/2026 02:47
 b11ad474-2709-48f8-a659-31615922695c,row.bingo,available,51.98,68.98,high,low,3,namecheap,,,25/09/2026 05:05
+e50a1549-fd88-448d-9801-aa19713d1935,bonner.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 07:28
 50b8f0a3-fcbc-4746-98ce-f2a39cb0857e,frail.bingo,available,14.99,77.99,high,low,5,name.com,,,18/08/2026 13:59
 650096f5-43a8-4c24-ab5f-a347755a83e0,pavlova.bingo,available,53.99,53.99,medium,low,7,namesilo,,,19/09/2026 10:01
 ea4c8c4e-65e2-4a92-9f2b-be5896902567,imprecise.bingo,available,14.99,77.99,medium,low,9,name.com,,,21/08/2026 23:00
 c7770cf3-9ffb-44f4-bbc6-b24ad9f7c5fb,introducing.bingo,available,51.98,68.98,medium,low,11,namecheap,,,17/09/2026 20:59
 2b7ad5c2-75d5-4d23-880f-28f167f1f826,waterless.bingo,available,14.99,77.99,medium,low,9,name.com,,,06/08/2026 19:03
 235d17ca-a379-4797-b7d0-50ac5195cea8,albatross.bingo,available,51.98,68.98,high,low,9,namecheap,,,18/09/2026 02:28
+c1b0665c-08bd-42c1-8d63-2059736ef231,riches.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 20:20
 251536b3-116e-4de7-9c98-63df96d999b7,aperture.bingo,available,51.98,68.98,high,low,8,namecheap,,,19/09/2026 16:35
 23b90d3a-9b5d-49dc-97cb-f7d734f67018,erik.bingo,available,53.99,53.99,high,low,4,namesilo,,,25/09/2026 14:19
 373c1977-82b8-4fdc-8ec1-7f0d83a79498,diversely.bingo,available,51.98,68.98,medium,low,9,namecheap,,,14/09/2026 13:25
 c6b9784d-1f6f-456b-ad4c-1b8caf301071,honored.bingo,available,14.99,77.99,high,low,7,name.com,,,17/08/2026 13:25
 34e41e08-22b2-41c8-aa66-73a88ce09876,abs.bingo,available,53.99,53.99,high,low,3,namesilo,,,16/09/2026 17:29
 1ba0faaa-5fa8-4a10-b4b8-3a90fdbbd218,incertain.bingo,available,14.99,77.99,medium,low,9,name.com,,,22/08/2026 01:10
+d2a55269-af62-4653-924e-921b7421eb55,architecture.bingo,premium,102.67,102.67,high,low,12,spaceship,,,28/09/2026 17:04
 6b58568d-ecbd-44d7-9ec3-04b7cde6c12b,nose.bingo,available,14.99,,high,low,4,name.com,,,
 c55fcad7-fabe-4f45-9ef7-7ed2fd69c88d,estimable.bingo,available,14.99,77.99,medium,low,9,name.com,,,12/08/2026 19:44
 6477e938-7a52-457b-990f-7d2fef43eb3f,advertence.bingo,available,53.99,53.99,medium,low,10,namesilo,,,17/09/2026 11:06
@@ -82,6 +92,7 @@ cb51f434-0540-4000-9dac-465f7e0506f8,bayat.bingo,available,51.98,68.98,medium,lo
 2b60059f-787d-4378-8824-a97384680ff8,dandily.bingo,available,51.98,68.98,medium,low,7,namecheap,,,14/09/2026 10:33
 d86d16e0-51a1-41fa-8ddf-d51dab92bdad,verbosely.bingo,available,51.98,68.98,medium,low,9,namecheap,,,15/09/2026 12:43
 52a44c6e-9633-43f7-9b47-f1f4734dd507,adjustor.bingo,available,53.99,53.99,medium,low,8,namesilo,,,17/09/2026 08:34
+97a2df7b-2897-4c7b-85e0-4a640f80a661,moravia.bingo,available,42.64,42.64,medium,low,7,spaceship,,,28/09/2026 19:54
 4ef5ec8e-ee61-4883-b435-29683d854e3e,followed.bingo,available,51.98,68.98,medium,low,8,namecheap,,,25/09/2026 17:12
 4741951c-11ec-4a8b-bfe6-b5556eda78d7,deadlines.bingo,available,53.99,53.99,medium,low,9,namesilo,,,21/09/2026 08:50
 9a5c643d-3b97-4555-807f-e885215156f9,chinquapin.bingo,available,53.99,53.99,medium,low,10,namesilo,,,18/09/2026 10:57
@@ -103,33 +114,41 @@ a9ed8aab-9334-4b17-90ac-b5558f2e78a8,audiometry.bingo,available,53.99,53.99,medi
 ff550d60-8888-4ab6-a3c7-0ae2afa3b7ec,cenozoic.bingo,available,14.99,77.99,medium,low,8,name.com,,,11/08/2026 23:46
 dabf2f79-158d-461e-a563-4aec4efc191a,sexually.bingo,available,51.98,68.98,medium,low,8,namecheap,,,16/09/2026 01:18
 4f3836f4-a93a-4b8c-8c1b-f33b3f1c755b,markovian.bingo,available,14.99,77.99,medium,low,9,name.com,,,24/08/2026 16:06
+9e968027-683f-4a43-a0e1-7a7947fb6fde,gardener.bingo,available,42.64,42.64,medium,low,8,spaceship,,,28/09/2026 09:51
 d4c22067-85a9-44bb-8df1-929982e4ea42,geothermic.bingo,available,14.99,77.99,medium,low,10,name.com,,,18/08/2026 22:41
 998434bd-3f8d-446c-b7ae-7c7ad49783d5,typed.bingo,available,53.99,53.99,high,low,5,namesilo,,,17/09/2026 22:44
 99b0bdd4-8e03-43a3-855a-b19874c78a0c,synovial.bingo,available,51.98,68.98,medium,low,8,namecheap,,,11/09/2026 06:37
 245377e8-3381-4ae0-91b5-58e5168002d9,deviate.bingo,available,14.99,77.99,high,low,7,name.com,,,
+e2d35c43-cc7f-4a05-a488-2954fea12001,cyrus.bingo,available,51.98,68.98,medium,low,5,namecheap,,,28/09/2026 13:50
 7d5ba310-980c-4352-9a21-70427213fac5,graciously.bingo,available,51.98,68.98,high,low,10,namecheap,,,14/09/2026 21:58
+41da5fe2-0b43-41f3-839d-6fa5971766f4,tray.bingo,available,53.99,53.99,medium,low,4,namesilo,,,28/09/2026 11:01
+e226e5bc-2f88-4708-9031-6ea4e98debe1,morality.bingo,available,53.99,53.99,medium,low,8,namesilo,,,28/09/2026 09:42
 e3178ee7-fd0c-402e-ba2c-65354ba478ed,rory.bingo,available,8.24,44.09,high,low,4,dynadot,,,28/09/2026 03:38
 3370784c-f10e-45a3-aa4d-7bc430a1f585,labial.bingo,available,14.99,77.99,medium,low,6,name.com,,,22/08/2026 17:19
+abd8c1ef-c540-4e34-8cd1-ba96501a1e27,jong.bingo,available,41.2,41.2,medium,low,4,cloudflare,,,28/09/2026 14:03
 e4fb3690-9db2-40bb-8159-04604ecb8573,orderly.bingo,available,51.98,68.98,high,low,7,namecheap,,,03/09/2026 14:34
 e70d8c35-139a-4eda-8183-8623f73fb157,nohow.bingo,available,51.98,68.98,low,low,5,namecheap,,,15/09/2026 16:44
 31c37573-0edb-4d66-a333-fb1cc6a22944,tabular.bingo,available,51.98,68.98,high,low,7,namecheap,,,11/09/2026 06:55
 2feb090e-a75a-45b7-9fa7-2f0ed3399281,daytime.bingo,available,14.99,,high,low,7,name.com,,,
+2731552a-260b-47f2-8d8a-c2d1818e2b8e,monument.bingo,available,53.99,53.99,high,low,8,namesilo,,,28/09/2026 14:54
 b3951b89-e9a1-4637-a984-d733fe5bf88d,vanderbilt.bingo,available,53.99,53.99,high,low,10,namesilo,,,25/09/2026 04:24
 9954dccb-3dd4-401d-bae8-ebd573d0bd10,tennyson.bingo,available,53.99,53.99,medium,low,8,namesilo,,,18/09/2026 06:38
 075e4bbe-14c9-4892-8f6b-4776757bbd84,glibly.bingo,available,51.98,68.98,medium,low,6,namecheap,,,14/09/2026 21:34
 6f62da14-a1f2-4676-9500-d16ad2a35530,mistrust.bingo,available,53.99,53.99,high,low,8,namesilo,,,24/09/2026 23:12
 fc75e8fd-8c7d-45b7-aea4-260db436dc94,obedient.bingo,available,14.99,77.99,high,low,8,name.com,,,03/09/2026 23:30
-ad5a75f9-595d-4732-887f-8a6cb911e7b1,alabama.bingo,available,14.99,,high,low,7,name.com,,,
+5fe5e297-41ea-47c8-b5ef-b1b85a0ed439,finishes.bingo,available,41.2,41.2,medium,low,8,cloudflare,,,28/09/2026 18:11
+ad5a75f9-595d-4732-887f-8a6cb911e7b1,alabama.bingo,available,42.64,42.64,high,low,7,spaceship,,,28/09/2026 20:00
 d46308ca-2a73-48a0-a091-424d012e617e,nineties.bingo,available,53.99,53.99,medium,low,8,namesilo,,,16/09/2026 12:01
 47423c14-3d22-456a-8618-5c13eb165d23,amused.bingo,available,14.99,77.99,high,low,6,name.com,,,
 b5cab561-5c14-49d7-93fb-637ddeec76d6,binding.bingo,available,51.98,68.98,high,low,7,namecheap,,,22/09/2026 20:51
-325c3bd4-64fd-4a63-a76e-c71f45e05c62,barber.bingo,available,14.99,,high,low,6,name.com,,,
+325c3bd4-64fd-4a63-a76e-c71f45e05c62,barber.bingo,available,53.99,53.99,high,low,6,namesilo,,,29/09/2026 01:08
 84d52feb-983e-4c30-8dc6-990f809cd126,institution.bingo,available,53.99,53.99,high,low,11,namesilo,,,27/09/2026 08:25
 4eae8554-52e3-44f6-ba0a-5bf18e55e5e3,lunchboxes.bingo,available,53.99,53.99,medium,low,10,namesilo,,,21/09/2026 09:13
 80e0015f-03c1-46f3-babb-4157cd237953,untainted.bingo,available,51.98,68.98,medium,low,9,namecheap,,,10/09/2026 18:22
 80681bb6-25fe-4902-a672-e7d9bbf59f2a,twisty.bingo,available,51.98,68.98,high,low,6,namecheap,,,11/09/2026 21:54
 3cf4f0a0-1596-4f17-8ece-655f28a18cd7,rounder.bingo,available,14.99,77.99,medium,low,7,name.com,,,23/08/2026 00:51
 bc325347-331d-4e68-94a9-541e0b59111c,stoolie.bingo,available,14.99,77.99,medium,low,7,name.com,,,11/08/2026 16:46
+16301b05-b0c9-470a-a21d-dd7e4bfdc638,multiplier.bingo,available,41.2,41.2,high,low,10,cloudflare,,,28/09/2026 14:56
 44437c79-af58-49be-9fe7-aa81fe360a68,bandoneon.bingo,available,53.99,53.99,medium,low,9,namesilo,,,22/09/2026 01:29
 c993983e-ccee-4f84-af1b-2696abc17146,glimmery.bingo,available,14.99,77.99,medium,low,8,name.com,,,20/08/2026 14:28
 3c5b5b98-d83c-4b88-9bf1-e4895e95f10d,bellbottom.bingo,available,14.99,77.99,low,low,10,name.com,,,09/08/2026 13:21
@@ -140,6 +159,7 @@ b870df71-ce3a-4b0a-a43b-1edb630a8625,seafood.bingo,available,51.98,68.98,high,lo
 4be8da2c-f2d1-401d-8b0a-a82f18a0cf97,exonerated.bingo,available,14.99,77.99,high,low,10,name.com,,,
 87e49da3-a6eb-4fdf-961b-c8b78253f420,occupier.bingo,available,51.98,68.98,high,low,8,namecheap,,,09/09/2026 14:58
 f8804a3c-44b4-4912-b87b-1e903f0b733b,heliacal.bingo,available,14.99,77.99,medium,low,8,name.com,,,21/08/2026 06:23
+7aa37024-46ec-4ddb-85ce-942b1e6a4cbf,afc.bingo,available,41.2,41.2,high,low,3,cloudflare,,,28/09/2026 16:17
 d3cbd4df-9400-43c9-87ad-a66a15d2c59a,batteries.bingo,available,42.64,42.64,medium,low,9,spaceship,,,27/09/2026 23:45
 f8c3c6c6-a50b-4fa2-bbbd-4e13f6c47b1e,jackfruit.bingo,available,14.99,77.99,high,low,9,name.com,,,20/09/2026 11:58
 0088c04c-c31a-4874-ad5a-32cb96b35300,particle.bingo,available,51.98,68.98,high,low,8,namecheap,,,24/09/2026 18:19
@@ -148,19 +168,20 @@ fa6d9467-b853-4c3a-a2b1-a597292cb2b4,hitting.bingo,available,53.99,53.99,high,lo
 8fa71328-5085-4c24-9fd6-ff91582d428e,expense.bingo,available,53.99,53.99,high,low,7,namesilo,,,24/09/2026 22:30
 54acd1ad-990a-4818-b7a7-a1d813544ce6,adorer.bingo,available,53.99,53.99,medium,low,6,namesilo,,,17/09/2026 09:45
 d93ddef5-77d6-4824-bbb2-bcbcb52aeb0c,civil.bingo,available,14.99,77.99,high,low,5,name.com,,,12/08/2026 09:03
-4798ce99-3781-4fae-8208-8a5bbed118f0,integrate.bingo,available,53.99,53.99,high,low,9,namesilo,,,24/09/2026 06:03
+4798ce99-3781-4fae-8208-8a5bbed118f0,integrate.bingo,available,53.99,53.99,high,low,9,namesilo,,,28/09/2026 06:58
 0ea27b6c-c6b6-428e-a2da-f6abf017f007,papist.bingo,available,51.98,68.98,medium,low,6,namecheap,,,05/09/2026 01:35
 647abcf4-d7fe-48e4-bcec-4dae7cb22056,wickedness.bingo,available,14.99,77.99,medium,low,10,name.com,,,17/08/2026 15:06
-980da08d-32dc-4a13-846d-714351420050,publicly.bingo,available,14.99,,medium,low,8,name.com,,,
+980da08d-32dc-4a13-846d-714351420050,publicly.bingo,available,8.24,44.09,medium,low,8,dynadot,,,28/09/2026 15:37
 fe445282-1df1-46cd-ba68-6e99d7442bff,argal.bingo,available,53.99,53.99,medium,low,5,namesilo,,,20/09/2026 04:10
 a98acc59-089e-46e7-aa87-ccd77192642e,tribute.bingo,available,14.99,,high,low,7,name.com,,,
 6da67c21-633f-43c1-9875-71666fd2484d,confusion.bingo,available,14.99,,high,low,9,name.com,,,
 d5352225-0a56-4c86-9638-fc393083c707,arrangement.bingo,available,42.64,42.64,high,low,11,spaceship,,,27/09/2026 21:23
 53534f0d-da59-4aac-b842-dbc0831283ad,sessions.bingo,available,53.99,53.99,high,low,8,namesilo,,,28/09/2026 03:02
+39367e5d-1200-476f-8525-f0c793a30ad7,leith.bingo,available,51.98,68.98,medium,low,5,namecheap,,,28/09/2026 16:45
 8acd3c4e-b1c5-426e-a61b-7d96cb582cff,fuckster.bingo,available,14.99,,medium,low,8,name.com,,,
 ac714a99-336b-46bc-821f-b237393038d3,reilly.bingo,available,53.99,53.99,high,low,6,namesilo,,,27/09/2026 02:49
 53ed08b8-0a63-431d-acdd-b27972346b82,hacker.bingo,available,53.99,53.99,high,medium,6,namesilo,,,24/09/2026 20:44
-7c862204-8483-41c9-b2c6-6c5848327f4d,skirt.bingo,available,14.99,,high,low,5,name.com,,,
+7c862204-8483-41c9-b2c6-6c5848327f4d,skirt.bingo,available,53.99,53.99,high,low,5,namesilo,,,29/09/2026 03:43
 8e1b031f-c7a1-4b8a-be14-9e7150fba437,anemometry.bingo,available,53.99,53.99,medium,low,10,namesilo,,,19/09/2026 05:18
 9e7e1106-96d8-47e7-9c55-6098b5a27cb5,anu.bingo,available,53.99,53.99,high,low,3,namesilo,,,19/09/2026 15:50
 d922fb32-7fe7-43c9-b508-2c0c01a3225c,unadvised.bingo,available,14.99,77.99,medium,low,9,name.com,,,21/08/2026 18:49
@@ -186,19 +207,24 @@ f9e027ad-16a6-4e67-814f-e968c181d0b1,dental.bingo,available,53.99,53.99,high,low
 8a3f8432-b208-46b9-a04f-85dcc74ac61c,apophatic.bingo,available,14.99,77.99,medium,low,9,name.com,,,06/08/2026 02:27
 83452118-0ace-4732-a646-b988e689fa4d,programmes.bingo,available,51.98,68.98,medium,low,10,namecheap,,,20/09/2026 10:20
 288276f3-7ba9-434b-a114-6a9489f81856,acanthurus.bingo,available,,,medium,low,10,,,,16/09/2026 20:58
+77954b6a-39aa-49d4-9357-affc94f3ef69,whipped.bingo,available,41.2,41.2,medium,low,7,cloudflare,,,28/09/2026 21:21
 4569689d-1c0b-4a49-92e2-01dd1e00c459,houses.bingo,available,51.98,68.98,high,low,6,namecheap,,,17/09/2026 21:10
 f117f01b-87df-4a51-ba75-cac67f406dd0,saving.bingo,available,42.64,42.64,high,low,6,spaceship,,,27/09/2026 18:08
-b1cdeb97-d8f0-4876-a03e-afca8ffc3cd0,urban.bingo,available,14.99,,high,low,5,name.com,,,
+b1cdeb97-d8f0-4876-a03e-afca8ffc3cd0,urban.bingo,available,42.64,42.64,high,low,5,spaceship,,,28/09/2026 10:00
 54cbeb82-523b-4176-8185-10b397b6215d,remained.bingo,available,51.98,68.98,medium,low,8,namecheap,,,18/09/2026 11:23
 5001ef7d-776e-474e-b70e-04235e23c906,confirmed.bingo,available,51.98,68.98,high,low,9,namecheap,,,23/09/2026 19:53
 a457cf20-cc8a-452c-b84c-37acea9cc83a,interred.bingo,available,14.99,77.99,medium,low,8,name.com,,,11/08/2026 10:36
+3202d0ed-7ac1-4283-b4e1-e9e5a532d565,hobson.bingo,available,42.64,42.64,medium,low,6,spaceship,,,28/09/2026 12:14
+a3d11a5d-9542-4438-932a-0cd696fb6e0d,cebu.bingo,available,8.24,44.09,medium,low,4,dynadot,,,28/09/2026 18:38
 40bfec48-3c48-4e56-976c-0a81805e8525,godlike.bingo,available,14.99,77.99,high,low,7,name.com,,,20/08/2026 16:06
 c753a831-13ab-4028-9422-00639ca50ab5,dank.bingo,available,14.99,77.99,high,low,4,name.com,,,12/08/2026 09:24
+3eab49fd-7942-4f53-8be3-1a6fc129219e,inconvenience.bingo,available,42.64,42.64,medium,low,13,spaceship,,,29/09/2026 02:52
 3e7b08c3-e4a8-40d3-bc0d-6d7361f64e09,isoclinic.bingo,available,14.99,77.99,medium,low,9,name.com,,,22/08/2026 11:02
 51d9b962-f9eb-447e-8ed6-f194441651eb,proclaim.bingo,available,14.99,,high,low,8,name.com,,,
 dc6a7df9-fe44-43de-b7ee-35340293cce6,asteroid.bingo,available,53.99,53.99,high,low,8,namesilo,,,22/09/2026 10:17
 0f60787a-67f4-4b2f-8d77-7dfd678aa59d,abhorrent.bingo,available,51.98,68.98,medium,low,9,namecheap,,,21/09/2026 13:49
 336a9c59-3374-47ae-8cbd-1a16c6eb2f0f,rolled.bingo,available,14.99,77.99,high,low,6,name.com,,,18/08/2026 18:46
+1fd592d4-c702-4530-af2c-bc74bb819863,mysteries.bingo,available,42.64,42.64,high,low,9,spaceship,,,28/09/2026 17:32
 b8a5e2a0-ade4-4d7a-9996-6cc985097a9e,lento.bingo,available,14.99,77.99,medium,low,5,name.com,,,22/08/2026 23:53
 70d11df7-6873-4130-917d-36c7c9f5f9ac,archaic.bingo,available,14.99,77.99,high,low,7,name.com,,,
 aadf5702-3217-4500-9adf-2a9d138a550d,agaric.bingo,available,53.99,53.99,medium,low,6,namesilo,,,17/09/2026 16:17
@@ -207,6 +233,7 @@ aadf5702-3217-4500-9adf-2a9d138a550d,agaric.bingo,available,53.99,53.99,medium,l
 81a2263d-fc7d-4199-b805-6e1a0b6515dd,venter.bingo,available,53.99,53.99,medium,low,6,namesilo,,,16/09/2026 14:46
 a49483ce-2af1-4d7a-99d5-5846cc846dae,symphonic.bingo,available,51.98,68.98,high,low,9,namecheap,,,11/09/2026 06:07
 ee0690d4-ccb3-4b20-88b3-2942ff56227d,dimorphic.bingo,available,14.99,77.99,medium,low,9,name.com,,,14/08/2026 08:09
+31db1f5a-f2bb-4ac0-a219-fd6fdbb14498,fia.bingo,available,42.64,42.64,medium,low,3,spaceship,,,28/09/2026 09:02
 128c47dd-0fb0-4ec8-8911-4cf99dd22990,birdhouse.bingo,available,14.99,77.99,high,low,9,name.com,,,23/09/2026 20:39
 14af74f5-dad9-410d-bd69-600dcf11538f,enclosed.bingo,available,14.99,77.99,high,low,8,name.com,,,16/08/2026 22:21
 c192f103-5203-4f3e-8d50-12c1095a1c34,nun.bingo,available,14.99,,high,low,3,name.com,,,
@@ -239,9 +266,10 @@ a2b55576-9de2-4523-96da-92fffc68e4ec,lucifugous.bingo,available,14.99,77.99,low,
 d3dccc47-65cc-41fc-82b6-7b924231be8a,residual.bingo,available,51.98,68.98,high,low,8,namecheap,,,09/09/2026 14:59
 95d3445b-4918-4fd4-8dbb-9d0156ae23d9,buttocks.bingo,available,14.99,77.99,medium,low,8,name.com,,,09/08/2026 10:25
 12ae9b7e-db03-4bf0-9686-33a55adf9fb9,exterior.bingo,available,14.99,77.99,high,low,8,name.com,,,17/08/2026 19:05
+74fa9ccd-89d2-4e6c-ab45-145355c68f04,caretaker.bingo,available,42.64,42.64,high,low,9,spaceship,,,28/09/2026 13:39
 5f1da93f-bfb6-4623-85ed-066509b6db42,spoilt.bingo,available,14.99,77.99,medium,low,6,name.com,,,10/08/2026 14:19
 e989fc76-ba7b-493b-97eb-6ad934f3ee18,sheila.bingo,available,53.99,53.99,high,low,6,namesilo,,,27/09/2026 17:05
-9f0bef0d-94a7-4e4b-b99b-f2cb8b0c1175,fabric.bingo,available,53.99,53.99,high,low,6,namesilo,,,25/09/2026 05:01
+9f0bef0d-94a7-4e4b-b99b-f2cb8b0c1175,fabric.bingo,available,53.99,53.99,high,low,6,namesilo,,,28/09/2026 13:02
 40000662-a570-4b27-9bdb-7ba7a496d17f,zombies.bingo,available,53.99,53.99,medium,low,7,namesilo,,,18/09/2026 03:58
 75c1bf35-f7cb-4169-b49c-d2d7f3e25a65,income.bingo,available,14.99,,high,low,6,name.com,,,
 f65a948d-c6fc-4b21-9bf1-be5064d2b2d7,heels.bingo,available,53.99,53.99,high,low,5,namesilo,,,27/09/2026 10:19
@@ -249,6 +277,7 @@ cbf49dd8-2569-4bc0-a775-c27011e608d7,idealized.bingo,available,14.99,77.99,high,
 70d9b57f-c697-44b4-a77f-8d7f76105acb,belief.bingo,available,53.99,53.99,high,low,6,namesilo,,,23/09/2026 05:12
 077ea524-554c-4f79-90f9-54b2323b0eeb,grandmother.bingo,available,14.99,,high,low,11,name.com,,,
 620fb0c3-9ecb-4116-937f-67b52e43b9e7,arity.bingo,available,53.99,53.99,medium,low,5,namesilo,,,20/09/2026 06:02
+98260a37-7056-43db-8b14-b710222de1e4,guadalajara.bingo,available,42.64,42.64,medium,low,11,spaceship,,,28/09/2026 07:53
 b97d8617-0256-4601-a442-5b51a0e87428,auriferous.bingo,available,53.99,53.99,medium,low,10,namesilo,,,22/09/2026 13:02
 1e3143ac-bd3f-454a-a1f6-fae886570d75,finical.bingo,available,14.99,77.99,medium,low,7,name.com,,,18/08/2026 04:56
 765c3cdc-7563-4b36-b05f-2623fbf2bfb4,bedroom.bingo,available,51.98,68.98,high,low,7,namecheap,,,22/09/2026 23:08
@@ -260,7 +289,9 @@ c4f18fab-8331-4fff-a946-5edf30b49254,divine.bingo,available,14.99,77.99,high,low
 c898d256-15dd-4fab-a681-7f429c2f0784,fiscally.bingo,available,51.98,68.98,medium,low,8,namecheap,,,14/09/2026 18:37
 647d96ab-4e9a-4590-8f28-0e50367e2f24,lambent.bingo,available,14.99,77.99,medium,low,7,name.com,,,
 6a17baf9-9c8b-4288-9ca7-e5a364979f39,graph.bingo,available,14.99,,high,low,5,name.com,,,
+f084ce5a-8f2c-4e0c-9779-6eed0787fe4f,esters.bingo,available,53.99,53.99,low,low,6,namesilo,,,28/09/2026 13:25
 0c2a0066-301a-4c86-9599-9327d760fe62,prosthetic.bingo,available,51.98,68.98,high,low,10,namecheap,,,09/09/2026 03:55
+50f1c7ec-fc62-4ebc-b9c7-0a154376497c,sedgwick.bingo,available,42.64,42.64,medium,low,8,spaceship,,,28/09/2026 16:41
 858b634b-19f9-4827-b3d1-d2e66107394e,unhallowed.bingo,available,51.98,68.98,medium,low,10,namecheap,,,12/09/2026 11:49
 924b8bdf-c65a-4416-87e4-6958a7fe4212,junky.bingo,available,53.99,53.99,medium,low,5,namesilo,,,17/09/2026 06:52
 e4d5e2a8-b882-4ff8-8938-6c04655c3bff,cuisine.bingo,available,42.64,42.64,high,low,7,spaceship,,,28/09/2026 04:20
@@ -271,7 +302,7 @@ c9ae5805-466a-4804-acc1-1f05bd2e5e33,bewilder.bingo,available,53.99,53.99,high,l
 a8ac6d6b-e689-4f22-9ef5-248cef23885d,sheraton.bingo,available,,,high,high,8,,,,
 d0c03c80-fc98-4658-a73f-8671a274b18b,unshapen.bingo,available,51.98,68.98,medium,low,8,namecheap,,,12/09/2026 19:33
 f5a3750a-8cb7-4e63-8dd6-1d5138dc7463,cytotoxic.bingo,available,14.99,77.99,medium,low,9,name.com,,,13/08/2026 14:44
-fc79cffe-e55a-4381-ab9a-e652cbdfefd7,soil.bingo,available,51.98,68.98,high,low,4,namecheap,,,24/09/2026 02:55
+fc79cffe-e55a-4381-ab9a-e652cbdfefd7,soil.bingo,available,41.2,41.2,high,low,4,cloudflare,,,28/09/2026 09:00
 76390130-a4bb-47b6-aa42-561204d3dc7d,airily.bingo,available,51.98,68.98,medium,low,6,namecheap,,,13/09/2026 18:31
 829cb926-da60-42ae-a3ae-c69281538b45,visited.bingo,available,14.99,,high,low,7,name.com,,,
 02920770-18f3-4f9c-b021-196f400ff29b,surviving.bingo,available,51.98,68.98,high,low,9,namecheap,,,11/09/2026 04:49
@@ -285,10 +316,12 @@ f2ef952d-bc85-40a3-9c52-aa5d64eb7ee8,agrologic.bingo,available,14.99,77.99,mediu
 4fb30e86-dc70-4671-8235-9fb17a12eb25,topic.bingo,available,42.64,42.64,high,low,5,spaceship,,,28/09/2026 01:44
 0b78072f-b44d-4efb-b161-e76904910f42,gravel.bingo,available,51.98,68.98,high,low,6,namecheap,,,21/09/2026 17:36
 eb61cbd1-e1de-4cb1-87f7-c26fdf87de8a,beau.bingo,available,14.99,77.99,high,low,4,name.com,,,13/08/2026 17:13
+1d770182-e002-4d05-9dbb-6e95d69ac4cd,tre.bingo,available,53.99,53.99,high,low,3,namesilo,,,29/09/2026 02:48
 965bc057-a35b-4399-88e4-220bb2650b8a,sculptured.bingo,available,14.99,77.99,high,low,10,name.com,,,20/08/2026 18:52
 55ffd950-e112-4113-a296-8e0981ec37a0,omissive.bingo,available,51.98,68.98,medium,low,8,namecheap,,,04/09/2026 02:28
 bb7973ea-0dda-4a8e-a2f1-7205b3c8a4a9,ones.bingo,available,14.99,,high,low,4,name.com,,,
 d27089db-b242-4a99-8022-96f71d1bf55a,bounder.bingo,available,51.98,68.98,medium,low,7,namecheap,,,24/09/2026 02:20
+782e839e-4ac6-42ec-92a9-56c1d7e59070,rom.bingo,available,8.24,44.09,high,low,3,dynadot,,,28/09/2026 19:13
 24300450-56de-4999-91c4-c2a6ba10432d,abode.bingo,available,53.99,53.99,high,low,5,namesilo,,,16/09/2026 16:25
 8ad956c6-8afc-49e7-8d87-e03571d05155,penultima.bingo,available,51.98,68.98,medium,low,9,namecheap,,,08/09/2026 15:14
 4cdadb3b-b109-4dc2-a502-eecf7759bc05,boldly.bingo,available,51.98,68.98,high,low,6,namecheap,,,14/09/2026 00:53
@@ -298,6 +331,8 @@ d27089db-b242-4a99-8022-96f71d1bf55a,bounder.bingo,available,51.98,68.98,medium,
 6261e547-1c20-46a0-bf3d-3ab77659b21a,paranoiac.bingo,available,51.98,68.98,medium,low,9,namecheap,,,08/09/2026 01:08
 3f2a33bc-f454-4fdf-98f2-0ffb07e33ae3,deng.bingo,available,53.99,53.99,high,low,4,namesilo,,,27/09/2026 20:32
 53fbc314-8deb-409f-97ac-c8d4b68cfbec,underived.bingo,available,51.98,68.98,medium,low,9,namecheap,,,12/09/2026 07:29
+936b003a-590d-4471-ade5-cf5c6a19ef43,bleed.bingo,available,41.2,41.2,medium,low,5,cloudflare,,,28/09/2026 14:26
+0502349f-5d97-4b99-96cd-7ddb27b2a9d6,misunderstood.bingo,available,51.98,68.98,medium,low,13,namecheap,,,29/09/2026 02:48
 387723e2-b936-4e18-bb1e-402ce6722346,suppose.bingo,available,14.99,,high,low,7,name.com,,,
 9563912e-343d-4e24-8486-2e7cee477181,gumptious.bingo,available,14.99,77.99,medium,low,9,name.com,,,20/08/2026 20:57
 9da36f11-2912-4488-a950-a64d11069850,unfamiliar.bingo,available,51.98,68.98,high,low,10,namecheap,,,12/09/2026 09:55
@@ -311,26 +346,30 @@ f9d2cc6c-21a8-4583-a4da-afe4d9bdd498,externally.bingo,available,51.98,68.98,medi
 d8c454ab-b852-41e0-8770-b65c9544794f,hungarian.bingo,available,14.99,77.99,high,low,9,name.com,,,21/08/2026 15:39
 57175ea3-a26e-4e1a-a15d-8e9ad1337511,insane.bingo,available,14.99,77.99,medium,low,6,name.com,,,21/08/2026 00:58
 b4280d06-2c25-46fa-9637-67467021580e,skepticism.bingo,available,53.99,53.99,medium,low,10,namesilo,,,24/09/2026 22:29
-54b882d2-d58d-4765-893f-c64a4cc274e0,abundantly.bingo,available,14.99,,high,low,10,name.com,,,
+54b882d2-d58d-4765-893f-c64a4cc274e0,abundantly.bingo,available,41.2,41.2,medium,low,10,cloudflare,,,28/09/2026 11:40
 e66541d7-30ed-4972-a217-57705604a09e,vinous.bingo,available,51.98,68.98,medium,low,6,namecheap,,,13/09/2026 05:47
 35c00d24-bcd0-43c3-8a76-12833f6f0421,aplomb.bingo,available,51.98,68.98,high,low,6,namecheap,,,19/09/2026 17:47
+da564fd9-58fc-4568-bf47-9dd3ef925083,wexford.bingo,available,42.64,42.64,medium,low,7,spaceship,,,28/09/2026 21:57
 82863592-6cb4-4654-9397-39054e09ae72,carambola.bingo,available,53.99,53.99,medium,low,9,namesilo,,,21/09/2026 09:14
 2499a8f8-16b1-4e13-9546-a315165419e6,rained.bingo,available,53.99,53.99,medium,low,6,namesilo,,,20/09/2026 05:42
 942621b4-f8ac-4556-a7ec-b9ef463b6392,talks.bingo,available,14.99,,high,low,5,name.com,,,
-7fa98360-87e6-4585-9d60-fd59d9aec72e,varied.bingo,available,14.99,,high,low,6,name.com,,,
+7fa98360-87e6-4585-9d60-fd59d9aec72e,varied.bingo,available,41.2,41.2,medium,low,6,cloudflare,,,28/09/2026 10:09
 4de83d10-d2c0-4496-9e75-794de29e6827,frostbite.bingo,available,51.98,68.98,high,low,9,namecheap,,,24/09/2026 19:56
 3691cde6-34be-4abd-8707-8374e249bcbc,clinics.bingo,available,51.98,68.98,medium,low,7,namecheap,,,20/09/2026 12:34
 1b3ac848-f7b7-4dc7-93fa-e125817677f6,runproof.bingo,available,14.99,77.99,medium,low,8,name.com,,,22/08/2026 18:28
 93185f0f-32fd-4b4d-a52f-213dc8d35462,combined.bingo,available,14.99,77.99,high,low,8,name.com,,,12/08/2026 18:36
 416d60f7-2a6c-42af-af57-f99b61138e37,blowy.bingo,available,14.99,77.99,medium,low,5,name.com,,,10/08/2026 15:47
-5c0a73c3-0886-4b67-a9c6-e639de0c312f,matter.bingo,available,14.99,,high,low,6,name.com,,,
+02eb1b2a-86b6-4539-828e-6a26a9f1017e,prehistoric.bingo,available,8.24,44.09,medium,low,11,dynadot,,,29/09/2026 03:08
+5c0a73c3-0886-4b67-a9c6-e639de0c312f,matter.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 19:11
 42fba28d-3609-4cca-ade8-1982a44ee765,meagre.bingo,available,14.99,77.99,medium,low,6,name.com,,,24/08/2026 18:04
 d39eb951-ab9a-412a-bbf3-adcdf0907879,shuha.bingo,available,51.98,68.98,medium,low,5,namecheap,,,10/09/2026 07:04
 e918156c-992a-407e-a6a9-b3f5c69d065b,bradley.bingo,available,14.99,77.99,high,low,7,name.com,,,25/09/2026 02:09
 bf53108d-5552-4cc8-848b-784d628a7c0e,proven.bingo,available,51.98,68.98,high,low,6,namecheap,,,27/09/2026 08:25
 7b17196d-aaab-42ff-8ceb-0a69b6c962db,auditor.bingo,available,53.99,53.99,high,low,7,namesilo,,,21/09/2026 01:32
+cf903a56-9757-4d89-8a55-252c60f1c522,macpherson.bingo,available,53.99,53.99,medium,low,10,namesilo,,,28/09/2026 22:18
 b0ed20bf-5523-4b38-b5d9-eb9c2c9a9364,paddlefish.bingo,available,14.99,77.99,medium,low,10,name.com,,,14/08/2026 20:48
 f0f12c2f-7210-4d10-8228-afc460133687,fellow.bingo,available,53.99,53.99,high,low,6,namesilo,,,22/09/2026 21:55
+76ddcba3-9d96-485c-9f65-09a57fb89f8c,tailor.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 10:52
 e331854d-a9ef-44fa-b018-b6d25cd3a2e7,apnoeic.bingo,available,14.99,77.99,medium,low,7,name.com,,,06/08/2026 00:46
 d7553faf-21d1-477f-8fe0-fe9013b7801d,barron.bingo,available,51.98,68.98,high,low,6,namecheap,,,27/09/2026 08:02
 14375f39-1e7f-40ab-8c69-9b6d2c6a6cbc,gina.bingo,available,8.24,44.09,high,low,4,dynadot,,,27/09/2026 17:32
@@ -344,17 +383,21 @@ f3eb1d3a-1dab-4a4a-9ec6-f56f05b7b3f3,orchis.bingo,available,53.99,53.99,medium,l
 e2192ed7-57fa-4d05-a674-f7bccba08a28,beatniks.bingo,available,51.98,68.98,medium,low,8,namecheap,,,22/09/2026 21:34
 26825fd7-40cd-484f-8b32-11170927c9c9,obligation.bingo,available,14.99,77.99,high,low,10,name.com,,,24/09/2026 13:40
 993a955b-180d-4444-b63d-f10b2fc1a73c,unsparing.bingo,available,14.99,77.99,medium,low,9,name.com,,,22/08/2026 21:11
-004536a4-748d-4ade-be8a-d78a6bd3942b,robotics.bingo,available,53.99,53.99,high,low,8,namesilo,,,23/09/2026 09:20
+004536a4-748d-4ade-be8a-d78a6bd3942b,robotics.bingo,available,42.64,42.64,high,low,8,spaceship,,,28/09/2026 08:35
 7f26a2cd-1f7b-469c-a2cf-cdcfc2c0945c,sneeze.bingo,available,14.99,,medium,low,6,name.com,,,
 9df45b59-0b4d-40fa-bb6b-6ba5e1e73a67,tomboy.bingo,available,14.99,,high,low,7,name.com,,,
 af093d9a-e68f-4bcb-a3c7-8a5cbe543093,walden.bingo,available,53.99,53.99,medium,low,6,namesilo,,,27/09/2026 08:12
 7e94e871-a780-4d2c-adc7-2c52d6943bc0,sneaky.bingo,available,14.99,77.99,high,low,6,name.com,,,18/08/2026 18:58
 7465aaad-2cd2-4602-ab5e-87c5989eaa42,eighth.bingo,available,14.99,77.99,high,low,6,name.com,,,
 1e8ef4f9-8a1e-493d-b12f-9ba685e7e18e,annona.bingo,available,53.99,53.99,medium,low,6,namesilo,,,19/09/2026 10:30
+22d90a10-ff02-475a-9213-169337252626,moth.bingo,available,42.64,42.64,high,low,4,spaceship,,,28/09/2026 19:56
 4db9059a-f117-4462-adab-7edc88d59044,flattened.bingo,available,14.99,77.99,medium,low,9,name.com,,,18/08/2026 06:55
+50fcfaa1-c111-46d2-8060-96003060bca6,outrage.bingo,available,53.99,53.99,medium,low,7,namesilo,,,28/09/2026 10:08
+34d8b60d-70be-40ee-aa8a-feedf1c57568,zimmer.bingo,available,53.99,53.99,high,low,6,namesilo,,,29/09/2026 02:39
 1c8dbffd-e64e-419c-956d-520dcfa8696b,undeniable.bingo,available,14.99,77.99,high,low,10,name.com,,,12/09/2026 07:15
 50708134-1acc-43d1-b321-783146b09c29,tined.bingo,available,51.98,68.98,medium,low,5,namecheap,,,09/09/2026 03:20
 16bd530f-613d-4dab-8a9e-97dc94591829,condemn.bingo,available,14.99,,medium,low,7,name.com,,,
+643060a0-012a-43a2-9090-db61219a08ce,doorway.bingo,available,42.64,42.64,high,low,7,spaceship,,,28/09/2026 18:58
 89fdef88-c79d-4468-8431-ceac250aca15,failed.bingo,available,14.99,,medium,low,6,name.com,,,
 4025aec5-7568-473b-b003-25a35e0d21b2,seemed.bingo,available,51.98,68.98,medium,low,6,namecheap,,,18/09/2026 01:00
 0f111c03-f5a8-4934-902c-7a0a549c1bb6,tiptoe.bingo,available,51.98,68.98,medium,low,6,namecheap,,,11/09/2026 16:21
@@ -375,6 +418,7 @@ ed69d471-4b1a-4203-afb5-e602d3d55cad,winless.bingo,available,51.98,68.98,high,lo
 5523aa2c-f72c-46f7-9f2b-4368a244f697,parotid.bingo,available,51.98,68.98,medium,low,7,namecheap,,,08/09/2026 01:50
 dbf71104-9732-4070-a845-b0f075b9aace,winthrop.bingo,available,53.99,53.99,high,low,8,namesilo,,,27/09/2026 19:50
 6d7dd8d2-18c8-437f-add1-107c1617f91c,exam.bingo,available,53.99,53.99,high,low,4,namesilo,,,27/09/2026 03:51
+f79df548-f83b-4b11-885f-c36e7da8cd4c,barack.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 07:27
 5fc014ae-cc86-44cf-8044-a17769fb5e01,begging.bingo,available,53.99,53.99,medium,low,7,namesilo,,,23/09/2026 02:16
 f5f556e2-ea47-4fba-918f-8012a5f33b70,footballers.bingo,available,51.98,68.98,high,low,11,namecheap,,,20/09/2026 13:07
 81364e1b-63f3-4630-b87f-1955cbb65d09,dispersion.bingo,available,53.99,53.99,high,low,10,namesilo,,,24/09/2026 22:57
@@ -385,7 +429,7 @@ dcb1074a-cc19-4828-95cd-11979498285b,linda.bingo,available,53.99,53.99,high,low,
 0e0e2321-7e3f-4215-9f06-4813af8597a0,blower.bingo,available,14.99,77.99,medium,low,6,name.com,,,12/08/2026 01:06
 48b8ce49-4b71-410a-874a-d7695215b768,stimulus.bingo,available,51.98,68.98,high,low,8,namecheap,,,10/09/2026 20:39
 21a7e3e2-667c-4520-bc06-785f3ba0fbd8,milled.bingo,available,14.99,77.99,medium,low,6,name.com,,,24/08/2026 23:08
-87a50105-b6ea-44ab-b7ed-97eec40cc152,wagering.bingo,available,53.99,53.99,high,low,8,namesilo,,,25/09/2026 02:56
+87a50105-b6ea-44ab-b7ed-97eec40cc152,wagering.bingo,available,8.24,44.09,high,low,8,dynadot,,,28/09/2026 11:01
 c0a72253-b570-4da6-9dc0-7b586cf2f621,enemies.bingo,available,51.98,68.98,medium,low,7,namecheap,,,25/09/2026 17:51
 e7f26866-b757-4870-9462-0b634a48bd14,claim.bingo,available,14.99,,high,low,5,name.com,,,
 bdb09ab3-2208-418a-8bbd-526af13eae6c,crawling.bingo,available,53.99,53.99,medium,low,8,namesilo,,,28/09/2026 05:30
@@ -403,15 +447,20 @@ a604d910-bdf6-4efa-8fc6-d6415aae11d4,inimical.bingo,available,14.99,77.99,medium
 acf76621-c267-4dd5-ba76-8bc6067c11b9,splurge.bingo,available,53.99,53.99,high,low,7,namesilo,,,23/09/2026 17:20
 a3a27dbe-7b80-4bc2-81c7-a1a83d169c79,defective.bingo,available,14.99,77.99,medium,low,9,name.com,,,13/08/2026 23:06
 41e6396f-b331-4e87-bab2-621b372e7d82,affliction.bingo,available,51.98,68.98,medium,low,10,namecheap,,,17/09/2026 14:39
+049fb697-c83f-459c-8b1c-cb40cd4c5c87,assembled.bingo,available,53.99,53.99,medium,low,9,namesilo,,,28/09/2026 23:20
+034a0ebc-90ac-426c-a174-da0d24395d43,marjorie.bingo,available,42.64,42.64,medium,low,8,spaceship,,,29/09/2026 04:00
 b1c20279-3c7a-4690-b559-0c292b620753,pancreas.bingo,available,14.99,,high,low,8,name.com,,,
 5920131a-618a-4e8a-8b78-18a7707c37c5,hostess.bingo,available,53.99,53.99,high,low,7,namesilo,,,17/09/2026 22:27
 2b8e2ce7-2040-4348-a7ba-a19daaa5b549,apical.bingo,available,14.99,77.99,medium,low,6,name.com,,,05/08/2026 23:58
 ef02f523-5c3d-4a51-96bd-4a10a1d342b2,missional.bingo,available,14.99,77.99,medium,low,9,name.com,,,25/08/2026 01:50
-3eb075c0-5828-492e-ae47-4c79fb705665,gently.bingo,available,14.99,,high,low,6,name.com,,,
-2e061dc3-3afe-4a0d-9d84-9d87bddb4484,workings.bingo,available,14.99,,high,low,8,name.com,,,
+3eb075c0-5828-492e-ae47-4c79fb705665,gently.bingo,available,41.2,41.2,high,low,6,cloudflare,,,28/09/2026 14:58
+2e061dc3-3afe-4a0d-9d84-9d87bddb4484,workings.bingo,available,53.99,53.99,high,low,8,namesilo,,,28/09/2026 10:48
 f86142ae-8fcf-403d-9152-ee31d7d04174,liquefied.bingo,available,14.99,77.99,medium,low,9,name.com,,,23/08/2026 22:01
-33c8aede-ab8e-4f2d-b019-9079ef18ebaa,manage.bingo,available,53.99,53.99,high,medium,6,namesilo,,,23/09/2026 08:43
+200313bb-d4d0-4403-a8c1-8c971852d650,hymn.bingo,available,51.98,68.98,high,low,4,namecheap,,,29/09/2026 01:20
+3839b85e-85b8-478a-b798-31676bc31b8c,roles.bingo,available,53.99,53.99,medium,low,5,namesilo,,,28/09/2026 21:41
+33c8aede-ab8e-4f2d-b019-9079ef18ebaa,manage.bingo,available,51.98,68.98,high,medium,6,namecheap,,,28/09/2026 06:55
 4553aada-1142-4517-949b-11ef5f4a06f1,afraid.bingo,available,53.99,53.99,high,low,6,namesilo,,,26/09/2026 00:46
+371deeea-5806-4a8b-8f50-108ad4b5c52b,sparks.bingo,available,53.99,53.99,high,low,6,namesilo,,,28/09/2026 12:19
 84b736a5-1d1d-42a4-ad53-a702efbe2c25,bagpipe.bingo,available,51.98,68.98,high,low,7,namecheap,,,21/09/2026 18:26
 e9e00874-80ea-48a8-b184-75b07d074855,unimpeded.bingo,available,51.98,68.98,medium,low,9,namecheap,,,12/09/2026 13:10
 8e078ac1-d225-4ef0-bd33-f59d8eec421d,rife.bingo,available,51.98,68.98,medium,low,4,namecheap,,,04/09/2026 20:07
@@ -424,17 +473,20 @@ e5a1358a-58bb-44dd-90c8-76002d2d59d5,undesirable.bingo,available,14.99,,medium,l
 a3f2d180-0186-4233-95ff-504bcd8c64f3,prosecution.bingo,available,14.99,,high,low,11,name.com,,,
 0a4040ec-a557-48fa-ab76-5298a39e7206,outermost.bingo,available,51.98,68.98,high,low,9,namecheap,,,04/09/2026 19:17
 6e421b33-77e7-4fa7-a07e-dacee7ee0dfc,ostracize.bingo,available,53.99,53.99,medium,low,9,namesilo,,,24/09/2026 01:58
+933949b7-0b93-455f-ae6f-c062a19092d4,trusts.bingo,available,42.64,42.64,medium,low,6,spaceship,,,28/09/2026 18:18
 6c7bf6b8-3661-48db-8431-f806f4252412,banting.bingo,available,51.98,68.98,medium,low,7,namecheap,,,22/09/2026 03:15
 9aa2f778-670c-43d7-b0b7-398c94af8c3d,seamed.bingo,available,14.99,77.99,medium,low,6,name.com,,,10/09/2026 00:45
+50c67bfe-3334-4928-b430-d5d1cee1f032,catastrophe.bingo,available,53.99,53.99,medium,low,11,namesilo,,,28/09/2026 22:54
+c22646a8-e5a2-419f-a67a-299df0816d79,vicki.bingo,available,8.24,44.09,medium,low,5,dynadot,,,29/09/2026 04:00
 948ae4bf-5aa6-4634-8fea-243dc66e6e44,atc.bingo,available,53.99,53.99,high,low,3,namesilo,,,27/09/2026 07:00
 cca03295-b581-4367-9788-69a8da7a3eb1,singular.bingo,available,14.99,77.99,high,low,8,name.com,,,13/08/2026 11:18
 583d16ed-9c4c-43a6-8cb0-d02816330580,compete.bingo,available,14.99,,high,low,7,name.com,,,
-3e96221c-ef76-48a4-9ad6-fea4985c93b3,america.bingo,premium,118.8,118.8,high,low,7,namesilo,,,
 9a40e3c0-106f-484a-88cf-1e5cebeb294d,phlegmatic.bingo,available,51.98,68.98,medium,low,10,namecheap,,,08/09/2026 18:53
 b9e9104c-a2e8-4155-b6f8-98ac179c9178,isotonic.bingo,available,14.99,77.99,medium,low,8,name.com,,,22/08/2026 11:18
 9cff7ba5-378e-4e6d-8198-253ba84586ee,uniformed.bingo,available,51.98,68.98,medium,low,9,namecheap,,,12/09/2026 12:57
 dd123b96-9f07-4eb0-8fcd-a9b6fd4e5ed9,european.bingo,available,53.99,53.99,high,low,8,namesilo,,,24/09/2026 15:26
 34fc3cad-a575-4457-bb35-130343b12690,conforming.bingo,available,14.99,77.99,high,low,10,name.com,,,12/08/2026 21:11
+e4b3d641-4ab1-4688-af82-04141c4b6db0,chung.bingo,available,42.64,42.64,medium,low,5,spaceship,,,28/09/2026 16:45
 ff606b93-48b8-4356-8854-f0a798aba4e5,formation.bingo,available,42.64,42.64,high,low,9,spaceship,,,28/09/2026 05:38
 d493e44c-ac19-4d2a-82d9-1e67b9397927,tingle.bingo,available,51.98,68.98,medium,low,6,namecheap,,,11/09/2026 16:11
 22f8b718-eb18-4d41-b1ec-48e0b150e8d1,bonzer.bingo,available,14.99,77.99,medium,low,6,name.com,,,10/08/2026 19:02
@@ -444,7 +496,7 @@ e27e1f4f-2a29-404d-81e7-dbb12690e4a6,hastings.bingo,available,53.99,53.99,high,l
 d7329112-d007-4ef6-9ef3-f538a281e74d,steerable.bingo,available,14.99,77.99,medium,low,9,name.com,,,14/08/2026 09:00
 ebd76bf7-a150-4265-a8bb-a15e6e358c9c,citizenship.bingo,available,14.99,,high,low,11,name.com,,,
 8464dec8-c175-46ae-934c-25acc985d33d,anglesea.bingo,available,53.99,53.99,medium,low,8,namesilo,,,19/09/2026 06:27
-08e097bd-4347-4cbd-afdf-c67218140ffd,facility.bingo,available,14.99,,high,low,8,name.com,,,
+08e097bd-4347-4cbd-afdf-c67218140ffd,facility.bingo,available,42.64,42.64,high,low,8,spaceship,,,28/09/2026 18:28
 191ab79c-d514-4a1b-8a8e-f3ad6c24694f,cautionary.bingo,available,14.99,77.99,medium,low,10,name.com,,,
 828bb0fd-2703-456b-8b01-4199251ef4aa,enlarged.bingo,available,53.99,53.99,high,low,8,namesilo,,,22/09/2026 22:37
 60d63b5e-9308-483a-a987-31f1753bfe68,microbial.bingo,available,51.98,68.98,medium,low,9,namecheap,,,08/09/2026 09:41
@@ -462,18 +514,21 @@ a3983362-9f48-46eb-89d5-f16d38032e61,maidenly.bingo,available,14.99,77.99,medium
 701cc28a-3a22-4a95-88c9-d54fc81ad220,bioscope.bingo,available,51.98,68.98,medium,low,8,namecheap,,,23/09/2026 19:01
 ef0f1656-563e-400b-b921-3e77383d5cad,expertly.bingo,available,51.98,68.98,high,low,8,namecheap,,,14/09/2026 17:05
 e02d3462-2963-4d4c-bcdb-9f441f0bc552,trainer.bingo,available,53.99,53.99,high,low,7,namesilo,,,27/09/2026 13:32
-0703671b-ba95-4c6b-8a66-a0e7a3e69a8c,highly.bingo,available,14.99,,high,low,6,name.com,,,
+0703671b-ba95-4c6b-8a66-a0e7a3e69a8c,highly.bingo,available,41.2,41.2,medium,low,6,cloudflare,,,28/09/2026 14:51
 95d931ca-1ddb-45ff-b438-79bee80b43ee,guitar.bingo,available,14.99,,high,low,6,name.com,,,
 c5e8ee9d-b6e5-4605-bcba-6b48760c2d01,forsooth.bingo,available,51.98,68.98,low,low,8,namecheap,,,14/09/2026 19:55
+e8e8a229-d9eb-472b-869c-3529498707b0,ari.bingo,available,41.2,41.2,high,medium,3,cloudflare,,,28/09/2026 07:41
 b330e6f3-0bf3-4e30-b03e-7ac0b78a21df,streamed.bingo,available,41.2,41.2,high,low,8,cloudflare,,,28/09/2026 03:37
 bbd96119-a279-4183-8b0b-0c9fad72d906,terminated.bingo,available,53.99,53.99,high,low,10,namesilo,,,19/09/2026 16:25
 34d32628-e42e-44c0-99fb-2383241d6927,optically.bingo,available,51.98,68.98,medium,low,9,namecheap,,,15/09/2026 18:03
 04831774-d944-4edd-a84a-791c2c75da30,silky.bingo,available,51.98,68.98,high,low,5,namecheap,,,09/09/2026 21:45
+5a56117f-38ca-43ea-9248-5ba313d41a3e,gallo.bingo,available,53.99,53.99,medium,low,5,namesilo,,,28/09/2026 23:17
 c56b2f22-c037-4478-a4fc-56f62ce52c00,antarctic.bingo,available,14.99,77.99,high,low,9,name.com,,,
 a58ec458-b2e2-461b-b146-661c96449520,bagful.bingo,available,51.98,68.98,medium,low,6,namecheap,,,21/09/2026 17:57
 aea57561-9a0e-486f-8425-bb3d12756a22,alcahest.bingo,available,53.99,53.99,medium,low,8,namesilo,,,18/09/2026 03:43
 cbec48c4-0cec-4ed6-94ae-889df3d20226,revolved.bingo,available,53.99,53.99,high,low,8,namesilo,,,27/09/2026 14:41
 23e1b4a3-a947-47be-9a1a-311a7ce3382f,gin.bingo,available,51.98,68.98,high,low,3,namecheap,,,24/09/2026 18:31
+2322c1b1-c44a-4aff-b385-2ee7def2d47e,gained.bingo,available,41.2,41.2,low,low,6,cloudflare,,,28/09/2026 08:35
 fed64585-4a1e-460b-8b7a-74b9f9536d91,strut.bingo,available,51.98,68.98,high,low,5,namecheap,,,11/09/2026 05:11
 d7942228-a762-48d3-b20c-558a6296e945,eolithic.bingo,available,14.99,77.99,medium,low,8,name.com,,,17/08/2026 10:10
 ddb2aaa0-d762-4ed2-be16-5f6ffb706514,john.bingo,available,51.98,68.98,high,medium,4,namecheap,,,09/09/2026 02:17
@@ -481,6 +536,7 @@ ddb2aaa0-d762-4ed2-be16-5f6ffb706514,john.bingo,available,51.98,68.98,high,mediu
 ae2af7a6-58fa-4f0f-911d-6c4d942cb1fd,pit.bingo,available,53.99,53.99,high,low,3,namesilo,,,24/09/2026 13:22
 acec5c7f-0330-4e79-9e71-708bfc8fbb53,intragroup.bingo,available,14.99,77.99,medium,low,10,name.com,,,22/08/2026 08:41
 fef00287-42bd-4ec2-a729-c66f71e98b98,cheek.bingo,available,53.99,53.99,high,low,5,namesilo,,,24/09/2026 11:22
+b0c0ee1f-c7b2-4759-a4f3-280a0239fc03,homeland.bingo,available,51.98,68.98,high,low,8,namecheap,,,28/09/2026 09:28
 5eae4642-3154-4c3e-842f-9fda3916c901,spirit.bingo,available,14.99,,high,low,6,name.com,,,
 46ecfdb0-6e3b-4a9b-94bd-e66fe73fa5f2,divinity.bingo,available,51.98,68.98,high,low,8,namecheap,,,24/09/2026 21:26
 988c6df9-5e82-4d01-bde9-682fb6f676eb,alluvion.bingo,available,53.99,53.99,medium,low,8,namesilo,,,18/09/2026 12:21
@@ -491,11 +547,13 @@ c0514cfe-8cd7-4817-8556-32212a617468,commission.bingo,available,14.99,,high,low,
 c61b9286-64fc-4b01-a15a-b8502ec79367,sundress.bingo,available,14.99,,high,low,8,name.com,,,
 8dbc4a5d-e6ef-4493-a1e3-43e9b2ebe3f0,bounty.bingo,available,53.99,53.99,high,low,6,namesilo,,,24/09/2026 07:35
 54ed07f5-b557-4feb-8e1b-d2ef8fef5a30,bucks.bingo,available,14.99,77.99,high,low,5,name.com,,,25/09/2026 13:26
+5b6241b6-3aaa-4341-b3cb-46606048e2bc,losses.bingo,available,42.64,42.64,medium,low,6,spaceship,,,28/09/2026 10:16
 5c48eccb-f27b-490e-b4e5-36f1edbda064,spaceward.bingo,available,53.99,53.99,medium,low,9,namesilo,,,16/09/2026 05:42
 00a59a1e-747f-45ab-ac06-4a99fdda267d,compelling.bingo,available,53.99,53.99,high,low,10,namesilo,,,23/09/2026 17:02
 8b660917-f3b6-4445-92d0-f0717509527c,alalia.bingo,available,53.99,53.99,medium,low,6,namesilo,,,18/09/2026 01:40
 f68f567a-a5aa-4e04-b0f7-71ed4e446fc3,undoubtedly.bingo,available,14.99,,medium,low,11,name.com,,,
 889ab33e-6a4d-49af-b65a-92d478124803,rebuff.bingo,available,51.98,68.98,medium,low,6,namecheap,,,10/09/2026 10:49
+da80dff9-87cd-4612-aa31-d08028eeda27,wimbledon.bingo,available,41.2,41.2,medium,low,9,cloudflare,,,28/09/2026 20:48
 d345b5ad-5f8a-401f-91bb-8c08eac3fede,ovine.bingo,available,14.99,77.99,medium,low,5,name.com,,,04/09/2026 22:07
 3433f4f5-e9e5-40f1-9430-8fd132c4b8e8,mandarin.bingo,available,53.99,53.99,high,low,8,namesilo,,,23/09/2026 04:17
 f28a296d-2818-45ab-be02-b995ebd7fb22,retained.bingo,available,42.64,42.64,high,low,8,spaceship,,,27/09/2026 13:05
@@ -503,7 +561,7 @@ f5cd7d6c-5604-457b-a724-3fd1d126e185,preferences.bingo,available,14.99,77.99,hig
 6ac49267-5a07-4ffe-a2d3-5bd80f1942ca,tufted.bingo,available,14.99,77.99,medium,low,6,name.com,,,11/08/2026 13:14
 6d89ba37-0204-4098-b6dc-d9ae3cd33e15,lydia.bingo,available,51.98,68.98,high,low,5,namecheap,,,25/09/2026 09:12
 65bfa524-6402-4e1b-aea4-934361c4d628,drumhead.bingo,available,14.99,77.99,medium,low,8,name.com,,,14/08/2026 20:15
-0bb22152-5b94-4489-842b-1e50302eb291,beating.bingo,available,14.99,,high,low,7,name.com,,,
+0bb22152-5b94-4489-842b-1e50302eb291,beating.bingo,available,53.99,53.99,high,low,7,namesilo,,,28/09/2026 10:26
 1d3291f9-df1b-4f75-90aa-d58c605175ce,flameproof.bingo,available,14.99,77.99,high,low,10,name.com,,,18/08/2026 06:28
 2e00e2bc-9daf-496b-8c3a-35dc7b8811c9,crotchety.bingo,available,14.99,77.99,medium,low,9,name.com,,,13/08/2026 08:25
 b600fa90-5581-4860-b4fd-cbe8363a79af,clams.bingo,available,14.99,77.99,high,low,5,name.com,,,24/09/2026 06:47
@@ -516,6 +574,7 @@ b1adaba9-39df-4b1e-b14d-6d8cc98d4796,swept.bingo,available,51.98,68.98,high,low,
 343ba42d-8d57-48c6-9333-02f910ef0527,playaround.bingo,available,53.99,53.99,medium,low,11,namesilo,,,17/09/2026 06:03
 99559a34-4d93-47fe-ae9b-7065e08a6a7c,see.bingo,premium,118.8,118.8,high,medium,3,namesilo,,,24/09/2026 16:46
 2a984c09-650a-4f8e-9a10-1b67756bd707,blew.bingo,available,53.99,53.99,medium,low,4,namesilo,,,25/09/2026 11:11
+9cda1f51-17fa-4493-a49e-192feb51316b,balloons.bingo,available,8.24,42.74,medium,low,8,porkbun,,,28/09/2026 18:12
 aed0a275-2b54-42ca-8a11-e6f2ab8c509b,plodder.bingo,available,51.98,68.98,medium,low,7,namecheap,,,10/09/2026 20:23
 3c21697c-57e5-4964-9e2b-413264504217,controlled.bingo,available,53.99,53.99,high,low,10,namesilo,,,23/09/2026 22:39
 19184def-49e7-46ac-9a3b-bb5701f8694c,brainless.bingo,available,14.99,77.99,medium,low,9,name.com,,,11/08/2026 01:41
@@ -528,10 +587,11 @@ fae40468-7356-4162-834f-675e20e0d44b,attacked.bingo,available,51.98,68.98,medium
 d9f0cd42-40da-4f99-a7da-543dc66ada19,roma.bingo,available,14.99,77.99,high,low,4,name.com,,,10/08/2026 17:30
 9c0992ea-0532-4f76-af84-4d49cad5a12e,airless.bingo,available,14.99,77.99,medium,low,7,name.com,,,
 fa75977b-6c15-44c4-a1e2-e05035e7ff1c,ross.bingo,available,53.99,53.99,high,low,4,namesilo,,,23/09/2026 11:35
+df8fc544-5ca0-45b6-a242-6f07e3abf098,comet.bingo,available,42.64,42.64,high,low,5,spaceship,,,29/09/2026 00:28
 721d7b5f-edd7-4c3f-a7d3-200d1a14176e,beebread.bingo,available,14.99,77.99,medium,low,8,name.com,,,18/09/2026 17:24
 628dfc2d-2539-410f-a62b-8c820042c046,piddle.bingo,available,51.98,68.98,medium,low,6,namecheap,,,13/09/2026 08:06
 9227b23a-2cc7-47f7-9b2b-a7879658a06b,mum.bingo,available,53.99,53.99,high,low,3,namesilo,,,25/09/2026 22:08
-e51f6fea-7d0f-4ad8-965b-e9684a60c758,alimony.bingo,available,14.99,,medium,low,7,name.com,,,
+e51f6fea-7d0f-4ad8-965b-e9684a60c758,alimony.bingo,available,8.24,42.74,medium,low,7,porkbun,,,28/09/2026 20:27
 7e2f5115-b440-42ab-8196-06fd08c0cfeb,reprint.bingo,available,51.98,68.98,high,low,7,namecheap,,,10/09/2026 04:03
 b9a55917-940b-476c-8a3c-5e9db3e9f9d8,baal.bingo,available,53.99,53.99,high,low,4,namesilo,,,21/09/2026 12:05
 b6caf1cb-1947-45ea-beae-897479cec629,lentic.bingo,available,14.99,77.99,medium,low,6,name.com,,,22/08/2026 23:50
@@ -546,8 +606,11 @@ c5359b56-bd31-4b0e-be23-884bb78d37bb,corrode.bingo,available,51.98,68.98,medium,
 59632cac-6679-4f40-84b4-f40c0f778f15,affable.bingo,available,51.98,68.98,high,low,7,namecheap,,,21/09/2026 21:27
 a8c34555-f409-442d-9a73-ab391fe99df4,hangover.bingo,available,14.99,,medium,low,9,name.com,,,
 2f6b93f4-3da2-4386-9d46-e46d722af794,seoul.bingo,available,14.99,,high,low,5,name.com,,,
+48f82797-df0f-4891-9029-979842712270,interviews.bingo,available,53.99,53.99,medium,low,10,namesilo,,,28/09/2026 09:06
+83fb61dc-018e-4942-bcec-f30cb804c722,jackets.bingo,available,42.64,42.64,medium,low,7,spaceship,,,28/09/2026 18:08
 6d82e020-81e6-4869-be7d-123d006ba98a,stupefied.bingo,available,14.99,77.99,medium,low,9,name.com,,,13/08/2026 18:55
 7ebd76cb-8ffb-4528-97f8-7b483cf7a2b7,river.bingo,available,14.99,,high,low,5,name.com,,,
+b691ee3d-0266-4842-a653-1dfae963b6c9,telescope.bingo,available,8.24,44.09,high,low,9,dynadot,,,28/09/2026 20:36
 57ec8dc0-e214-4147-be31-f81c29b24851,roses.bingo,available,51.98,68.98,high,low,5,namecheap,,,17/09/2026 21:17
 2c009a34-4199-476d-8251-310e187978f6,pallor.bingo,available,53.99,53.99,medium,low,6,namesilo,,,17/09/2026 01:07
 2c31e272-0d69-4eb6-8437-2d0fad283077,unilateral.bingo,available,51.98,68.98,medium,low,10,namecheap,,,12/09/2026 12:59
@@ -564,6 +627,8 @@ f18de979-1b3c-4898-aaf1-b7e2bbd8cd6f,lowbrow.bingo,available,14.99,77.99,medium,
 a0c5fc4e-17f2-46c7-94d2-33de91a4189d,eolic.bingo,available,53.99,53.99,low,low,5,namesilo,,,17/09/2026 12:36
 4d30b879-cd12-4808-9fc0-4af6fcee73e6,novel.bingo,available,51.98,68.98,high,low,5,namecheap,,,03/09/2026 22:19
 49d055fd-e620-48e7-86fc-800b93794357,neptunium.bingo,available,51.98,68.98,medium,low,9,namecheap,,,21/09/2026 00:09
+edbbcbdf-882b-43f1-af28-98dd3658fdc5,cavity.bingo,available,41.2,41.2,medium,low,6,cloudflare,,,28/09/2026 13:34
+7b248c1d-343f-4c59-ad70-7a1579438b46,resisting.bingo,available,41.2,41.2,medium,low,9,cloudflare,,,28/09/2026 21:16
 991b51a6-3acf-4938-ad11-14ee0e61dc12,middletown.bingo,available,42.64,42.64,high,low,10,spaceship,,,27/09/2026 21:20
 46148217-902e-4168-8ddd-bc9ed7518de6,champs.bingo,available,53.99,53.99,high,low,6,namesilo,,,20/09/2026 13:31
 8f5b9fe1-3810-4a5b-bc97-c278bf23d483,unreached.bingo,available,51.98,68.98,medium,low,9,namecheap,,,04/09/2026 18:48
@@ -581,15 +646,18 @@ f5949a38-6ea7-4959-a5d9-dfc92fa0bdef,friendless.bingo,available,14.99,77.99,medi
 9f603779-5c35-45d0-a503-73febcb709b8,ours.bingo,available,42.64,42.64,high,low,4,spaceship,,,28/09/2026 04:28
 e56105c5-045e-4078-9eb7-83eafb55a89c,mutable.bingo,available,14.99,77.99,medium,low,7,name.com,,,12/08/2026 01:50
 c169c30b-bbcc-4d06-b5e1-ae87bfae41ef,alee.bingo,available,51.98,68.98,low,low,4,namecheap,,,13/09/2026 18:38
+841bb736-9cf1-4c48-b220-67ac2ccc5553,sabrina.bingo,available,51.98,68.98,medium,low,7,namecheap,,,29/09/2026 04:05
 e1e00b60-cba2-440b-af6f-8a1e215f76cf,packer.bingo,available,53.99,53.99,high,low,6,namesilo,,,21/09/2026 15:45
-f60ac286-52fe-460a-9a88-053a1f9942b3,asking.bingo,available,14.99,,high,low,6,name.com,,,
+f60ac286-52fe-460a-9a88-053a1f9942b3,asking.bingo,available,41.2,41.2,high,low,6,cloudflare,,,28/09/2026 22:40
 43b8f68d-0573-4482-8487-56bebd10459e,cinema.bingo,available,51.98,68.98,high,low,6,namecheap,,,28/09/2026 05:06
+82a2b57e-b7c4-49d1-944e-148f07ad1f4b,rufus.bingo,available,51.98,68.98,medium,low,5,namecheap,,,28/09/2026 16:19
 14686693-5b01-4476-9168-b1fc70a27bfd,moonfish.bingo,available,51.98,68.98,medium,low,8,namecheap,,,20/09/2026 21:37
 515988f9-9112-4e3e-88d8-033e82b14eae,elan.bingo,available,53.99,53.99,high,low,4,namesilo,,,20/09/2026 03:17
 997952cd-2531-4c64-8657-fc66df7e6721,gram.bingo,available,14.99,,high,low,4,name.com,,,
 b2ceebf7-c628-4b07-b54f-6ba8e3ab08e3,phocine.bingo,available,51.98,68.98,medium,low,7,namecheap,,,08/09/2026 18:58
 ee75625d-aeeb-4947-b898-58c01b428fd2,wavy.bingo,available,14.99,77.99,high,low,4,name.com,,,13/08/2026 06:54
 f5ac3372-6916-4add-8516-e2143dfe83f2,nescient.bingo,available,14.99,77.99,medium,low,8,name.com,,,21/08/2026 18:29
+0867ddf8-122c-465f-85f9-b1928343a93b,magnitude.bingo,available,42.64,42.64,high,low,9,spaceship,,,29/09/2026 01:37
 07755d55-7187-46e2-bf1e-ec7b55d32b8a,inept.bingo,available,14.99,77.99,medium,low,5,name.com,,,21/08/2026 18:53
 7e7195ef-a1d0-44bc-90ba-ecae707963ec,abyssal.bingo,available,14.99,77.99,medium,low,7,name.com,,,
 85ee57a7-fd78-4f5f-b62e-5127c131b799,taxpaying.bingo,available,51.98,68.98,medium,low,9,namecheap,,,11/09/2026 09:32
@@ -602,8 +670,10 @@ a1577727-e353-40f2-b490-e0033c91a1f8,atlantic.bingo,available,14.99,77.99,high,l
 5242461e-2e0d-44e8-ae67-a70f3a98a45b,hundred.bingo,available,53.99,53.99,high,low,7,namesilo,,,21/09/2026 11:00
 2b9cef11-8d12-4f88-81e6-5d504b1f5210,nippy.bingo,available,51.98,68.98,high,low,5,namecheap,,,03/09/2026 17:42
 b597aad8-1b05-4202-8b7b-1ee49a53ef99,witness.bingo,available,53.99,53.99,high,low,7,namesilo,,,21/09/2026 01:35
+972ffe14-b446-4a24-8f00-aa73029fd627,tokugawa.bingo,available,53.99,53.99,low,low,8,namesilo,,,28/09/2026 09:08
 09e54c0b-e4c4-430b-b664-b37e0919db71,asterisk.bingo,available,53.99,53.99,high,low,8,namesilo,,,20/09/2026 17:11
 9d90a66a-d65c-4d26-8c83-fd153936aba6,friar.bingo,available,14.99,77.99,medium,low,5,name.com,,,24/08/2026 20:10
+6b65276a-2552-4b35-9ab0-2339e7b0cfb7,castro.bingo,available,42.64,42.64,medium,low,6,spaceship,,,28/09/2026 09:15
 668d165f-6f1b-47d8-a090-57845dfeb837,belike.bingo,available,51.98,68.98,medium,low,7,namecheap,,,04/09/2026 04:45
 e7c334ec-8d05-4316-80da-6c0650daa4ea,colonized.bingo,available,14.99,77.99,medium,low,9,name.com,,,12/08/2026 17:23
 9d841580-bfd1-4181-98d4-2fe6d857659b,poinciana.bingo,available,51.98,68.98,high,low,9,namecheap,,,23/09/2026 20:09
@@ -613,6 +683,7 @@ f4f4ca96-5b96-496f-a244-c612dcf53434,vegetative.bingo,available,51.98,68.98,medi
 8117a936-02be-4479-bc97-474ff2b97a60,congested.bingo,available,14.99,77.99,medium,low,9,name.com,,,12/08/2026 21:46
 49ad1828-6799-4b47-a457-4c96dfbd1846,tornados.bingo,available,53.99,53.99,medium,low,8,namesilo,,,16/09/2026 14:12
 355b3763-75c9-4d15-9f22-0412e4a8183c,jacobson.bingo,available,53.99,53.99,high,low,8,namesilo,,,28/09/2026 04:07
+901e5eb1-1e67-4a48-a105-e3e63a554d6f,jerusalem.bingo,available,42.64,42.64,medium,low,9,spaceship,,,28/09/2026 09:14
 3742d4e4-7e61-4308-a702-8f6badf4e181,unaided.bingo,available,51.98,68.98,medium,low,7,namecheap,,,12/09/2026 00:13
 3e7675d8-f875-4693-9d8e-2ee127052863,inexplicit.bingo,available,14.99,77.99,medium,low,10,name.com,,,21/08/2026 22:39
 199b3153-1cea-4eb3-980f-49e35cf23e0f,roaring.bingo,available,14.99,77.99,high,low,7,name.com,,,10/08/2026 19:21
@@ -625,6 +696,7 @@ f2ccbab1-413c-47f4-82ed-7bb2881502e2,clock.bingo,available,14.99,,high,low,5,nam
 dc48eb48-133c-4c42-a1cc-ecda1b48e358,innocent.bingo,available,14.99,77.99,high,low,8,name.com,,,12/08/2026 10:16
 28c239ff-6cbd-47e8-8dc6-0ec0b1c1c3a8,mystifying.bingo,available,14.99,77.99,medium,low,10,name.com,,,13/08/2026 09:39
 e9b8554a-0490-4c8a-a63e-14140c7760ee,bilge.bingo,available,53.99,53.99,medium,low,5,namesilo,,,23/09/2026 15:50
+fc26c4b5-2abd-40cd-a156-5bd9f6ca916b,rode.bingo,available,42.64,42.64,medium,low,4,spaceship,,,28/09/2026 11:10
 5b5fa0e3-7d4d-4f59-847a-9a30380c0d52,loveless.bingo,available,14.99,77.99,medium,low,8,name.com,,,24/08/2026 10:09
 4752b2dc-c0b6-42df-9245-2bd2555f7ae8,craniate.bingo,available,51.98,68.98,medium,low,8,namecheap,,,13/09/2026 04:37
 c12a8fea-dfd2-483c-ac91-1e92911d42d9,batholith.bingo,available,53.99,53.99,medium,low,9,namesilo,,,22/09/2026 13:43
@@ -632,18 +704,23 @@ ed69c333-f929-4664-be6b-baa6be893e43,soapbox.bingo,available,53.99,53.99,high,lo
 eb765190-7235-45bb-9197-c11b72d3d7be,daughterly.bingo,available,14.99,77.99,medium,low,10,name.com,,,13/08/2026 18:46
 4071cec8-40ca-4bfa-85e2-4e029fce56e3,medium.bingo,available,8.24,42.74,high,low,6,porkbun,,,28/09/2026 03:02
 9d49c39c-0564-437b-823c-b7be74f8b563,abilities.bingo,available,53.99,53.99,high,low,9,namesilo,,,17/09/2026 04:45
+d16c457a-afb2-4df8-bf77-0b34b4751fa0,scissors.bingo,available,42.64,42.64,high,low,8,spaceship,,,28/09/2026 20:05
 8284b4ed-806b-48f3-a3a5-e3c70ac6cb60,hirschfeld.bingo,available,53.99,53.99,medium,low,10,namesilo,,,18/09/2026 01:20
 0bbe6c3d-3f92-40ca-b791-43d04e940f78,tamable.bingo,available,51.98,68.98,medium,low,7,namecheap,,,11/09/2026 07:36
 6189f62e-c78b-41f6-ac40-3fde82235ab1,lillian.bingo,available,53.99,53.99,medium,low,7,namesilo,,,26/09/2026 03:34
 0b159bc8-5bc9-4b16-8c99-5af3a2b974fd,gazillion.bingo,available,51.98,68.98,high,low,9,namecheap,,,11/09/2026 19:54
 ee0f783f-af3b-443d-89de-cf98e66f8296,tenacious.bingo,available,53.99,53.99,high,low,9,namesilo,,,19/09/2026 16:19
 c055b789-fba3-4998-8986-8e56af1e2ab2,annalist.bingo,available,51.98,68.98,medium,low,8,namecheap,,,19/09/2026 10:03
+61b52fe6-fdd8-4be6-8252-691009d84e21,photographic.bingo,available,42.64,42.64,high,low,12,spaceship,,,28/09/2026 21:08
+6a2c8607-2f62-400f-81ca-d91c756549ea,tallinn.bingo,available,42.64,42.64,medium,low,7,spaceship,,,29/09/2026 00:18
 67f3646a-162c-402a-8a48-fcd7a4c7fd42,pocketbook.bingo,available,53.99,53.99,high,low,10,namesilo,,,23/09/2026 16:19
+1d6ce32b-1346-4d12-b0c9-75d073be389d,bout.bingo,available,42.64,42.64,high,low,4,spaceship,,,28/09/2026 18:28
 edbc5824-ce61-4ccf-8986-df1eba546c58,mantra.bingo,available,14.99,,high,low,6,name.com,,,
 f5a8bc4f-ed8c-4a23-a47b-14fe7c191be6,viral.bingo,available,51.98,68.98,high,medium,5,namecheap,,,13/09/2026 05:53
 24be5951-13ad-4ef9-9fc3-3c515d682e3d,cosher.bingo,available,14.99,77.99,medium,low,6,name.com,,,13/08/2026 02:47
 453cc335-215a-4c3a-9db6-32727f8785c5,bassia.bingo,available,53.99,53.99,medium,low,6,namesilo,,,22/09/2026 12:17
 fafb2349-7dee-440b-b965-63994c513f3f,autonomic.bingo,available,14.99,77.99,high,low,9,name.com,,,07/08/2026 20:52
+7e8b8b6e-833a-41b7-882f-9809e6007549,nantes.bingo,available,42.64,42.64,medium,low,6,spaceship,,,28/09/2026 10:30
 9874f4fd-ef59-47b8-9702-f5818a9af131,ageless.bingo,available,14.99,77.99,high,low,7,name.com,,,
 772142dd-fe48-40f7-934f-4970d9a9cff8,ateles.bingo,available,51.98,68.98,medium,low,6,namecheap,,,20/09/2026 20:01
 db430245-abc3-4643-9dc2-b001fce6e518,perks.bingo,available,53.99,53.99,high,low,5,namesilo,,,20/09/2026 14:58
@@ -651,6 +728,7 @@ db430245-abc3-4643-9dc2-b001fce6e518,perks.bingo,available,53.99,53.99,high,low,
 42254418-83ba-4698-a743-64b15c5cce25,prat.bingo,available,14.99,77.99,medium,low,4,name.com,,,09/08/2026 11:18
 c4bd2652-6121-484f-b815-c1bb9aa06099,streetcleaner.bingo,available,14.99,,low,low,14,name.com,,,
 98e1b4a0-4a66-4615-9b49-665f1ecdb8b6,apus.bingo,available,53.99,53.99,medium,low,4,namesilo,,,19/09/2026 22:43
+70050560-93e3-4d54-8bac-a64c372cc506,massachusetts.bingo,available,42.64,42.64,medium,low,13,spaceship,,,28/09/2026 11:48
 94f6e864-851b-4ca3-8979-fd480aec2ba9,bryce.bingo,available,42.64,42.64,high,low,5,spaceship,,,27/09/2026 19:56
 3cdfeacb-088a-4390-87a6-1f8e0c1f8b0d,weird.bingo,available,14.99,77.99,high,low,5,name.com,,,24/09/2026 13:41
 5f68ce94-d890-438d-9732-b744d3953a9c,memphis.bingo,premium,128.7,128.7,high,low,7,namecheap,,,28/09/2026 06:24
@@ -658,7 +736,8 @@ c4bd2652-6121-484f-b815-c1bb9aa06099,streetcleaner.bingo,available,14.99,,low,lo
 38b47f29-7da9-4d1d-8806-3a88bd9a30fb,abnormalcy.bingo,available,53.99,53.99,medium,low,10,namesilo,,,16/09/2026 16:19
 015e94cb-5c6d-4d38-a333-dad83f1e1a88,sustained.bingo,available,14.99,77.99,high,low,9,name.com,,,18/08/2026 14:51
 e3c2bafe-19e1-48fb-affb-871ae4532d1d,gandhian.bingo,available,14.99,77.99,high,low,8,name.com,,,18/08/2026 20:06
-14db0b24-32f3-4edd-9ff9-8f6558493dd7,naturally.bingo,available,14.99,,high,low,9,name.com,,,
+14db0b24-32f3-4edd-9ff9-8f6558493dd7,naturally.bingo,available,53.99,53.99,high,low,9,namesilo,,,28/09/2026 13:42
+c62d0caa-c891-4acd-9f97-f39e86f6712a,bor.bingo,available,42.64,42.64,medium,low,3,spaceship,,,29/09/2026 02:55
 fd147711-7b5e-451a-9aeb-9c48c99dbe48,earthly.bingo,available,14.99,77.99,high,low,7,name.com,,,14/08/2026 22:42
 e8ff95b1-37fe-4607-8873-4ad2ca932b50,arbitrager.bingo,available,53.99,53.99,medium,low,10,namesilo,,,20/09/2026 00:30
 7c614e9a-95ba-442b-b111-021101af5853,biased.bingo,available,14.99,77.99,medium,low,6,name.com,,,09/08/2026 18:36
@@ -671,7 +750,7 @@ a814aa55-9c5c-4f73-aebe-1c54fab894f3,awol.bingo,available,14.99,77.99,high,low,4
 50de25e5-184e-4404-98ef-b4c1b5f3892a,allograft.bingo,available,53.99,53.99,medium,low,9,namesilo,,,18/09/2026 11:54
 679fd788-1260-48f3-96b3-cb40cf6aa0e1,axile.bingo,available,14.99,77.99,medium,low,5,name.com,,,08/08/2026 01:56
 6e3bbba1-30a3-4e6a-8ae6-896b48a5a85b,chapel.bingo,available,53.99,53.99,high,low,6,namesilo,,,28/09/2026 01:39
-2fc5175b-34c5-4669-9720-70e09f32d6cd,merger.bingo,available,14.99,,high,low,6,name.com,,,
+2fc5175b-34c5-4669-9720-70e09f32d6cd,merger.bingo,available,42.64,42.64,high,low,6,spaceship,,,28/09/2026 20:49
 3ccff266-7057-4e06-9767-78de1999c834,consequences.bingo,available,53.99,53.99,high,low,12,namesilo,,,27/09/2026 08:40
 7374390a-1fd5-4d40-a97d-050a6e1f9d7c,packsack.bingo,available,14.99,77.99,medium,low,8,name.com,,,21/09/2026 14:40
 0ca2dafb-abba-4d2c-b49a-d6b3926c4d37,numinous.bingo,available,14.99,77.99,medium,low,8,name.com,,,03/09/2026 23:01
@@ -681,10 +760,10 @@ a814aa55-9c5c-4f73-aebe-1c54fab894f3,awol.bingo,available,14.99,77.99,high,low,4
 f1ac3692-7282-451d-9483-3ff867d8c81e,sumatran.bingo,available,14.99,77.99,high,low,8,name.com,,,11/09/2026 01:31
 e4fefa08-1c6b-487e-bdbe-47f5bc1afae5,abiders.bingo,available,53.99,53.99,medium,low,7,namesilo,,,18/09/2026 03:55
 1883cea5-773f-4c58-9c99-a902fc55665e,points.bingo,available,14.99,,high,low,6,name.com,,,
-754cf879-a85b-4dfd-aed2-ba5e015e2a94,crab.bingo,available,14.99,,high,low,4,name.com,,,
+754cf879-a85b-4dfd-aed2-ba5e015e2a94,crab.bingo,available,41.2,41.2,high,low,4,cloudflare,,,29/09/2026 01:49
 d8dbd737-f0ed-48b2-9db3-4a72457d73bd,equatorial.bingo,available,14.99,77.99,high,low,10,name.com,,,17/08/2026 11:40
 46901217-e700-4363-bf33-5e9395393cf6,plotted.bingo,available,53.99,53.99,high,low,7,namesilo,,,21/09/2026 22:10
-901a0b43-bf1f-4389-bb17-216e1e0f683b,agents.bingo,available,53.99,53.99,high,medium,6,namesilo,,,24/09/2026 16:49
+901a0b43-bf1f-4389-bb17-216e1e0f683b,agents.bingo,available,53.99,53.99,high,medium,6,namesilo,,,28/09/2026 07:07
 aa7917d0-f8d9-427a-b2bb-2e503d7d60b4,allergen.bingo,available,53.99,53.99,high,low,8,namesilo,,,18/09/2026 10:53
 b87d98d8-cb3c-4f38-8f4b-a78bab14f726,alberti.bingo,available,53.99,53.99,high,low,7,namesilo,,,18/09/2026 02:45
 ae2e07ce-8d61-4bd7-92b6-a72165d752fd,yeasty.bingo,available,14.99,77.99,medium,low,6,name.com,,,08/08/2026 19:56
@@ -693,6 +772,7 @@ f5e12347-7f42-404e-a0bb-3a3d1c2e6109,organisations.bingo,available,53.99,53.99,m
 91564cd3-3b8f-49c7-8cad-54ff1af8854c,genetic.bingo,available,14.99,77.99,high,low,7,name.com,,,18/08/2026 21:31
 28d0ce0b-1474-4558-be18-3fee5608871a,officious.bingo,available,14.99,77.99,medium,low,9,name.com,,,11/08/2026 11:26
 a1fbb304-c8d8-4453-80f7-568206e96b32,monkfish.bingo,available,51.98,68.98,medium,low,8,namecheap,,,18/09/2026 11:42
+5131e3c4-3383-4ce9-b193-3b9d381b501a,ansi.bingo,available,8.24,42.74,medium,low,4,porkbun,,,28/09/2026 11:47
 2bcac37a-0bd3-45b2-acb2-3f791f187ea2,ampul.bingo,available,14.99,77.99,medium,low,5,name.com,,,18/09/2026 23:49
 f96ff577-4ff6-46eb-a965-eb88c5898ba0,sensing.bingo,available,14.99,,high,low,7,name.com,,,
 b38f0719-1ece-4643-b84e-63db578f4753,vividly.bingo,available,53.99,53.99,high,low,7,namesilo,,,16/09/2026 11:06
@@ -708,10 +788,13 @@ e2e7bbb9-e920-48d5-bf7a-d392952c68ed,oafish.bingo,available,14.99,77.99,medium,l
 504e8dd7-6215-4329-a723-d6122fd7d393,affirmed.bingo,available,53.99,53.99,high,low,8,namesilo,,,17/09/2026 14:27
 09c9c519-acd1-465c-8603-ec877f31f580,abbe.bingo,available,53.99,53.99,medium,low,4,namesilo,,,16/09/2026 14:22
 501498fc-bca4-4116-a9a1-7cff3ad36416,spirea.bingo,available,53.99,53.99,medium,low,6,namesilo,,,20/09/2026 17:27
+a70f94a0-fc8c-4f64-98b1-0d5e0ba856aa,correspondent.bingo,available,53.99,53.99,medium,low,13,namesilo,,,29/09/2026 03:16
 73cb38f8-0cc8-4ce1-a944-4c9a4711bc69,confess.bingo,available,14.99,,high,low,7,name.com,,,
 7c707dd7-8974-4bfc-b394-fc3992e1ea8e,diving.bingo,available,14.99,,high,low,6,name.com,,,
 ae573a86-0a09-4883-b31f-5837eb1833e5,legible.bingo,available,14.99,77.99,high,low,7,name.com,,,22/08/2026 22:59
 a8b2214d-1e0d-4219-b3a2-a039a5d47883,slant.bingo,available,14.99,77.99,high,low,5,name.com,,,22/08/2026 22:07
+1657a685-4ccf-4fba-8161-36e6122114f4,peasants.bingo,available,8.24,42.74,low,low,8,porkbun,,,28/09/2026 23:24
+fda4d2dc-22f1-4412-abf0-811fba846193,guild.bingo,available,41.2,41.2,high,low,5,cloudflare,,,29/09/2026 01:05
 e9f96e77-cbbd-48d7-b90d-aeab8e4b1679,flexible.bingo,available,51.98,68.98,high,low,8,namecheap,,,23/09/2026 18:12
 dded779d-2264-4873-93da-fbd38f48f588,sunstone.bingo,available,53.99,53.99,high,low,8,namesilo,,,21/09/2026 09:07
 989a9b07-ff57-4343-b779-fa8db84e59ad,impress.bingo,available,14.99,,high,low,7,name.com,,,
@@ -719,10 +802,12 @@ dded779d-2264-4873-93da-fbd38f48f588,sunstone.bingo,available,53.99,53.99,high,l
 9d6dea73-4484-4d53-8cfc-32ac1a7647b7,seventy.bingo,available,14.99,77.99,high,low,7,name.com,,,
 e6d6d938-2210-41be-b070-27bea0fa2ec1,sushi.bingo,available,14.99,,high,low,5,name.com,,,
 17308551-40e1-401d-a15f-cf1ef1be0b27,indisposed.bingo,available,,,medium,low,10,,,,
+c83f8a36-22d7-45bd-8f5a-74330aa79a52,yamamoto.bingo,available,51.98,68.98,medium,low,8,namecheap,,,28/09/2026 19:31
+32e690eb-1bb8-4778-a418-528d7a0e9cfa,johansson.bingo,available,41.2,41.2,medium,low,9,cloudflare,,,29/09/2026 03:51
 a8876597-5889-4c60-a14f-646ff467c5e0,charles.bingo,available,14.99,,high,low,7,name.com,,,
 ffd4a266-7b2c-4f55-b9a1-cc8b9b564b31,trial.bingo,available,14.99,,high,low,5,name.com,,,
 61e71317-984a-41ad-938e-8e86f88d34d1,dryly.bingo,available,51.98,68.98,medium,low,5,namecheap,,,14/09/2026 14:21
-6881d7b6-b9b3-42c2-a824-703a1b37eefb,aaa.bingo,premium,128.7,128.7,high,medium,3,namecheap,,,
+6881d7b6-b9b3-42c2-a824-703a1b37eefb,aaa.bingo,premium,128.7,128.7,high,medium,3,namecheap,,,28/09/2026 16:55
 e3e63da7-4b29-4f49-a7b6-4891b8be52de,joy.bingo,available,14.99,,high,medium,3,name.com,,,
 0da1b9a2-146a-436b-bd9c-53e880af5c50,colonial.bingo,available,14.99,77.99,high,low,8,name.com,,,12/08/2026 17:20
 de8c58ed-ead9-4a35-8311-e9b815b8a7c8,iniquity.bingo,available,14.99,77.99,medium,low,8,name.com,,,17/08/2026 15:08
@@ -731,10 +816,13 @@ de8c58ed-ead9-4a35-8311-e9b815b8a7c8,iniquity.bingo,available,14.99,77.99,medium
 2c02b3a6-8681-4af7-bb49-32f230613241,abstention.bingo,available,51.98,68.98,medium,low,10,namecheap,,,16/09/2026 18:27
 c3117534-0295-48a0-b0e9-bb4593d9654b,planned.bingo,available,53.99,53.99,high,low,7,namesilo,,,21/09/2026 22:06
 7a35c6ab-9e61-492f-9974-1bdc7efa5b58,porcine.bingo,available,14.99,77.99,medium,low,7,name.com,,,21/08/2026 10:21
+b05533b7-29ea-4cf9-8cdd-07f4e8ca0799,olmsted.bingo,available,42.64,42.64,medium,low,7,spaceship,,,28/09/2026 19:15
 37526fc7-05bb-4e8c-b2d0-f263d2808817,silhouettes.bingo,available,53.99,53.99,medium,low,11,namesilo,,,20/09/2026 11:57
+0035f9ee-5b3b-4b0f-b658-e707b60cb98e,theoretically.bingo,available,8.24,44.09,low,low,13,dynadot,,,28/09/2026 17:35
 70840cad-5512-4581-b501-db38ed75e2f0,pops.bingo,available,53.99,53.99,high,low,4,namesilo,,,18/09/2026 21:55
 4c031378-a8c2-4476-b4a7-4daa0af98e86,chesty.bingo,available,14.99,77.99,medium,low,6,name.com,,,06/08/2026 22:08
 e8886023-fc0e-4e27-a65c-098e0bff43c4,baikal.bingo,available,51.98,68.98,high,low,6,namecheap,,,21/09/2026 18:54
+61383f03-1303-4dd6-b997-44f9010c6d2f,ignorance.bingo,available,41.2,41.2,medium,low,9,cloudflare,,,28/09/2026 10:08
 c0cc34fb-0072-4fd8-8b6c-9d3e3a873279,harper.bingo,available,53.99,53.99,high,low,6,namesilo,,,25/09/2026 06:58
 f235e41b-adb3-4528-b53f-59b0a7551789,inviolable.bingo,available,14.99,77.99,medium,low,10,name.com,,,21/08/2026 23:02
 a8d1eb05-398c-4dc2-a744-b1df857da340,essential.bingo,available,51.98,68.98,high,low,9,namecheap,,,22/09/2026 00:42
@@ -751,7 +839,7 @@ db369428-1579-4fb9-a9a1-748417e26352,barrack.bingo,available,53.99,53.99,medium,
 753e852b-3187-4e46-a151-70a9b2353681,grazed.bingo,available,14.99,77.99,medium,low,6,name.com,,,20/08/2026 19:29
 c7efa119-ff86-4879-99e0-863a33f6f50c,dozens.bingo,available,51.98,68.98,high,low,6,namecheap,,,14/09/2026 23:20
 51fd1d01-c2df-419c-86c6-57b263662e26,hornless.bingo,available,14.99,77.99,medium,low,8,name.com,,,21/08/2026 14:06
-f1a1e2e0-bbd0-4c72-951d-119c55bde128,yet.bingo,available,14.99,,high,low,3,name.com,,,
+f1a1e2e0-bbd0-4c72-951d-119c55bde128,yet.bingo,available,53.99,53.99,high,low,3,namesilo,,,28/09/2026 11:53
 1048b608-ba7a-4d8c-8a8e-9aa231b8b879,silvertip.bingo,available,14.99,77.99,medium,low,9,name.com,,,20/08/2026 20:13
 e2c03452-f624-42d3-a4c0-23267054fc96,dominion.bingo,available,53.99,53.99,high,low,8,namesilo,,,24/09/2026 23:09
 268078b0-a35b-4302-b5af-bd978dbf32ff,acerb.bingo,available,14.99,77.99,medium,low,5,name.com,,,
@@ -770,7 +858,7 @@ f4baaa8a-9ab9-48de-807a-6e727fd79c4d,earthborn.bingo,available,14.99,77.99,mediu
 e5cc1167-f197-4e1f-89c8-b3e6bd6a9e46,rover.bingo,available,51.98,68.98,high,low,5,namecheap,,,23/09/2026 20:16
 b76ee11b-6e0d-4ec1-bcf7-cd854959d13f,diehards.bingo,available,53.99,53.99,medium,low,8,namesilo,,,20/09/2026 23:29
 d867484f-09d9-406a-bf4e-910d9af91045,larger.bingo,available,51.98,68.98,high,low,6,namecheap,,,22/09/2026 20:38
-3fb393d4-15dd-4b7e-89c8-b2efc22fd719,information.bingo,available,53.99,53.99,high,low,11,namesilo,,,27/09/2026 01:46
+3fb393d4-15dd-4b7e-89c8-b2efc22fd719,information.bingo,available,41.2,41.2,high,low,11,cloudflare,,,28/09/2026 19:48
 7ab31545-39bd-4b97-af81-92d85c83297c,roan.bingo,available,51.98,68.98,high,low,4,namecheap,,,09/09/2026 18:08
 d008a7b6-7107-45f8-8654-2dc30bd125ae,tamanoir.bingo,available,51.98,68.98,medium,low,8,namecheap,,,19/09/2026 12:16
 9014c900-416d-4be5-a50c-e57fa89f29bb,dispatch.bingo,available,51.98,68.98,high,low,8,namecheap,,,04/09/2026 00:56
@@ -800,7 +888,7 @@ c5e2a148-8dcc-4432-b1af-318e77968a67,lister.bingo,available,53.99,53.99,medium,l
 0d1d5b2b-99bd-4d14-be79-82dff879218a,deserter.bingo,available,14.99,77.99,medium,low,8,name.com,,,06/08/2026 03:40
 43e5d08d-0590-487b-86cc-877f0c7d9777,haircut.bingo,available,14.99,,high,low,7,name.com,,,
 86dcc4cc-fdd6-40fe-913b-b7c54d6d19e4,saccharine.bingo,available,14.99,77.99,medium,low,10,name.com,,,12/08/2026 12:48
-65b54574-f19e-4aae-be98-60df21799e44,hopefully.bingo,available,14.99,,high,low,9,name.com,,,
+65b54574-f19e-4aae-be98-60df21799e44,hopefully.bingo,available,42.64,42.64,high,low,9,spaceship,,,28/09/2026 15:15
 7b30c8a0-9552-4fde-aede-1ce4bb02b9ec,unranked.bingo,available,51.98,68.98,medium,low,8,namecheap,,,12/09/2026 17:44
 8c712e00-43f8-4db1-afe0-d0c75be231d9,telescoped.bingo,available,51.98,68.98,medium,low,10,namecheap,,,11/09/2026 10:22
 6953494f-ebae-4dfb-89d1-44bdd09f12aa,admitted.bingo,available,42.64,42.64,medium,low,8,spaceship,,,27/09/2026 22:14
@@ -809,11 +897,13 @@ c5e2a148-8dcc-4432-b1af-318e77968a67,lister.bingo,available,53.99,53.99,medium,l
 05fe16ad-4ee0-46d5-be85-38be9191597a,beige.bingo,available,14.99,77.99,medium,low,5,name.com,,,09/08/2026 12:22
 05c571be-cc86-433c-86fe-da15dbd033a8,greenly.bingo,available,51.98,68.98,medium,low,7,namecheap,,,14/09/2026 22:19
 749d3633-f073-44ba-895e-185c8ca8fa79,unafraid.bingo,available,51.98,68.98,high,low,8,namecheap,,,10/09/2026 01:28
+20dbdfe5-be6b-445a-86bb-c39c97b51ca3,airlines.bingo,available,51.98,68.98,medium,low,8,namecheap,,,28/09/2026 17:53
 bcf62166-20c1-4846-a85a-a4cffe978694,thieves.bingo,available,53.99,53.99,medium,low,7,namesilo,,,16/09/2026 11:41
 18cf8a1b-eae2-46a7-90b5-178461242ce3,basileus.bingo,available,51.98,68.98,medium,low,8,namecheap,,,22/09/2026 10:47
 d122dbe6-994b-4d5a-a984-26b8157c0831,nor.bingo,available,14.99,,high,low,3,name.com,,,
 f2df79c3-6310-4879-be46-44ce217df87b,chekhov.bingo,available,53.99,53.99,medium,low,7,namesilo,,,19/09/2026 15:27
 1d96a448-8efe-4980-bab3-910856ceabe6,cheat.bingo,available,14.99,77.99,high,low,5,name.com,,,12/08/2026 03:31
+3a5c9c1c-2a36-49cf-9cfe-4d8ed2c171e5,cowboys.bingo,available,53.99,53.99,high,low,7,namesilo,,,28/09/2026 12:01
 cf88b42b-1e8b-4687-97ad-25c19fb627eb,costs.bingo,available,14.99,,high,low,5,name.com,,,
 6643a932-a1e7-4708-bbfb-af66da030e6b,mourning.bingo,available,14.99,77.99,medium,low,8,name.com,,,25/08/2026 08:38
 7a4e51ed-2a87-4210-8fc4-5e93d560ea3f,molten.bingo,available,14.99,77.99,high,low,6,name.com,,,25/08/2026 03:57
@@ -826,7 +916,9 @@ ce34f1e5-143b-41e5-a96e-0bd672eae461,hiss.bingo,available,53.99,53.99,medium,low
 97322892-0984-4075-af0b-dafd68a71a6e,acme.bingo,available,14.99,77.99,high,medium,4,name.com,,,24/08/2026 20:47
 1baf5f64-9158-4514-b049-a63ed02c52c0,socioeconomic.bingo,available,53.99,53.99,medium,low,13,namesilo,,,16/09/2026 12:07
 14c358f1-446c-40b0-8242-66fb2bfcdd7e,dandyish.bingo,available,14.99,77.99,medium,low,8,name.com,,,13/08/2026 17:03
+a174d7cc-d4d3-4e41-9157-b7f6cc0ec54e,ying.bingo,available,42.64,42.64,medium,low,4,spaceship,,,28/09/2026 11:38
 854d9695-c066-406c-bfd6-8bcb126c137b,centrical.bingo,available,14.99,77.99,medium,low,9,name.com,,,12/08/2026 00:12
+3e8479c8-a0ef-416e-858b-1fa0d416eda1,uno.bingo,available,51.98,68.98,high,medium,3,namecheap,,,28/09/2026 21:47
 b479d4c4-e627-48d3-b067-6bcd9b4e825b,synchronic.bingo,available,51.98,68.98,medium,low,10,namecheap,,,11/09/2026 06:15
 7f8ab965-fc88-4e32-a4cb-717d0981ee97,iridescent.bingo,available,14.99,77.99,high,low,10,name.com,,,12/08/2026 03:15
 025c1c4a-ad4f-44ef-8cbd-89a0772af2f5,argali.bingo,available,51.98,68.98,medium,low,6,namecheap,,,20/09/2026 04:09
@@ -836,7 +928,7 @@ b479d4c4-e627-48d3-b067-6bcd9b4e825b,synchronic.bingo,available,51.98,68.98,medi
 aceac6d0-6b55-49f7-bef6-ac6fac480e0f,agenda.bingo,available,53.99,53.99,high,low,6,namesilo,,,17/09/2026 17:02
 a5177ecd-fc39-496f-898a-4523c184fbd5,upton.bingo,available,42.64,42.64,medium,low,5,spaceship,,,27/09/2026 11:29
 f92dad45-b5a0-4b3a-b63d-751466bd451a,asanga.bingo,available,51.98,68.98,medium,low,6,namecheap,,,20/09/2026 12:49
-de667e80-aab3-44c6-a3b9-9aa14ca2c1ff,seriously.bingo,available,14.99,,high,low,9,name.com,,,
+de667e80-aab3-44c6-a3b9-9aa14ca2c1ff,seriously.bingo,available,8.24,42.74,medium,low,9,porkbun,,,28/09/2026 13:17
 5bbb18c0-0fe9-4de2-961f-a92426646ced,inca.bingo,available,14.99,77.99,high,low,4,name.com,,,22/08/2026 00:46
 e4031940-2203-49e5-bfc1-f9b580c25383,proofs.bingo,available,53.99,53.99,medium,low,6,namesilo,,,18/09/2026 06:55
 8dee2711-252b-458d-b7b7-25094ce28b4a,rummy.bingo,available,14.99,77.99,high,low,5,name.com,,,13/08/2026 11:16
@@ -855,12 +947,13 @@ bfb06130-3f39-4cce-bde5-e7c6d31fa629,earth.bingo,available,14.99,,high,medium,5,
 a18dd282-607d-4a34-8a32-2665ac0b5bd0,recipient.bingo,available,14.99,,high,low,9,name.com,,,
 6c1e6e6c-c123-491a-b6c8-dd2bcf76f977,nathaniel.bingo,available,53.99,53.99,medium,low,9,namesilo,,,25/09/2026 14:50
 b1253cb8-c640-452b-ac00-219adfb8ff83,fails.bingo,available,53.99,53.99,medium,low,5,namesilo,,,18/09/2026 00:27
-dbacb7aa-fe96-40d4-b195-301c318cd6e6,valuable.bingo,available,14.99,,high,low,8,name.com,,,
+dbacb7aa-fe96-40d4-b195-301c318cd6e6,valuable.bingo,available,42.64,42.64,high,low,8,spaceship,,,28/09/2026 10:06
 ebd09b4e-2cc3-4b19-aa07-e1c55fc2ddcd,mortgaged.bingo,available,14.99,77.99,medium,low,9,name.com,,,25/08/2026 06:38
 ba601583-7235-4ef9-9387-0d26353f9996,resinous.bingo,available,51.98,68.98,medium,low,8,namecheap,,,09/09/2026 15:13
 0e270e23-6d90-4eba-8645-8e4b5cba1a43,hypnotised.bingo,available,14.99,77.99,medium,low,10,name.com,,,17/08/2026 22:48
 6ad58931-a45b-46eb-9426-89d460467b57,galax.bingo,available,53.99,53.99,medium,low,5,namesilo,,,23/09/2026 01:54
 38b2ab4e-e2f1-467b-890e-0189419ce1a4,algren.bingo,available,51.98,68.98,medium,low,6,namecheap,,,18/09/2026 07:18
+91192b8f-733e-4e57-9556-55eba76c5664,sabotage.bingo,available,53.99,53.99,medium,low,8,namesilo,,,28/09/2026 13:47
 5923e788-ca1c-48af-bb2e-2452c78d70b5,acetal.bingo,available,53.99,53.99,medium,low,6,namesilo,,,16/09/2026 23:47
 c2652431-1c8b-4295-a703-2acbc2bca379,gilbert.bingo,available,14.99,77.99,high,low,7,name.com,,,18/08/2026 23:22
 2a40e15b-8a58-43aa-9dcc-89b30df9122b,pentagon.bingo,available,41.2,41.2,high,low,8,cloudflare,,,28/09/2026 06:34
@@ -877,16 +970,18 @@ ad7c673d-68ab-4f83-9f8a-13ebcfaa0f7a,apparition.bingo,available,51.98,68.98,high
 cfaebf81-5b24-44ad-a0b5-acef61801f75,abrasion.bingo,available,51.98,68.98,medium,low,8,namecheap,,,16/09/2026 16:56
 638cbb05-5505-42f1-aff6-7224e060b88c,longitude.bingo,available,14.99,,high,low,9,name.com,,,
 d59a549c-59ec-47d0-a620-60b9c021fa38,nuthin.bingo,available,14.99,,medium,low,6,name.com,,,
+cb0ff547-736c-4851-a788-d9acd2012ef6,preparation.bingo,available,53.99,53.99,high,low,11,namesilo,,,28/09/2026 12:30
 2e99dbf3-43c4-48ec-b72d-bfc1ea0bc381,scrambled.bingo,available,51.98,68.98,high,low,9,namecheap,,,09/09/2026 23:46
 c442870d-ba58-4a93-b6c2-74a9ede9f67e,chicks.bingo,available,53.99,53.99,medium,low,6,namesilo,,,20/09/2026 03:49
 bb405014-50c9-4e49-af7a-d32d872a5be9,gaston.bingo,available,53.99,53.99,high,low,6,namesilo,,,25/09/2026 12:38
 f5ae5754-1eae-492a-9348-5bcfcab18b21,conjunct.bingo,available,14.99,77.99,high,low,8,name.com,,,12/08/2026 20:08
 7c2fc422-2a86-4f2b-b7d1-d1e97362a881,augmented.bingo,available,14.99,77.99,high,low,9,name.com,,,22/09/2026 12:42
+748980df-7916-4706-8bff-51f17aa9e42b,spends.bingo,available,41.2,41.2,medium,low,6,cloudflare,,,28/09/2026 08:36
 352d88cf-6e7a-451f-bacd-5c48cc25915c,emir.bingo,available,14.99,77.99,high,low,4,name.com,,,18/09/2026 17:55
 48d93107-4443-48b9-b9f4-53d37d0a4e96,fiend.bingo,available,14.99,77.99,medium,low,5,name.com,,,17/08/2026 21:54
 fda8527d-803d-43b9-962f-b0319ebbf260,transferred.bingo,available,53.99,53.99,medium,low,11,namesilo,,,27/09/2026 22:38
-049f3b0f-c952-4c52-ac3e-762454561356,forever.bingo,available,53.99,53.99,high,medium,7,namesilo,,,27/09/2026 02:31
-4fa50610-c2c0-453a-9a12-37177a503f30,literally.bingo,available,14.99,,high,low,9,name.com,,,
+049f3b0f-c952-4c52-ac3e-762454561356,forever.bingo,available,53.99,53.99,high,medium,7,namesilo,,,28/09/2026 14:47
+4fa50610-c2c0-453a-9a12-37177a503f30,literally.bingo,available,53.99,53.99,medium,low,9,namesilo,,,28/09/2026 16:10
 c94f14fc-4d17-4755-8e51-411e9c557d35,ironed.bingo,available,14.99,77.99,medium,low,6,name.com,,,22/08/2026 10:04
 6f05814f-f5b4-45e9-8d62-026584cd2ca8,dare.bingo,available,14.99,77.99,high,low,4,name.com,,,13/08/2026 17:51
 aa3458dc-cd0f-41d2-8dbe-bec2520cfbc6,combative.bingo,available,14.99,77.99,medium,low,9,name.com,,,
@@ -895,6 +990,7 @@ fe8b4030-b469-43dd-9c04-36a8e1b2e47d,obvious.bingo,available,53.99,53.99,high,lo
 a68a23a5-2db5-4604-8fe9-e98c93537e76,crummy.bingo,available,14.99,77.99,medium,low,6,name.com,,,11/08/2026 09:02
 559a55bf-f3ea-48e9-98e8-2110369c8018,yuman.bingo,available,51.98,68.98,medium,low,5,namecheap,,,13/09/2026 14:54
 e8c2873a-2397-4fb9-a202-e0676b96681a,alyssum.bingo,available,53.99,53.99,medium,low,7,namesilo,,,18/09/2026 15:23
+c9743eb9-f665-41a5-8d46-3b67a06579af,emmett.bingo,available,53.99,53.99,medium,low,6,namesilo,,,28/09/2026 08:01
 94022ef1-e7a3-4896-a2d5-6b36cd4e95a7,gloam.bingo,available,51.98,68.98,medium,low,5,namecheap,,,11/09/2026 21:43
 2f58f617-eb3c-49a1-a265-78b9ac38d02a,decorative.bingo,available,14.99,77.99,high,low,10,name.com,,,13/08/2026 02:51
 2ac03697-44ac-495d-b64a-efa078db583d,lightly.bingo,available,53.99,53.99,high,low,7,namesilo,,,25/09/2026 13:36
@@ -903,99 +999,3 @@ dffab794-a587-4950-ae06-94a50ea0d6ea,testis.bingo,available,53.99,53.99,medium,l
 ccbd2119-9a26-4988-ae2b-7a5055bf112c,hereabouts.bingo,available,51.98,68.98,medium,low,10,namecheap,,,15/09/2026 00:20
 303585f7-5683-4eda-8fec-75e5beb14287,smoothly.bingo,available,51.98,68.98,high,low,8,namecheap,,,16/09/2026 02:56
 d1f307cc-56c6-4776-84f4-7de36230c04c,jumentous.bingo,available,14.99,77.99,low,low,9,name.com,,,22/08/2026 14:21
-c4a92b65-ab3d-48b1-8c31-9b20daf074c5,fanged.bingo,available,14.99,77.99,medium,low,6,name.com,,,17/08/2026 22:05
-524e1a46-3994-4d0e-8787-57fed114b742,homespun.bingo,available,14.99,77.99,high,low,8,name.com,,,13/08/2026 04:23
-ae4720c5-8c09-4f4e-9c1e-252862b634b1,ascii.bingo,available,53.99,53.99,high,low,5,namesilo,,,18/09/2026 20:43
-536c4a48-2bea-44a0-8595-a59a8c74389a,nuevo.bingo,available,8.24,44.09,high,low,5,dynadot,,,28/09/2026 04:18
-c75824a8-e41c-4bd9-b322-9b1323f11c97,ana.bingo,available,14.99,,high,low,3,name.com,,,
-e7e23346-e867-48c6-a557-5524691d1280,requested.bingo,available,42.64,42.64,high,low,9,spaceship,,,27/09/2026 12:02
-871d2ab0-d3b5-47c4-a6b0-630bd46d2fee,crime.bingo,available,51.98,68.98,high,low,5,namecheap,,,24/09/2026 19:24
-a7909c1b-4e62-4d7d-89b9-20770735ecbc,poolside.bingo,available,14.99,,high,low,8,name.com,,,
-5b1d8a98-1179-40a1-bf20-213f5b2385ca,busch.bingo,available,53.99,53.99,medium,low,5,namesilo,,,27/09/2026 03:12
-e366e155-9749-44b4-82e8-9c35899e600b,acknowledged.bingo,available,14.99,,high,low,12,name.com,,,
-76ad11c5-3c4a-4454-9aff-7dc0927d8e15,askance.bingo,available,14.99,77.99,medium,low,7,name.com,,,07/08/2026 02:56
-db508661-fe87-4779-8528-9229235d6449,clinically.bingo,available,14.99,,medium,low,10,name.com,,,
-9b5432bd-34f8-4366-9a71-1467b4b387e1,faa.bingo,available,51.98,68.98,high,low,3,namecheap,,,25/09/2026 05:50
-3b00f004-0598-46e2-8b63-03a87545b9eb,airing.bingo,available,53.99,53.99,high,low,6,namesilo,,,17/09/2026 23:12
-61091557-ee90-4aba-94b8-8cd90dd7c9ad,pitahaya.bingo,available,53.99,53.99,medium,low,8,namesilo,,,16/09/2026 20:46
-4b9ecd4a-95f4-4113-84a2-5df4ce30d595,adenosine.bingo,available,53.99,53.99,medium,low,9,namesilo,,,17/09/2026 07:32
-82221a82-ad25-44eb-8fba-6c3dbf889031,crackpot.bingo,available,51.98,68.98,medium,low,8,namecheap,,,10/09/2026 00:10
-7f7b90ad-4012-456e-b3f6-c84c4c56dfd5,claus.bingo,available,51.98,68.98,medium,low,5,namecheap,,,27/09/2026 02:28
-2aa3681e-d73f-4c58-8151-5b7f42f185f5,sanious.bingo,available,14.99,77.99,medium,low,7,name.com,,,21/08/2026 17:49
-14a973a8-fe19-430a-bf82-d5b3a0d5f23c,eggplant.bingo,available,53.99,53.99,high,low,8,namesilo,,,21/09/2026 02:30
-95923835-19c9-44ae-9364-83c9e9b9164a,assorted.bingo,available,14.99,77.99,medium,low,8,name.com,,,07/08/2026 07:25
-0a5814ef-c85b-47c7-87a3-03c3b43ad045,atavist.bingo,available,51.98,68.98,medium,low,7,namecheap,,,11/09/2026 14:58
-ca3c1551-109b-493d-a4a8-c280f871273b,transient.bingo,available,53.99,53.99,high,low,9,namesilo,,,24/09/2026 14:26
-21581e43-6d8c-4977-89c5-509a27203efa,pronounced.bingo,available,53.99,53.99,high,low,10,namesilo,,,25/09/2026 16:53
-301aeb02-01f0-45c3-8cf7-dea96b13ff1e,chaotic.bingo,available,14.99,77.99,high,low,7,name.com,,,12/08/2026 02:11
-07230106-09bd-4ba8-a1b7-28d1946da709,autobus.bingo,available,53.99,53.99,medium,low,7,namesilo,,,21/09/2026 05:51
-942620f5-fee5-43c7-b755-1504f1d5404a,thundery.bingo,available,14.99,77.99,medium,low,8,name.com,,,13/08/2026 19:58
-f9b1a323-d2fe-4064-9d74-47fab3cadf94,philanthropic.bingo,available,14.99,,high,low,13,name.com,,,
-590ea90a-469e-4a5e-9e8c-ed11dc5afadd,showy.bingo,available,14.99,77.99,high,low,5,name.com,,,18/08/2026 06:20
-14d46edd-322b-400c-9d51-324cf333b66e,rail.bingo,available,14.99,,high,low,4,name.com,,,
-d5672742-e709-4838-9d39-3cb47dce4f65,shahn.bingo,available,53.99,53.99,high,low,5,namesilo,,,23/09/2026 07:28
-d38489ac-4c9f-41ae-86b8-fc27fc7548de,natives.bingo,available,53.99,53.99,medium,low,7,namesilo,,,18/09/2026 01:41
-23d133da-aa79-4b55-b725-0ef0ec6aafad,victories.bingo,available,53.99,53.99,high,low,9,namesilo,,,18/09/2026 09:23
-5b0703da-8d4c-4d56-b4ba-646fc5a63c0d,serrated.bingo,available,51.98,68.98,medium,low,8,namecheap,,,03/09/2026 22:08
-674b346b-2a98-44b9-86a8-42c28fca8a22,nookie.bingo,available,14.99,77.99,medium,low,6,name.com,,,18/08/2026 17:31
-744823dd-3591-4554-9938-c0edc007a2a3,hayseed.bingo,available,14.99,77.99,medium,low,7,name.com,,,21/08/2026 08:05
-c22a8afd-0539-4332-ad34-e7ce70eb1c96,range.bingo,available,91.99,91.99,high,low,5,godaddy,,,28/09/2026 01:38
-e10f711c-fea9-40c5-bbdd-69a6447e1898,lorazepam.bingo,available,14.99,77.99,medium,low,9,name.com,,,20/09/2026 21:27
-d6d6a3d0-6bad-47c3-b7f8-ca38e156a3b8,observation.bingo,available,14.99,77.99,high,low,11,name.com,,,26/09/2026 00:49
-6526c8cd-8aae-46f9-9ec1-0d7f60399e61,checkup.bingo,available,14.99,77.99,high,low,7,name.com,,,24/08/2026 18:57
-41d3a18f-c454-4b39-9c58-75eab02839f3,martha.bingo,available,14.99,,high,low,6,name.com,,,
-e3aed6db-2a97-4842-982b-0c53a2a4ebe7,cough.bingo,available,51.98,68.98,high,low,5,namecheap,,,24/09/2026 18:37
-b30e6b57-e296-43d0-b3ce-806e590068f2,allergic.bingo,available,51.98,68.98,high,low,8,namecheap,,,22/09/2026 01:25
-1da62a09-94cf-4297-9711-901b0ccfdd12,vaughn.bingo,available,51.98,68.98,high,low,6,namecheap,,,27/09/2026 11:16
-b2720194-eec8-4c5b-a3c1-058f6d3e1942,ancients.bingo,available,14.99,77.99,high,low,8,name.com,,,19/09/2026 03:51
-f4f360fc-9aa8-48b9-b6cb-270bdda4163f,mordant.bingo,available,14.99,77.99,medium,low,7,name.com,,,13/08/2026 02:11
-27295fa5-a7cb-42c3-874b-111740d02781,favor.bingo,available,53.99,53.99,high,low,5,namesilo,,,27/09/2026 03:53
-b927b6f3-2b92-43e2-acb0-ca588bd3c9c5,breeding.bingo,available,14.99,77.99,high,low,8,name.com,,,11/08/2026 03:36
-c14146d1-1f82-400f-acb4-f7791a3aea9a,cornered.bingo,available,14.99,77.99,medium,low,8,name.com,,,07/08/2026 11:02
-5e5689d1-174b-4e7c-8919-146ee38a298b,despise.bingo,available,14.99,,high,low,7,name.com,,,
-eed5b817-f56a-4407-bfdb-86ece3b7527a,thee.bingo,available,14.99,,medium,low,4,name.com,,,
-534a7c58-6635-468e-be7a-044412a4810c,propranolol.bingo,available,53.99,53.99,high,low,11,namesilo,,,20/09/2026 00:29
-7a845b14-b1de-4cfe-919c-fd78616b33c9,zombie.bingo,available,53.99,53.99,high,low,6,namesilo,,,21/09/2026 07:05
-8df5b775-bc49-4b87-bfdd-2e0055a90f0e,evan.bingo,available,53.99,53.99,high,low,5,namesilo,,,25/09/2026 13:11
-1649d4ca-7337-4d04-b902-6f61d06258a1,distinctly.bingo,available,51.98,68.98,high,low,10,namecheap,,,14/09/2026 13:19
-78a88111-baf9-4c8f-816f-73f52866128e,autogyro.bingo,available,53.99,53.99,medium,low,8,namesilo,,,21/09/2026 06:23
-6caf9f6f-0ee5-4f15-835b-9610e2383058,notecase.bingo,available,53.99,53.99,medium,low,8,namesilo,,,23/09/2026 16:18
-a3044cc5-f930-4c0f-b978-7b7a7a4d6685,hexed.bingo,available,14.99,77.99,medium,low,5,name.com,,,21/08/2026 07:51
-de0bb4f2-bfbd-40ac-b5c4-2bf3ce5e3000,forwards.bingo,available,14.99,77.99,high,low,8,name.com,,,18/08/2026 12:49
-95a0b886-c779-4b98-835a-93d39cee5bff,stared.bingo,available,53.99,53.99,medium,low,6,namesilo,,,18/09/2026 02:18
-7fe21e78-397c-4961-9543-b63a9cfa0817,aecium.bingo,available,51.98,68.98,medium,low,6,namecheap,,,17/09/2026 12:08
-16d61264-d36c-4998-b645-51baa18df871,vertically.bingo,available,53.99,53.99,medium,low,10,namesilo,,,16/09/2026 10:53
-2c014cbd-61ef-46d8-9418-64db114674fa,tawdry.bingo,available,14.99,77.99,medium,low,6,name.com,,,12/08/2026 03:29
-595718a2-a0a7-4dff-a235-50e66ae8abe6,waiter.bingo,available,14.99,,high,low,6,name.com,,,
-940fcfe4-09c4-4d12-85ca-2fb0b7d55977,lingually.bingo,available,51.98,68.98,medium,low,9,namecheap,,,15/09/2026 12:28
-cec1de61-fd88-458f-8099-fdb0de3e65b1,bemock.bingo,available,14.99,77.99,medium,low,6,name.com,,,25/08/2026 02:26
-05f59144-bf49-4018-a6e7-b14e16d8bb76,drab.bingo,available,14.99,77.99,medium,low,4,name.com,,,14/08/2026 11:43
-dc7aad8c-58b0-49a0-9615-c75b58e8b4d3,mediocre.bingo,available,51.98,68.98,high,low,8,namecheap,,,25/09/2026 18:51
-157fd07c-737d-4ae3-a799-7dcf0a1b0b56,airdrop.bingo,available,53.99,53.99,high,low,7,namesilo,,,17/09/2026 23:06
-8721f291-3313-4ae5-acd4-6ed738df19af,indie.bingo,available,14.99,77.99,high,medium,5,name.com,,,22/08/2026 03:00
-04cdd2a9-bcbc-47e0-829a-2a44b8e64fad,cinque.bingo,available,14.99,77.99,medium,low,6,name.com,,,
-a47e40b3-0870-4da2-8435-508ae90dfadd,berber.bingo,available,51.98,68.98,high,low,6,namecheap,,,23/09/2026 09:07
-a7aa3ed7-6cdc-4efb-a520-eba7680d6cb6,nondrinker.bingo,available,14.99,77.99,medium,low,10,name.com,,,
-42f93cfb-4bb5-4df8-b1ad-c3752f603510,cystic.bingo,available,14.99,77.99,medium,low,6,name.com,,,13/08/2026 14:36
-b0ba36b4-6ac2-47ed-a036-c38f8c4508c8,endow.bingo,available,53.99,53.99,high,low,5,namesilo,,,24/09/2026 23:37
-022aeeda-242c-4db5-8ddb-7e9407e84c38,takeaways.bingo,available,53.99,53.99,medium,low,9,namesilo,,,18/09/2026 05:02
-37a80898-6c0c-4bea-8681-ff3f70d9b791,leaving.bingo,available,51.98,68.98,high,low,7,namecheap,,,24/09/2026 22:37
-76d24fa8-e516-472f-a0f9-55343d5096a2,abel.bingo,available,51.98,68.98,high,low,4,namecheap,,,16/09/2026 14:57
-0014fcfe-5a4d-4620-bb6d-8bfbcd2ac200,bound.bingo,available,51.98,68.98,high,low,5,namecheap,,,22/09/2026 07:27
-5d97d6c6-c064-4d01-b304-2481c502afc6,deputy.bingo,available,14.99,,high,low,6,name.com,,,
-b365176e-d879-4c4e-9239-9862a0fd7a81,monogamous.bingo,available,14.99,77.99,high,low,10,name.com,,,25/08/2026 05:11
-bd41b48b-f302-474e-8f45-bb3ce1bb07b8,control.bingo,available,53.99,53.99,high,low,7,namesilo,,,25/09/2026 05:47
-4ea31581-c3d9-45e7-bca6-5381345dfdf9,inheriting.bingo,available,14.99,77.99,medium,low,10,name.com,,,22/08/2026 05:04
-c8fcc954-008b-4308-a940-e242f769c09e,doctorfish.bingo,available,51.98,68.98,medium,low,10,namecheap,,,16/09/2026 20:58
-cb61fdcb-1df1-4306-a40f-9197cb9e47f4,unpunished.bingo,available,51.98,68.98,medium,low,10,namecheap,,,12/09/2026 17:37
-fb550c8b-0194-4b58-bd8c-a0ad2f8fb20d,rustle.bingo,available,51.98,68.98,high,low,6,namecheap,,,13/09/2026 11:37
-662f4770-64a6-4dfe-9a3c-b54143f25bfb,consultive.bingo,available,14.99,77.99,medium,low,10,name.com,,,
-bea32241-87fe-43c0-9aa0-8f2cc121fb2c,puffed.bingo,available,51.98,68.98,high,low,6,namecheap,,,09/09/2026 05:37
-74e14b53-2a33-40b8-8490-7f4608d20c42,peal.bingo,available,14.99,77.99,medium,low,4,name.com,,,09/09/2026 18:22
-3c6ffc44-d48e-4d03-b3a9-3f9c27f07633,arng.bingo,available,53.99,53.99,medium,low,4,namesilo,,,20/09/2026 08:02
-76c5c123-333d-4628-aa00-d84c04ae2b64,swimmer.bingo,available,53.99,53.99,high,low,7,namesilo,,,22/09/2026 13:29
-9678c660-8a8f-4752-abc5-4a4626410998,glamourous.bingo,available,14.99,77.99,high,low,10,name.com,,,19/08/2026 00:17
-d9e04ac1-3a5f-4fe1-bd88-859747a1971b,subclavian.bingo,available,51.98,68.98,medium,low,10,namecheap,,,10/09/2026 23:40
-970fb2f9-f0d7-438b-9dde-e6d9737d90a2,residence.bingo,available,53.99,53.99,high,low,9,namesilo,,,16/09/2026 16:23
-d8a1a343-10e0-4852-8b87-cadbb425bfca,baguet.bingo,available,51.98,68.98,medium,low,6,namecheap,,,21/09/2026 18:30
-96dabd01-3107-44d5-b24e-4ae761804d3f,cleverness.bingo,available,53.99,53.99,high,low,10,namesilo,,,24/09/2026 15:36
